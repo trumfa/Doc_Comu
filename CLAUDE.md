@@ -2,7 +2,7 @@
 
 @AGENTS.md
 
-(El fitxer anterior, `AGENTS.md`, s'importa sempre: és el protocol de consulta i de vigència.)
+(`AGENTS.md` s'importa sempre: és el protocol de consulta i de vigència.)
 
 - **Per respondre preguntes sobre la documentació**: segueix [`AGENTS.md`](AGENTS.md) (índexs primer, `docs/` com a zona de consulta, comprova sempre la vigència).
 - **Per incorporar o reorganitzar documents**: segueix [`convencions/CURACIO.md`](convencions/CURACIO.md). Resum:
