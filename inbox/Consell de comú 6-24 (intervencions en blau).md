@@ -1,0 +1,590 @@
+CONSOLAT DELS HBLES. SRS. LAURA MAS BARRIONUEVO I XAVIER BENEDICTE
+
+FERNÁNDEZ CARRIO
+
+SESSIÓ ORDINÀRIA DEL CONSELL DE COMÚ DEL 25 D’ABRIL DEL 2024
+
+ACTA NÚM. 6/24
+
+A Casa Comuna, el 25 d’abril del 2024, a les 17 h, es reuneix el Consell de Comú en sessió ordinària presidida per l’Hble. Sra. LAURA MAS BARRIONUEVO, cònsol major, i amb l’assistència de l’Hble. Sr. XAVIER BENEDICTE FERNÁNDEZ CARRIO, cònsol menor, l’Hble. Sr. JOAN ALBERT SANS URGELL, conseller major, l’Hble. Sr. NINO MAROT CRESPO, conseller menor, i els consellers de Comú: l’Hble. Sra. SABRINA GREGOIRE TORRES , l’Hble. Sr. BENJAMÍ RASCAGNÈRES TRAVESSET, l’Hble. Sr. EDITH QUIRÓS VILA, l’Hble. Sra. SILVIA RAMOND PUNSOLA, l’Hble. Sra. VERÒNICA SOLSONA BONREPAUX, l’Hble. Sr. ANDREU RIBA VALLS tots ells membres del “Grup polític UP + DA + INDEPENDENTS” i l'Hble. Sra. MARTA PUJOL PALAU i l'Hble. Sr. JOSÉ LUIS AGUDO GARCIA, membres del “Grup polític Avancem “ hi assisteix, també, el Sr. JORDI BABI MONTELLÀ, secretari general del Comú.
+
+La sessió ha estat convocada per la cònsol major en aplicació de les disposicions de l’Ordinació de modificació del Reglament d’organització i funcionament dels Comuns i amb l’ordre del dia següent:
+
+1. Informació relativa als acords presos per la Junta de Govern (Acta 7/24 i 8/24).
+
+2. Examen i aprovació, si escau, de les propostes d’acord de la Junta de Govern.
+
+3. Proposta de nomenament, si escau, de representants comunals al Consell d’Administració de la societat Gasopas i de la societat Sercensa.
+
+4. Precs i preguntes.
+
+Després de saludar a tots els presents, la cònsol major obre la sessió del Consell de Comú i, a continuació, s’inicia l’examen dels temes fixats a l’ordre del dia.
+
+1. INFORMACIÓ RELATIVA ALS ACORDS PRESOS PER LA JUNTA DE GOVERN.
+
+❖ vista l’acta de la JUNTA DE GOVERN núm. 7/24, del 26.3.2024, s’informa dels acords presos en aquella reunió:
+
+PROPOSTES DE LES COMISSIONS PERMANENTS
+
+A. COMISSIÓ D’ADMINISTRACIÓ (DEPARTAMENT D’ADMINISTRACIÓ): vista l’acta núm. 6/24, del 21.3.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+SOL·LICITUDS: s’aproven les 18 sol·licituds del Departament d’Administració següents:
+
+- 14 sol·licituds d’obertures i/o modificacions de Comerç i Indústria. - 2 sol·licituds de baixa de Comerç i Indústria. - 2 sol·licitud de rètols d’establiments comercials.
+
+ALTRES QÜESTIONS
+
+1.- Obertura de Comerç i Indústria: vista la sol·licitud presentada núm. E/012016- 2023 del 30.11.2023; vist l’informe núm. INS-489/2023 de la Secció de Comerç i Indústria; s’acorda autoritzar l’obertura del negoci “RESTAURANT CAFETERIA CASA BEJA” al carrer Prat Gran de l’Areny, núm. 1, d’Encamp, destinat a restaurant i bar.
+
+vista l’acta de la JUNTA DE GOVERN núm. 8/24, del 18.4.2024, s’informa dels acords presos en aquella reunió:
+
+PROPOSTES DE LES COMISSIONS PERMANENTS
+
+A. COMISSIÓ DE CIRCULACIÓ (SERVEI DE CIRCULACIÓ): vista l’acta núm. 4/24, del 9.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+1.- Adjudicació del concurs públic pel manteniment i reparació dels parquímetres Metric Aura Elite: vist l’informe de valoració de les ofertes de data 2.4.2024; vist l’informe de la Mesa de Contractació EC2024003, en el qual es proposa que sigui adjudicat el manteniment i reparació dels parquímetres a l’empresa Maviparq 09. s’acorda l’adjudicació del manteniment i reparació dels parquímetres, a l’empresa
+
+Maviparq
+
+09, a imputar a la partida pressupostària 2500/13300001/21300, per un import de 42 € per parquímetre, que pels propers 8 mesos tindrà un cost dels 54 parquímetres de 18.144 €.
+
+2.- Compra de vestimenta per als agents de circulació 2024: vist que l’empresa Dipsa, va ésser l’adjudicatària de la vestimenta dels agents de circulació del Comú d’Encamp; vist l’informe 14/24 del cap del Servei de Circulació;
+
+s’acorda adjudicar la compra de la vestimenta i impermeables dels agents de circulació comunals corresponent a l’any 2024, a l’empresa Dipsa, per un import total de 12.820,83€; així com, adjudicar la compra dels impermeables per un import total de 5.730,23€.
+
+SOL·LICITUDS: s’acorda aprovar les resolucions proposades per a les sol·licituds que figuren en l’annex.
+
+B. COMISSIÓ DE CULTURA, INFÀNCIA I JOVENTUT (DEPARTAMENT DE CULTURA, INFÀNCIA I JOVENTUT): vista l’acta núm. 6/24, del 16.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+CULTURA
+
+1.- Subvenció puntual pel Cor de Rock d’Encamp: vist l’informe del Departament de Cultura, Infància i Joventut; vist l’informe número IC 20240047 d’Intervenció Comunal; s’acorda atorgar la subvenció puntual demanada amb un import de 5.000 €, a fi que puguin realitzar l’intercanvi i els actes previstos en el marc de les activitats que presenten.
+
+2.- Contractació d’un musical infantil per l’any 2024: vist el pressupost presentat adjunt a l’acta de la comissió; s’acorda la contractació del musical infantil Oz de la Companyia El Trencadís pel 12.5.2024, a l’empresa Gatzara Espectacles, SL per un import total de 8.170€, IGI no inclòs.
+
+3.- Lloguer dels envelats per les festes d’Encamp i El Pas de la Casa 2024: vistos els pressupostos presentats adjunts a l’acta de Comissió; vist l’informe del departament de data 10.4.2024 ; vista l’acta del sorteig realitzat per l’adjudicació; s’acorda adjudicar la coberta tipus iglú i les quatre carpes de 3x3 tipus haima pels camerinos a l’empresa Gatzara Espectacles, SL per un import de 10.800 €, IGI no inclòs.
+
+4.- Lloguer de les carpes del Sopar de Gala 2024: vistos els pressupostos presentats adjunts a l’acta de Comissió; vist l’informe del departament de data 10.4.2024; vista l’acta del sorteig realitzat per l’adjudicació; s’acorda la contractació del lloguer de les 13 carpes tipus haima pel Sopar de Gala 2024 a l’empresa MG Produccions per un import de 7.250 €, IGI no inclòs. 5.- Lloguer dels escenaris per les Festes d’Encamp i El Pas de la Casa 2024: vistos els pressupostos presentats adjunts a l’acta de Comissió; vist l’informe del departament de data 9.4.2024; vista l’acta del sorteig realitzat; s’acorda la contractació del lloguer dels escenaris a l’empresa Gatzara Espectacles, SL per un import de 11.980 €, IGI no inclòs.
+
+6.- Vigilància i seguretat de la Festa del Poble i la Festa Major d’Encamp 2024: vistos els pressupostos presentats adjunts a l’acta de la comissió; s’acorda la contractació de la vigilància i seguretat de la Festa del Poble i Festa Major 2024, a l’empresa Valira Seguretat, per un import de 4.662 € pel que fa a la Festa del Poble 2024 i pel que fa a la Festa Major d’Encamp per un import de 2.610 €. 7.- Programació de les biblioteques comunals d'Encamp i del Pas de la Casa 2024: vist l’informe de la cap d’Àrea de les Biblioteques Comunals de data 4.3.2024; s’acorda aprovar la programació de les activitats per l’any 2024 de la biblioteca comunal d'Encamp per un import de 8.650 € i de la biblioteca comunal del Pas de la Casa per un import de 2.600 €.
+
+8.- Aplec de la Sardana 2024: vistos els pressupostos presentats adjunts a l’acta de la Comissió, per la celebració del 35è Aplec de la Sardana i el 29è concurs de colles sardanistes que tindrà lloc els dies 31 d’agost i 1 de setembre d’enguany; vist l’informe del coordinador de Patrimoni Cultural, Museus i Tradicions; s’acorda la contractació de les colles sardanistes l’Associació Musical la Flama de Farners per un preu de 5.602,50 € i de la Jovenívola de Sabadell per un preu de 3.420,00 €.
+
+JOVENTUT
+
+1.- Autorització de pagament de la relació de factures superiors a 5.000 €: vista la relació de factures d’imports superiors als 5.000 € que han estat adreçades al Departament de Cultura, Infància i Joventut segons quadre adjunt; s’acorda autoritzar-ne el pagament.
+
+2.- Convocatòria del concurs públic per a la contractació d’espectacles i activitats pel XXX Saló de la Infància i de la Joventut d’Andorra per a l’any 2024- 2025: s’acorda la convocatòria d’un concurs públic per a la contractació d’espectacles i activitats pel XXX Saló de la Infància i de la Joventut d’Andorra per a l’any 2024-2025, de caràcter nacional i la modalitat de contractació ordinària i pel procediment obert, d’acord amb les condicions que s’estableixen en el plec de bases que s’adjunta.
+
+3.- Reglament del Consell de Joves: vista la proposta d’aquest reglament; s’acorda trametre al Consell de Comú la seva aprovació.
+
+C. COMISSIÓ DE FINANCES (ÀREA DE FINANCES): vista l’acta núm. 4/24, de l’11.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+1.- Sol·licitud d'ajornament o fraccionament: vistes les sol·licituds adjuntes per al seu estudi i anàlisi de fraccionament de deute tributari; vista l’Ordinació tributària del Comú d’Encamp per l’any 2024 i, en concret, els articles relatius a les sol·licituds d’ajornament i fraccionament dels pagament, articles 66 a 74; s’acorda notificar la resolució corresponent als informes 280 i 281 i l’import amb els terminis del fraccionament. ¡Error! No se encuentra el origen de la referencia.
+
+| Núm. Sol·licitud | Deute | Núm. Mensualitats | Resolució | Informe |
+| --- | --- | --- | --- | --- |
+| SAF-4136/2024 | 308,64 | 5 | FAVORABLE | 280 |
+| SAF-4816/2024 | 1.402,20 | 12 | FAVORABLE | 281 |
+
+2.- Modificació de l'Ordinació del 22-12-2023 de preus públics del Comú d’Encamp per l’any 2024: vist que en la reformulació de les tarifes dels centres esportius en l’Ordinació de preus públic del Comú d’Encamp per l’any 2024, es va eliminar l’exempció existent de pagament de matrícula pels nous abonaments de la gent gran; vista la proposta de modificació de l’Ordinació recuperant l’exempció esmentada; així mateix, vista la proposta d’actualització de les tarifes de les setmanes joves, ja que a l’estar organitzat per tots els comuns en el moment d’aprovar l’Ordinació vigent no es disposava de les tarifes actualitzades;
+
+|  | EMPRESA |  |  | DATA |  |  | CONCEPTE |  |  | IMPORT (SENSE IGI) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ESTATGES, SLU |  |  | Febrer 24 |  |  | Monitoratge Àrea Encamp |  |  | 15.374,04 € |  |  |
+| ESTATGES, SLU |  |  | Març 24 |  |  | Monitoratge Àrea Encamp |  |  | 14.111,68 € |  |  |
+
+s’acorda trametre al Consell de Comú per la seva aprovació la modificació de l’Ordinació dels preus públics del Comú d’Encamp per l’any 2024, eliminant la matrícula pels nous abonaments de la gent gran i actualitzant els preus de les activitats de les setmanes joves del 2024.
+
+En la reunió de la Comissió l’Hble. Sra. Marta Pujol Palau, consellera d’Avancem, ha volgut fer constar que en aquesta modificació hauria estat convenient incloure una reducció de les tarifes, en la mesura del possible per fomentar els hàbits saludables en el col·lectiu de la gent gran.
+
+3.- Modificació del calendari de sessions de les Comissions de Finances pel 2024: vista la disponibilitat de certs membres de la Comissió de Finances; s’acorda modificar el dia previst per celebrar les sessions de les Comissions de Finances passant dels dilluns a les 9.00, als dijous a les 9.00.
+
+El calendari de sessions pel 2024 és el següent:
+
+11 d’abril
+
+16 de maig
+
+13 de juny
+
+11 de juliol
+
+12 de setembre
+
+10 d’octubre
+
+14 de novembre
+
+5 de desembre
+
+D. COMISSIÓ DE REACTIVACIÓ ECONÒMICA (ÀREA DE REACTIVACIÓ ECONÒMICA): vista l’acta núm. 4/24, del 17.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+1.- Adjudicació del concurs públic pel subministrament de carpes per a la 3a fira multisectorial d’Encamp - III Enfira’t i per a la FesTAPA: vist l’informe núm. 2024-01 del Departament de Reactivació Econòmica i Turisme, Àrea de Reactivació Econòmica relatiu a l’anàlisi de les ofertes rebudes i a la proposta d’adjudicació del subministrament de carpes per a la 3a fira multisectorial Enfira’t i per la FesTapa; vist l’informe de la Mesa de contractació núm. EC2024004 , de data 15.04.24;
+
+s’acorda l’adjudicació del subministrament de carpes per a la 3a fira multisectorial d’Encamp - III Enfira’t i per a la FesTapa a l’empresa Gatzara Espectacles, SL, per un import total de 27.584,30 €, IGI inclòs pel Lot 1 i per un import de 6.091,05 €, IGI inclòs pel Lot 2.
+
+2.- Adquisició de material comunicatiu de la 3a fira multisectorial d’Encamp - III Enfira’t: vist el pressupost presentat adjunt a l’acta de la comissió; vist l’informe núm. 2024-04 del Departament de Reactivació Econòmica i Turisme, Àrea de Reactivació Econòmica;
+
+S’acorda l’adquisició del material comunicatiu de la 3a Fira multisectorial d’Encamp a l’empresa Lexviral per un import de 940,50 €, IGI inclòs.
+
+E. COMISSIÓ D’ESPORTS (DEPARTAMENT D’ESPORTS): vista l’acta núm. 4/24, de l’11.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+1.- Autorització de pagament de la relació de factures superior a 5.000 €: vista la relació de factures d’imports superior als 5.000 € que han estat adreçades al Departament d’Esports; es proposa el pagament segons quadre adjunt; s’acorda aprovar-ne el pagament.
+
+2.- Aprovació de la subvenció per l’Esquí Club Encamp – Pas de la Casa per la temporada 2023-2024: vist el Reglament de subvencions per a entitats esportives i esportistes, associacions de joves i activitats esportives puntuals vigent; vista la documentació presentada per l’Esquí Club Encamp - Pas de la Casa a l’expedient SEEJ-6068/2023 de l’annexa; vist l’informe del Departament d’Esports número núm. 2024 01; vist l’informe d’Intervenció Comunal núm. 20240039; s’acorda l’atorgament d'una subvenció valorada en 1.660,10 € en concepte d’ús d’instal·lacions esportives i una subvenció monetària de 9.804,85 €. 3.- Aprovació de la subvenció puntual per la Federació Andorrana de Triatló: vist el Reglament de subvencions per a entitats esportives i esportistes, associacions de joves i activitats esportives puntuals vigent; vista la documentació presentada per la Federació Andorrana de Triatló a l’expedient SEEJ-4807/2024 de l’annexa; vist l’informe del Departament d’Esports núm. 2024 21; vist l’informe d’Intervenció Comunal núm. IC 20240035; s’acorda l’atorgament d’una subvenció puntual de 1.000 € a la Federació Andorrana de Triatló, per l’organització del Campionat Nacional de Duatló a Encamp i 3 esdeveniments promocionals.
+
+4.- Aprovació de la subvenció per al Club Natació Encamp: vist el Reglament de subvencions per a entitats esportives i esportistes, associacions de joves i activitats esportives puntuals vigent; vista la documentació presentada pel Club Natació Encamp, a l’expedient SEEJ-5066/2024 de l’annexa; vist l’informe 2024 22 del Departament d’Esports; vist l’informe d’Intervenció Comunal núm. IC 20240040; s’acorda l’atorgament d’una subvenció de 750,00 € al Club Natació Encamp.
+
+5.- Aprovació de l’esponsorització de l’esportista encampadana Sra. Estefania Troguet Torres: vist el Reglament de subvencions per a entitats esportives i esportistes, associacions de joves i activitats esportives puntuals vigent; vista la documentació presentada per l’esportista encampadana d’alpinisme, Sra. Estefania Troguet Torres, a l’expedient SEEJ-3998/2024 de l’annexa; vist l’informe del Departament d’Esports número 2024 16; vist l’informe d’Intervenció Comunal número IC20240033; s’acorda l’aprovació de l’esponsorització de 4.500 €; en contraprestació l’esportista ha de portar, en un lloc visible, la marca oficial del Comú d’Encamp en la indumentària en les expedicions en què participa. En la reunió de Junta de Govern l’Hble. Sra. Sabrina Gregoire Torres s’absenta i s’absté en el tractament d’aquest punt, atesa la seva relació de parentiu amb l’esportista.
+
+|  | EMPRESA |  |  | DATA |  |  | CONCEPTE |  |  | IMPORT |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| STAGE Fra 84 |  |  | Març 24 |  |  | Socorrisme aquàtic Complex |  |  | 6.506,59 |  |  |
+| STAGE Fra 85 |  |  | Març. 24 |  |  | Socorrisme aquàtic CEPas |  |  | 6.091,24 |  |  |
+| STAGE Fra 89 |  |  | Març. 24 |  |  | Monitoratge esportiu Complex (natació, sala, act. dirigides) |  |  | 10.744,17 |  |  |
+
+6.- Aprovació de l’esponsorització a l’esportista encampadà en automobilisme Sr. Edgar Montellà Adran: vist el Reglament de subvencions per a entitats esportives i esportistes, associacions de joves i activitats esportives puntuals vigent; vista la documentació presentada per l’esportista encampadà en automobilisme, Sr. Edgar Montellà Adran, a l’expedient SEEJ-3763/2024 de l’annexa; vist l’informe del Departament d’Esports número 2024 17; vist l’informe d’Intervenció Comunal número IC20240042; s’acorda atorgar-li una subvenció de 2.000 € en concepte d’esponsorització; en contraprestació l’esportista ha de portar, en un lloc visible, la marca oficial del Comú d’Encamp en la indumentària en les competicions en què participa.
+
+El pagament d’aquesta esponsorització s’efectuarà, d’acord amb el calendari de competició presentat per l’esportista, de la forma següent:
+
+- Un primer pagament de 1.000 € a l’inici de la temporada. - Un segon pagament de 1.000 € al final de la temporada. 7.- Aprovació de l’esponsorització a l’esportista encampadà en automobilisme Sr. David Arajol Levievre: vist el Reglament de subvencions per a entitats esportives i esportistes, associacions de joves i activitats esportives puntuals vigent; vista la documentació presentada per l’esportista encampadà en automobilisme, Sr. David Arajol Levievre, a l’expedient SEEJ-3813/2024 de l’annexa; vist l’informe del Departament d’Esports número 2024 18; vist l’informe d’Intervenció Comunal número IC20240034; vista la proposta per atorgar-li un abonament anual per als Centres esportius de la parròquia, valorat en 440,70 euros; vist que en el marc de la reunió de la Comissió l’Hble. Sr. José Luis Agudo Garcia, proposa augmentar la subvenció per a poder sufragar els costos de les competicions; vist l’informe del Departament d’Esports, número 2024 25; vist l’informe d’Intervenció Comunal número IC20240054; s’acorda atorgar un abonament anual per als Centres esportius de la parròquia i una subvenció de 500 € en concepte d’esponsorització; en contraprestació l’esportista ha de portar, en un lloc visible, la marca oficial del Comú d’Encamp en la indumentària en les competicions que participa.
+
+8.- Aprovació i signatura del contracte amb Purito Events, SL per la col·laboració de La Purito Andorra: vista la proposta de contracte; vist l’informe del Departament d’Esports 2024 12; vist l’informe d’Intervenció Comunal núm. 20240037; vist el cost aproximat d’uns 15.000 € anuals per les despeses d’organització que ha d’assumir el Comú a part de l’aportació directa al promotor; s’acorda trametre al Consell de Comú, l’aprovació i signatura del contracte per quatre anys amb Purito Events, SL amb una col·laboració econòmica de 30.000 €, IGI no inclòs, més les despeses d’organització esmentades, per a l’organització de La Purito Andorra els dies 10 i 11 d’agost del 2024 a Encamp.
+
+9.- Adjudicació de la compra de taules i para-sols per la terrassa del bar de la piscina de la Mola: vistes les ofertes presentades adjuntes a l’acta de la comissió per la compra de 22 taules i 8 para-sols, per la terrassa del bar de la piscina de la Mola; vist l’expedient OSO-4096/2024 a l’annexa; s’acorda adjudicar la compra del material a l’empresa Hotelco per un import de 9.713,60 €, IGI no inclòs.
+
+F. COMISSIÓ D’ESPORTS (DEPARTAMENT D’ESPORTS): vista l’acta núm. 5/24, del 17.4.2024, s’acorda donar curs a la proposta continguda en el punt següent:
+
+1.- Aprovació i signatura del conveni amb Iconic, SL: vista la proposta de conveni; s’acorda l’aprovació i signatura del conveni amb Iconic, SL per a la utilització de les instal·lacions esportives comunals pel desenvolupament d’estades esportives d’alt nivell, fins al dia 31.12.2027.
+
+G. COMISSIÓ D’INFRAESTRUCTURES I MANTENIMENT: (DEPARTAMENT D’INFRAESTRUCTURES I MANTENIMENT): vista l’acta núm. 4/24, del 17.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+1. Adjudicació dels treballs per al subministrament i per a la col·locació de vinil al terra de la planta setena de Casa Comuna d’Encamp: vista la la voluntat de continuar amb la mateixa homogeneïtat estètica dels vinils instal·lats al terra de les plantes segona, tercera i quarta de Casa Comuna; vistos els pressupostos presentats adjunts a l’acta de la comissió; vist l’informe del director del departament;
+
+s’acorda adjudicar els treballs per al subministrament i per a la col·locació de vinil d’un gruix de 3,5 mm, al terra de la planta setena de Casa Comuna d’Encamp, a l’empresa Ferba, SL per un import de 9.922,28€, IGI inclòs.
+
+2. Adjudicació dels treballs per la substitució de tot el conjunt de la porta d’alumini que dona accés a la piscina del Complex Esportiu d’Encamp: vist el mal estat de conservació en que es troba la porta d’alumini que dona accés a la piscina del Complex Esportiu i Sociocultural d’Encamp; vist el pressupost presentat adjunt a l’acta de la comissió; vist l’informe del director del departament;
+
+s’acorda adjudicar els treballs per la substitució de tot el conjunt de la porta d’alumini que dona accés a la piscina del Complex Esportiu i Sociocultural d’Encamp, a l’empresa Mafida, Sau per un import de 4.549,26€, IGI inclòs).
+
+3. Adjudicació del concurs públic nacional per la prestació dels serveis de muntatge, desmuntatge, manteniment de l’enllumenat públic de Nadal i treballs complementaris de la parròquia d’Encamp, PB-336/23: vist l’informe de valoració de les ofertes de data 2.4.2024; vist l’informe de la Mesa de Contractació EC2024002;
+
+s’acorda l’adjudicació del concurs públic nacional per la prestació dels serveis de muntatge, desmuntatge, manteniment de l’enllumenat públic de Nadal i treballs complementaris de la parròquia d’Encamp, a l’empresa Sotrel, SL, per un import de 127.267,20€, IGI inclòs pels 3 anys de contracte, a raó de 42.422,40€/any, IGI inclòs.
+
+4. Autorització de pagament d’una factura de més de 5.000€, per als treballs per un sondeig piezomètric en una parcel·la comunal a les Pardines: vist que el Comú té la necessitat de construir un pou per a una nova captació pel poble d’Encamp, per poder garantir el subministrament d’aigua a l’ETAP de les Pardines en els períodes de sequera i/o quan es registri una baixa afluència hídrica a la captació de Feritxet; vist el pressupost presentat adjunt a l’acta de la comissió; vist l’informe tècnic del Departament d’Infraestructures i Manteniment;
+
+s’acorda adjudicar a l’empresa Geotech els treballs per un sondeig piezomètric en una parcel·la comunal a les Pardines per un import de 13.537,98€, IGI inclòs.
+
+5. Convocatòria del concurs públic nacional per a l’adjudicació de l’obra de rehabilitació del viaducte del carrer Hort de Godí, PB-341/24: s’acorda convocar un concurs públic nacional, amb la modalitat ordinària i pel procediment obert, d’acord amb les condicions que s’estableixen en el plec de bases adjunt per a l’adjudicació de l’obra de rehabilitació del viaducte del carrer Hort de Godí, amb uns costos estimats en 121.797,76 €, IGI inclòs i un 10% d’imprevistos inclosos (105.957,16€ sense IGI i sense imprevistos).
+
+6. Autorització de pagament de factures de més de 5.000€, de la bossa oberta per als treballs d’obra a la via pública de la parròquia d’Encamp: vist que en data 8.7.2021 la Junta de Govern va aprovar l’adjudicació a l’empresa Fernando i Fills, SL de la bossa oberta per als treballs d’obra a la via pública de la parròquia d’Encamp, per un període de 4 anys, ampliable a 2 anys més; vista la factura de més de 5.000€ corresponent a la bossa oberta per als treballs d’obra a la via pública de la parròquia d’Encamp; vist l’informe del director del departament;
+
+s’acorda autoritzar el pagament a l’empresa Fernando i Fills, SL, de la factura corresponent als treballs efectuats a l’avinguda Joan Martí, cruïlla Museu de l’Automòbil/La Molina, per a la reparació d’una fuita d’aigua, per un import de 12.961,03€, IGI inclòs.
+
+7. Autorització de pagament de factures de més de 5.000€, de la bossa oberta per als treballs per la reforma i manteniment de les voravies del Comú d’Encamp: vist que la Junta de Govern 14/21 del 22.4.2021, va aprovar les adjudicacions del concurs públic nacional per als treballs obertes per la reforma i manteniment de les voravies del Comú d’Encamp a l’empresa Construccions La Neu; vista la factura de més de 5.000€ corresponent a la bossa oberta per als treballs d’obra a la via pública de la parròquia d’Encamp; vist l’informe del director del departament;
+
+s’acorda autoritzar el pagament a l’empresa Construccions La Neu, de la factura corresponent a la quarta certificació dels treballs efectuats al carrer Hort de Godí, per a la reparació, reforma i manteniment de voravies, per un import de 28.603,30€, IGI inclòs.
+
+8. Aprovació de la planificació del servei de manteniment i neteja de les xarxes d’aigües residuals i pluvials de la parròquia d’Encamp per l’any 2024. PB- 259/19: vist que el Consell de Comú del 20.6.2019, va aprovar l’adjudicació del concurs públic per a la realització dels treballs del servei de manteniment i neteja de les xarxes d’aigües residuals i pluvials de la parròquia d’Encamp, a l’empresa Eco Netejes Especials, SA, per un període de 2 anys, ampliable a 4 anys més;
+
+s’acorda l’aprovació de la planificació del servei de manteniment i neteja de les xarxes d’aigües residuals i pluvials de la parròquia d’Encamp per l’any 2024, a l’empresa Eco Netejes Especials, SA per un import de 115.768,49€.
+
+9. Convocatòria d’un concurs públic nacional per la reforma de la Sala de Congressos del Complex Esportiu i Sociocultural d’Encamp, PB-340/24: s’acorda convocar un concurs públic nacional, amb la modalitat ordinària i pel procediment obert, d’acord amb les condicions que s’estableixen en el plec de bases adjunt, per a l’adjudicació de l’obra per la reforma de la Sala de Congressos del Complex Esportiu i Sociocultural d’Encamp, amb uns costos estimats en 333.000 €, IGI no inclòs.
+
+SOL·LICITUDS: s’acorda aprovar les propostes de resolució de les sol·licituds que s’adjunten a l’acta.
+
+H. COMISSIÓ D’OBRES PÚBLIQUES I URBANISME (DEPARTAMENT D’OBRES PÚBLIQUES I URBANISME): vista l’acta núm.4/24, de l’11.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+SOL·LICITUDS
+
+1.- Sol·licitud núm. SLORRE-9343/2023 de llicència d’obres de rehabilitació o reforma d’edificació presentada per la societat Merca Center, SAU: vista la sol·licitud presentada per dur a terme la instal·lació d’una plataforma elevadora exterior plegable per a càrrega de mercaderies a l’edifici La Solana, situat al carrer Catalunya, núm. 17 del Pas de la Casa; vist l’informe núm. 10460 del Departament d’Obres Públiques i Urbanisme;
+
+s’acorda l’atorgament de la llicència urbanística.
+
+2.- Sol·licitud núm. SLORRE-1281/2024 de llicència d’obres de rehabilitació o reforma d’edificació presentada per la societat Saetde: vista la sol·licitud presentada per dur a terme la modificació de projecte aprovat, eliminant la part d’ampliació, amb l’enderroc d’un volum prefabricat, de reforma de la cuina del restaurant de la planta primera i del desplaçament d’una porta a la façana nord de l’edifici Restaurant Solanelles, situat a la collada de les Solanelles, del domini esquiable Pas de la Casa - Pic Maià - Grau Roig; vist l’informe núm. 10455 del Departament d’Obres Públiques i Urbanisme, s’acorda l’atorgament de la llicència urbanística.
+
+3.- Sol·licitud núm. SLUE-12971/2023 de llicència d’ús de l’edificació presentada per la societat Saetde: vista la sol·licitud presentada per a la primera utilització i ocupació de les obres d’enderroc d’un volum prefabricat, de reforma de la cuina del restaurant de la planta primera i del desplaçament d’una porta a la façana nord de l’edifici Restaurant Solanelles, situat a la collada de les Solanelles, del domini esquiable Pas de la Casa – Pic Maià - Grau Roig; vist l’informe núm. 10456 del Departament d’Obres Públiques i Urbanisme;
+
+s’acorda l’atorgament de la llicència urbanística.
+
+4.- Sol·licitud núm. SLUE-3014/2024 de llicència d’ús de l’edificació presentada per la societat Noves Promocions, SL: vista la sol·licitud presentada per a la primera utilització i ocupació de les obres de construcció d’un edifici de nova planta destinat a l’ús d’habitatge plurifamiliar, en règim de tinença de venda, situat al terreny Parcel·la 3 Pedral de Baix a l’avinguda Príncep Benlloch, núm. 16-18 d’Encamp; vist l’informe núm. 10463 del Departament d’Obres Públiques i Urbanisme;
+
+s’acorda l’atorgament de la llicència urbanística.
+
+5.- Sol·licitud núm. SLOMT-3676/2024 de llicència d’obres menors que requereixen l’actuació professional d’un tècnic presentada per la societat Estació Servei Enclar, SA: vista la sol·licitud presentada per dur a terme les obres de redistribució interior, de reforma del paviment, de substitució de tancaments, de formació d’una rampa d’entrada a l’edifici, i de pintura interior i exterior de l’edifici Estació de servei Antar, situat a l’avinguda de Joan Martí, núm. 123 d’Encamp; vist l’informe núm. 10462 del Departament d’Obres Públiques i Urbanisme;
+
+s’acorda l’atorgament de la llicència urbanística.
+
+6.- Sol·licitud núm. SAAVLE-0454/2024 d’assenyalament d’alineacions de vials i de límits d’edificació presentada pel senyor Erwan Le Potier: vista la sol·licitud presentada per l’aprovació dels límits d’edificació del traçat de la carretera CS220 dels Cortals d’Encamp, en la part que afecten el terreny Terres del Mollar, situat a la carretera dels Cortals, núm. 81 d’Encamp; vist l’informe núm. 10457 del Departament d’Obres Públiques i Urbanisme;
+
+s’acorda aprovar els límits d’edificació segons el traçat definit en el plànol del Departament d’Obres Públiques i Urbanisme.
+
+7.- Sol·licitud núm. SAAVLE-0504/2024 d’assenyalament d’alineacions de vials i de límits d’edificació presentada per Constructora Al Quadrat, SL: vista la sol·licitud presentada per l’aprovació dels límits d’edificació del traçat de la carretera CS220 dels Cortals d’Encamp, en la part que afecten el terreny Prat de l’Obac (abans Marxanda), situat a la CS220 dels Cortals d’Encamp; vist l’informe núm. 10465 del Departament d’Obres Públiques i Urbanisme;
+
+s’acorda aprovar els límits d’edificació segons el traçat definit en el plànol del Departament d’Obres Públiques i Urbanisme.
+
+8.- Sol·licitud núm. SAAVLE-0774/2024 d’assenyalament d’alineacions de vials i de límits d’edificació presentada pel senyor Miquel París Desgardin: vista la sol·licitud presentada per l’aprovació dels límits d’edificació del traçat de la carretera de les Riberaigües d’Encamp, en la part que afecten el terreny Terra de les Riberaigües, situat a la carretera de les Riberaigües, s/n d’Encamp; vist l’informe núm. 10458 del Departament d’Obres Públiques i Urbanisme;
+
+s’acorda aprovar els límits d’edificació segons el traçat definit en el plànol del Departament d’Obres Públiques i Urbanisme.
+
+9.- Sol·licitud núm. SAAVLE-2006/2024 d’assenyalament d’alineacions de vials i de límits d’edificació presentada per la senyora Maria Carme Torres Orpinell: vista la sol·licitud presentada per l’aprovació dels límits d’edificació del traçat del carrer de la Ventiga i del camí comunal Antic Camí de Vila, en la part que afecten la parcel·la 3, situada al carrer de la Ventiga, núm. 3 d’Encamp; vist l’informe núm. 10466 del Departament d’Obres Públiques i Urbanisme;
+
+s’acorda aprovar els límits d’edificació segons el traçat definit en el plànol del Departament d’Obres Públiques i Urbanisme.
+
+10.- Sol·licitud núm. SAAVLE-2008/2024 d’assenyalament d’alineacions de vials i de límits d’edificació presentada per la senyora Maria Carme Torres Orpinell: vista la sol·licitud presentada per l’aprovació dels límits d’edificació del traçat del carrer de la Ventiga i del camí comunal Antic Camí de Vila, en la part que afecten la parcel·la 2, situada al carrer de la Ventiga, núm. 3 d’Encamp; vist l’informe núm. 10467 del Departament d’Obres Públiques i Urbanisme;
+
+s’aprova els límits d’edificació segons el traçat definit en el plànol del Departament d’Obres Públiques i Urbanisme.
+
+I. COMISSIÓ D’OBRES PÚBLIQUES I URBANISME (DEPARTAMENT D’OBRES PÚBLIQUES I URBANISME): vista l’acta núm. 5/24, del 17.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+1.- Construcció de la xarxa d’aigua potable de Cramea - Projecte núm. 591: vistos els informes d’Intervenció Comunal núm. IC20240049 i núm. 10407 del Departament d’Obres Públiques i Urbanisme d’acord amb la proposta d’honoraris corresponent als treballs tècnics de redacció de projecte i de direcció d’obra per dur a terme les obres de construcció de la xarxa d’aigua potable de Cramea - projecte núm. 591, presentat per l’empresa Enginyeria i Tecnologia SA, Engitec; vist que aquesta empresa ha desenvolupat els treballs de redacció del projecte d’adducció d’aigua potable fins al Cramea, encomanat pel Govern d’Andorra i es considera la més idònia per adaptar l’estudi segons els requeriments del Comú d’Encamp; vista que la proposta dels honoraris relatius als treballs tècnics de redacció de projecte és d’un import de 14.891,25 €, IGI inclòs, i per un import percentual d’1,95 % respecte de les certificacions d’obra executada, en concepte de direcció d’obra;
+
+s’acorda l’adjudicació dels treballs tècnics de redacció de projecte i de direcció d’obra a l’empresa Engitec.
+
+2.- Aprovació i signatura del conveni per a la construcció de les xarxes d’aigua potable i residual al Cramea: vist l’informe d’Intervenció Comunal núm. IC20240050; així com la documentació corresponent al conveni entre el Comú d’Encamp, la societat Icònic, SL i la societat Saetde;
+
+s’acorda trametre al Consell de Comú l’aprovació i signatura del conveni.
+
+SOL·LICITUDS
+
+1.- Sol·licitud núm. SLOARRE-13253/2023 de llicència d’obres d’ampliació, de rehabilitació o reforma d’edificació presentada per la societat Saetde: vista la sol·licitud presentada per dur a terme la reforma integral d’un edifici destinat a equipament de pistes d’esquí, amb ús comercial, oficines, restauració, magatzem, tècnic i sanitari, amb l’ampliació de dues plantes, la modificació de la fonamentació mitjançant la construcció d’una llosa de formigó armat, la distribució dels espais interiors i l’adaptació dels entorns, de l’edifici situat a l’avinguda d’Encamp, núm. 12 del Pas de la Casa; vist l’informe núm. 10468 del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+J. COMISSIÓ D’ADMINISTRACIÓ (DEPARTAMENT D’ADMINISTRACIÓ): vista l’acta núm. 7/24, de l’11.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+CENS EMFITÈUTIC
+
+1.- Dret de fadiga o tempteig: vista la carta presentada pel Saig Granyó el passat 27.3.2024, en la qual sol·licita al Comú si farem valdre o no el nostre dret de fadiga o tempteig sobre una subhasta projectada d’un bé immoble del Pas de la Casa; vist l’informe núm. 11/24 d’Administració; és proposa no exercir el dret de fadiga o tempteig.
+
+2.- Revisió dels índexs del Cens Emfitèutic per la facturació de les pensions de l’any 2025: vista la clàusula cinquena dels Contractes de Cens Emfitèutic de la urbanització Sant Pere del Pas de la Casa i vist l’informe núm. 02/24 de Cens Emfitèutic adjunt; s’acorda revisar els índexs per la facturació de les pensions per l’any 2025 proposant els valors següents:
+
+- Or: 62.174,62 €/kg - Llet: 0,50 €/L - Ma d’obra: 14,60 €/H - Aufals: 21,78 €/Quintar de 40 Kg
+
+Tanmateix, s’informa que aquests índexs únicament s’utilitzaran per la revisió de les pensions dels contractes establerts abans de l’acord de Comú de modificació de la revisió de les Pensions de data 6/6/2007. Pels contractes establerts a partir d’aquesta data, la revisió s’efectuarà el mes de gener de l’any vinent prenent com a base l’índex de preus al consum (IPC) publicat pel Govern. S’acorda, alhora, aprofitar l’avinentesa de la comunicació de la revisió per a recordar la possibilitat de canviar el mètode de revisió de les pensions. Cadastre
+
+1.- Tasques topogràfiques de cadastre: vistos els pressupostos presentats adjunts a l’acta de la comissió; vist l’informe del Departament d’Administració núm. AC- 527/2024; s’acorda la contractació dels serveis de topografia fins al 31.12.2024 i fins a un import màxim acumulat de 15.000 € a l’empresa Integral Topografia segons els preus, IGI inclòs, que es detallen a continuació:
+
+| Treballs (IGI Inclòs i despeses de desplaçament incloses) | Integral Topografia |
+| --- | --- |
+| Aixecament topogràfic de parcel·les, edificacions, camins i vials | 5,225 €/ml 0,314 €/m2 Mín. de 99,27 € i màx. de 627 € / dia |
+| Aixecament topogràfic de creus i/o fites de terme i d’empriu | 57,47 €/h Mín. de 209 € i màx. de 627 € / dia |
+| Aixecament topogràfic de canalitzacions | 2,09 €/ml Mín. de 209 € i màx. de 627 € / dia |
+| Aixecament topogràfic de mobiliari urbà | 5,225 € Mín. de 104,50 € i màx. de 627 € / dia |
+| Replantejos | 15,675 € per punt Mín. de 209 € i màx. de 627 € / dia |
+
+| Assistència en delimitacions | 57,47 €/h Mín. de 104,50 € i màx. de 627 € / dia |
+| --- | --- |
+| Assistència tècnica al Comú | 41,80 €/h Mín. de 104,50 € i màx. de 627 € / dia |
+| Verificació in situ de dades cartogràfiques | 41,80 €/h Mín. de 104,50 € i màx. de 627 € / dia |
+
+41,80 €/h
+
+Mín. de 104,50 € i màx. de 627 € / dia
+
+2.- Fi d’expedients d’ofici de l’Àrea de Cadastre: vistos els informes núm. 28- >40/2024; s’acorda finalitzar els procediments d’inscripció d’ofici al Registre del Cadastre per a enregistrar les alteracions físiques i/o jurídiques que es relacionen als informes suara descrits.
+
+3.- Despeses de la comunitat de l’edifici La Residència del Pas de la Casa: vista la documentació adjunta; s’acorda abonar a la comunitat de l’esmentat edifici la quantitat de 13.746,48 € en concepte de previsió 2024 de les despeses de l’edifici del local propietat del Comú.
+
+4.- Despeses de la comunitat de l’edifici La Solana del Pas de la Casa: vista la documentació adjunta; s’acorda abonar a la comunitat de l’esmentat edifici la quantitat de 29.573,66 € en concepte de previsió 2024 de les despeses de l’edifici de les unitats immobiliàries propietat del Comú.
+
+No obstant això, vist que la partida afectada per aquesta despesa no presenta crèdits suficients per fer-hi front, l’acceptació d’aquesta proposta queda supeditada a l’aprovació de la corresponent modificació pressupostària. 5.- Despeses de la comunitat de l’aparcament de l’edifici Anyó: vista la documentació adjunta; s’acorda abonar a la comunitat de l’esmentat edifici la quantitat de 133,28 € en concepte de previsió 2024 de les despeses de l’edifici de l’aparcament 466 propietat del Comú.
+
+SOL·LICITUDS: s’acorda aprovar les propostes de resolució de les 48 sol·licituds del Departament d’Administració següents:
+
+- 7 sol·licituds de cens emfitèutic. - 27 sol·licituds de cadastre. - 10 sol·licituds d’obertures i/o modificacions de comerç. - 2 sol·licituds de baixa de comerç. - 2 sol·licituds de terrasses.
+
+En les reunions de la Comissió i de la Junta de Govern l’Hble. Sr. Benjamí Rascagnes Travesset i l’Hble. Sr. Nino Marot Crespo, s’absenten i s’abstenen en el tractament de les sol·licituds E/002356-2024 i E/003210-2024 respectivament, atesa la seva relació de parentiu amb els sol·licitants.
+
+En la reunió de la Junta de Govern l’Hble. Sabrina Gregoire Torres, s’absenta i s’absté en el tractament de la sol·licitud E/001621-2024, atesa la seva relació de parentiu amb la sol·licitant.
+
+K. COMISSIÓ DE SISTEMES D’INFORMACIÓ (DEPARTAMENT DE SISTEMES D’INFORMACIÓ): vista l’acta núm. 4/24, del 12.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+1.- Aprovació i signatura del contracte pel programari i serveis de 4 Tickets: vist que el contracte vigent amb l’empresa 4 Tickets sobre el programari de gestió de venda d'entrades i els serveis associats s’extingeix properament; vist que 4 Tickets ha prestat els serveis satisfactòriament durant la vigència del mateix; vista la proposta de contracte; s’acorda l’aprovació i signatura del contracte per una durada d’un any, prorrogable fins a un màxim de sis anys i amb un import estimat anual de 2.000 €.
+
+2.- Compra de 2 tablets pel Servei de Circulació: vist que per a realitzar tràmits des de la plataforma d’administració electrònica des del Servei de Circulació, és necessari adquirir dos tabletes i les llicències de VIDSIGNER corresponents per poder realitzar la signatura biomètrica de les sol·licituds; vistos els pressupostos presentats adjunts a l’acta de la comissió;
+
+s’acorda adjudicar la compra de les tabletes a l’empresa Sil per un import de 538 €, i dos llicències de Vidsigner a l’empresa Semic, proveïdor actual d’aquestes llicències, per un import de 150 €.
+
+3.- Portal de transparència: recuperació automàtica de contractes: vista la necessitat d’alimentar automàticament els contractes que es publiquen al portal de transparència; vist el pressupost presentat adjunt a l’acta de la comissió;
+
+s’acorda contractar el desenvolupament corresponent a l’empresa Semic, adjudicatària de la implementació d’aquesta plataforma, per un import de 1.672 €.
+
+L. COMISSIÓ DE RECURSOS HUMANS (DEPARTAMENT DE RECURSOS HUMANS): vista l’acta núm. 4/24, del 9.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+1.- Resolució del concurs relatiu al procés per a la cobertura d’una plaça en el lloc de treball d’operari de neteja viària (C2), com a funcionari, adscrita al Departament d’Higiene, Medi Ambient i Agricultura: vist el procés selectiu efectuat per a la cobertura d’una plaça en el lloc de treball d’operari de neteja viària (C2), adscrita al Departament d’Higiene, Medi Ambient i Agricultura; vistos els resultats de les proves realitzades i l’acta del Comitè Tècnic de Selecció; s’acorda atorgar la plaça d’operari de neteja viària (C2), al Sr. Marc Fernandez Funes, com a funcionari en període de prova de 12 mesos, d’acord amb l’establert a l’article 47 de l’Ordinació de la funció pública del Comú d’Encamp del 28.9.2023, a partir de la data en què es faci efectiva la seva incorporació.
+
+| Marc Fernandez Funes | SLT-2152/2024 |
+
+2.- Resolució del concurs relatiu al procés per la cobertura d’una plaça en el lloc de treball d’informadora turística (C1), com a funcionària, adscrita al Departament de Turisme i Reactivació Econòmica, per tercera convocatòria externa: vist el procés selectiu efectuat per a la cobertura d’una plaça d’informadora turística (C1), adscrita al Departament de Turisme i Reactivació Econòmica, en tercera convocatòria externa; vistos els resultats de les proves realitzades i l’acta del Comitè Tècnic de Selecció; s’acorda atorgar la plaça d’informadora turística (C1), a la Sra. Sara Hernandez Ferrer, com a funcionària, en període de prova de 12 mesos, d’acord amb l’establert a l’article 47 de l’Ordinació de la funció pública del Comú d’Encamp del 28.9.2023, i a partir del 19.4.2024.
+
+3.- Nomenament del Sr. Manel Arroyo Jimenez per desenvolupar tasques en el lloc de treball d’informador turístic (C1), com a treballador públic interí, al Departament de Turisme i Reactivació Econòmica: vist l’informe de la directora del Departament de Turisme i Reactivació Econòmica de data 27.3.2024; vist l’informe de la directora del Departament de Recursos Humans de data 27.3.2024; s’acorda el nomenament del Sr. Manel Arroyo Jimenez, per realitzar tasques d’informador turístic (C1), adscrit al Departament de Turisme i Reactivació Econòmica, com a treballador públic interí, d’acord amb l’establert als articles 109, apartat b), 110 i 111 de l’Ordinació de la funció pública del Comú d'Encamp del 28.9.2023, a partir del 19.4.2024 i fins a la reincorporació de la funcionària que té assignada la plaça.
+
+4.- Resolució del concurs relatiu al procés per a la cobertura d’una plaça en el lloc de treball de vaquer, com a treballador públic interí, adscrita al Departament d’Higiene, Medi Ambient i Agricultura: vist el procés efectuat per a la cobertura d’una plaça en el lloc de treball de vaquer, adscrita al Departament d’Higiene, Medi Ambient i Agricultura, vista la candidatura presentada; vista l’acta del Comitè Tècnic de Selecció i l’establert als articles 109, apartat c), 110 i 111 de l’Ordinació de la funció pública del Comú d'Encamp del 28.9.2023; s’acorda el nomenament del Sr. Martí Pubill Travesset, com a treballador públic interí, per a desenvolupar funcions de vaquer, adscrit al Departament d’Higiene, Medi Ambient i Agricultura, a partir del 2.5.2024 i fins al 31.10.2024.
+
+5.- Resolució del concurs relatiu al procés per a la cobertura de quatre (4) places en el lloc de treball d’operari de parcs i jardins (C2), com a treballadors públics interins, adscrites al Departament d’Higiene, Medi Ambient i Agricultura: vist el procés efectuat per a la cobertura de quatre places en el lloc de treball d’operari de parcs i jardins, adscrites al Departament d’Higiene, Medi Ambient i Agricultura; vista l’acta del Comitè Tècnic de Selecció i l’establert als articles 109, apartat c), 110 i 111 de l’Ordinació de la funció pública del Comú d'Encamp del 28.9.2023; s’acorda el nomenament de la Sra. María José Martín Flores a partir
+
+| Candidat | Núm. registre tràmits |
+| --- | --- |
+| Sara Hernandez Ferrer | SLT-13927/2023 |
+
+| Martí Pubill Travesset | SLT-3702/2024 |
+
+del 22.4.2024 i fins al 21.10.2024 i del Sr. Francisco Cuesta Moya, a partir del 6.5.2024 i fins al 5.11.2024, com a treballadors públics interins, per a desenvolupar funcions d’operari de parcs i jardins (C2), adscrits al Departament d’Higiene, Medi Ambient i Agricultura. Així mateix, s’acorda que dues de les quatre places quedin desertes.
+
+6.- Resolució del concurs relatiu al procés per a la cobertura de 4 places en el lloc de treball d’auxiliar de banders (C2) com a treballadors públics interins, adscrites al Departament d’Higiene, Medi Ambient i Agricultura: vist el procés selectiu efectuat per a la cobertura de quatre places en el lloc de treball d’auxiliar de banders, adscrites al Departament d’Higiene, Medi Ambient i Agricultura; vistos els resultats de les proves realitzades i l’acta del Comitè Tècnic de Selecció; vist l’establert als articles 109, apartat c), 110 i 111 de l’Ordinació de la funció pública del Comú d'Encamp del 28.9.2023; s’acorda el nomenament del Sr. Eric Rodriguez Lafoz, a partir del 22.4.2024 i fins al 21.10.2024 i del Sr. Jesús Morán Murillo, a partir del 6.5.2024 i fins al 5.11.2024, com a treballadors públic interins, per a desenvolupar funcions d’auxiliar de banders (C2), adscrits al Departament d’Higiene, Medi Ambient i Agricultura. Així mateix, es s’acorda que dues de les quatre places quedin desertes.
+
+7.- Superació d’un procés selectiu per concurs de mobilitat interna de la Sra. Laura Boscà Rozas relatiu a la cobertura d’una plaça vacant del lloc de treball de tècnica especialista d’escoles bressol per al Servei a la Infància, adscrita al Departament de Social, del Comú d’Andorra la Vella: vista la carta adreçada per la cap d’Àrea de Gestió Retributiva, RH i Organització Laboral del Comú d’Andorra la Vella de data 18.3.2024 en què s’informa que la Sra. Laura Boscà Rozas ha superat un procés selectiu per concurs de mobilitat interna al Comú d’Andorra la Vella, relatiu a la cobertura d’una plaça vacant del lloc de treball de tècnica especialista d’escoles bressol per al Servei a la Infància; vist l’establert a l’article 36 de l’Ordinació de la funció pública del Comú d’Encamp de data 28.9.2023; s’acorda que la Sra. Laura Boscà Rozas, educadora (C1) de l’escola bressol “Els Marrecs” del Pas de la Casa, deixi de prestar els seus serveis al Comú d’Encamp, el proper 20.5.2024.
+
+8.- Cobertura del lloc de treball de cuinera (C2) a l’escola bressol “Els Esquirolets” d’Encamp: vist l’acord de la Junta de Govern de data 24.11.2023 relatiu a la cobertura d’una plaça de cuinera a l’escola bressol “Els Esquirolets”; vista l’acta del Comitè Tècnic de Selecció núm. 13/23 de data 7.11.2023 relativa al procés selectiu d’ingrés EIFUN-16/2023, en la qual s’estipula que la Sra. Violeta
+
+| Candidats | Núm. registre tràmits |
+| --- | --- |
+| Maria José Martín Flores | SLT-3286/2024 |
+| Francisco Cuesta Moya | SLT-3287/2024 |
+
+| Candidat | Núm. registre tràmits |
+| Jesús Morán Murillo | SLT-4011/2024 |
+| Eric Rodriguez Lafoz | SLT-4012/2024 |
+
+Martinez Miralles queda en situació de reserva de plaça per al lloc de cuinera (C2); vist l’informe de la directora del Departament de Cultura, Infància i Joventut de data 3.4.2024; vist l’informe de la directora del Departament de Recursos Humans de data 3.4.2024; vist que és necessària la provisió definitiva de la plaça de cuiner/a (C2) que resta vacant; s’acorda atorgar aquesta plaça a la Sra. Violeta Martinez Miralles, com a funcionària en període de prova de 6 mesos, d’acord amb l’establert a l’Ordinació de la funció pública del Comú d'Encamp del 28.9.2023, i a partir del 19.4.2024.
+
+9.- Nomenament de la Sra. Rosa Maria Pinto Barbosa, per desenvolupar tasques de cuinera (C2), com a treballadora pública interina, adscrita al Departament de Cultura, Infància i Joventut: vist l’informe de la directora del Departament de Cultura, Infància i Joventut de data 29.2.2024; vist l’informe de la directora del Departament de Recursos Humans de data 27.3.2024; s’acorda el nomenament de la Sra. Rosa Maria Pinto Barbosa, per realitzar tasques de cuinera (C2) a la cuina de l’escola bressol “Els Marrecs” del Pas de la Casa, com a treballadora pública interina, d’acord amb l’establert als articles 109, apartat a), 110 i 111 de l’Ordinació de la funció pública del Comú d'Encamp del 28.9.2023, a comptar del 10.5.2024, i per un període de 12 mesos.
+
+10.- Nomenament de la Sra. Laetitia Nuñez Fourre, per desenvolupar tasques en el lloc de treball de monitora de llaç d’animació (C2), com a treballadora pública interina, adscrita al Departament de Cultura, Infància i Joventut: vist l’informe de la directora del Departament de Cultura, Infància i Joventut de data 25.3.2024; vist l’informe de la directora del Departament de Recursos Humans de data 27.3.2024; s’acorda el nomenament de la Sra. Laetitia Nuñez Fourre per realitzar tasques de monitora (C2) al llaç d’animació “Els Marrecs” del Pas de la Casa, com a treballadora pública interina, d’acord amb l’establert als articles 109, apartat a), 110 i 111 de l’Ordinació de la funció pública del Comú d'Encamp del 28.9.2023, a comptar del 22.4.2024, i per un període de 12 mesos. 11.- Nomenament del Sr. Nelson Felipe Quintela Gil, per desenvolupar tasques d’agent d’atenció a l’usuari (C2) al Centre Esportiu del Pas de la Casa, com a treballador públic interí, adscrit al Departament d’Esports: vist l’informe del director del Departament d’Esports de data 26.3.2024; vist l’informe de la directora del Departament de Recursos Humans de data 27.3.2024; s’acorda el nomenament del Sr. Nelson Felipe Quintela Gil per realitzar tasques d’agent d’atenció a l’usuari (C2), al Centre Esportiu del Pas de la Casa, com a treballador públic interí, d’acord amb l’establert als articles 109, apartat a), 110 i 111 de l’Ordinació de la funció pública del Comú d'Encamp del 28.9.2023; a comptar del 29.4.2024, i per un període de 12 mesos.
+
+12.- Nomenament del Sr. Miquel Pardo González com a treballador públic interí, en el marc del programa del Servei d’Inserció i Ocupació Laboral de l’Escola especialitzada Nostra Senyora de Meritxell, per desenvolupar tasques de suport (C3) al Complex Esportiu i Sociocultural d’Encamp, adscrit al Departament d’Esports: vist l’informe d’avaluació del Departament d’Ocupació i Treball de data 4.4.2024; vist l’informe del director del Departament d’Esports de data 26.3.2024; vist l’informe de la directora del Departament de Recursos Humans de data 4.4.2024; s’acorda el nomenament del Sr. Miquel Pardo González en el marc del programa del Servei d’Inserció i Ocupació Laboral de l’Escola Especialitzada Nostra Senyora de Meritxell, per desenvolupar tasques de suport (C3) al Complex Esportiu i Sociocultural d’Encamp, com a treballador públic interí, d’acord amb l’establert als articles 109, apartat e), 110 i 111 de l’Ordinació de la funció pública del Comú d'Encamp del 28.9.2023, a comptar de l’11.5.2024.
+
+13.- Realització de l’acció formativa “Curs d’abordatge preventiu en consum de drogues”: vista la sol·licitud de formació i memòria justificativa de l’acció formativa elaborada per la directora del Departament de Cultura, Infància i Joventut de data 4.4.2024; vist el Reglament que regula la formació del personal del Comú d’Encamp del 28.9.2023; s’acorda aprovar l’assistència a l’acció formativa “Curs d’abordatge preventiu en consum de drogues”, organitzada per l’empresa Associació Benestar i Desenvolupament, ABD, d’una durada de 8 hores, adreçada a treballadors de l’Àmbit d’Infància i Joventut, amb un cost total de 1.353 €.
+
+14.- Validació de les hores extraordinàries (període 1.2.2024 al 29.2.2024): vist l’acord de la Junta de Govern del 29.12.2010 on s’encomana al Departament de Recursos Humans la correcta aplicació dels supòsits que s’estableixen per a la realització d’hores extraordinàries (article 2.3 del Reglament de sistemes de compensació) i atès el quadre de validació d’hores extraordinàries generades del període 1.2.2024 al 29.2.2024 elaborat pel Departament de Recursos Humans; s’acorda validar les dades contingudes en la taula comparativa adjunta, fent efectiu el pagament de 2.567,72 € en concepte d’hores extraordinàries per aquest període.
+
+15.- Demanda de participació al projecte PAS de dues (2) alumnes de l’Escola Andorrana de Batxillerat Professional: vista la demanda adreçada per dues alumnes de l’Escola Andorrana de Batxillerat Professional i considerant l’informe favorable de la directora del Departament de Cultura, Infància i Joventut de data 2.4.2024; s’acorda acceptar la participació de les alumnes Anna Amils Loimil i Lara Sousa Pôlo, per dur a terme el seu projecte PAS a l’Àrea de Llaç d’Animació, Àrea de Jovent, Espai Jove i PIJ d’Encamp, del Departament de Cultura, Infància i Joventut, i per una durada de 15h.
+
+En la reunió de la Comissió l’Hble. Sra. Marta Pujol demana si, al Comú, hi ha cap òrgan de participació del personal equivalent a la Comissió de Personal i el Comitè Tècnic d'Organització i Gestió, tots dos de l'Administració general i previstos a la Llei de la funció pública, i la Sra. Cathy Juan respon que actualment no n'hi ha cap i que l'Ordinació de la funció pública del Comú d'Encamp preveu la creació de la Comissió de Personal, regulada a l’article 9 i que estableix que el Comú pot crear aquesta comissió com a òrgan col·legiat de consulta i participació sobre funció pública.
+
+M. COMISSIÓ DE RECURSOS HUMANS (DEPARTAMENT DE RECURSOS HUMANS): vista l’acta núm. 5/24, del 12.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+1.- Nomenament de la Sra. Maria Rocio Perales Oliver, per desenvolupar tasques d’educadora (C1), com a treballadora pública interina, al Departament de Cultura, Infància i Joventut: vist l’informe de la directora del Departament de Cultura, Infància i Joventut de data i l’informe de la directora del Departament de Recursos Humans de data 11.4.2024; s’acorda el nomenament de la Sra. Maria Rocio Perales Oliver, per realitzar tasques d’educadora (C1) a l’escola bressol “Els Marrecs” del Pas de la Casa, com a treballadora pública interina, d’acord amb l’establert als articles 109, apartat b), 110 i 111 de l’Ordinació de la funció pública del Comú d'Encamp del 28.9.2023, a partir del 20.5.2024 i per un període de 6 mesos.
+
+2.-Adscripció temporal de la Sra. Maria Jesús Lago Antelo, administrativa (C1), per cobrir el lloc de treball d’administratiu (C1) al Departament d’Esports: vist l’informe del director del Departament d’Esports de data 11.4.2024; vist l’informe del director del Departament d’Infraestructures i Manteniment de data 10.4.2024; vist l’informe de la directora del Departament de Recursos Humans de data 11.4.2024; s’acorda l’adscripció temporal de la Sra. Maria Jesús Lago Antelo, per a cobrir el lloc de treball d’administrativa d’atenció a l’usuari (C1), adscrita al Departament d’Esports, d’acord amb l’article 69.2, apartat a), de l’Ordinació de la funció pública del Comú d'Encamp del 28.9.2023, a partir de la data què es faci efectiva la de la seva reincorporació i per un període de 12 mesos.
+
+3.- Realització de l’acció formativa “Web Turisme www.encamp.ad”: vista la sol·licitud de formació i memòria justificativa de l’acció formativa elaborada per la directora del Departament de Turisme i Reactivació Econòmica de data 8.4.2024; vist el Reglament que regula la formació del personal del Comú d’Encamp del 28.9.2023; s’acorda aprovar l’assistència a l’acció formativa “Web Turisme www.encamp.ad”, organitzada per l’empresa Semic, d’una durada de 4 hores, adreçada a la Sra. Esther Vidal Mils, tècnica de Turisme, amb un cost total de 500 €.
+
+4.- Píndoles formatives relatives al Pla d’Igualtat del Comú d’Encamp: vist l’acord de la Junta de Govern de data 18.5.2023 en què s’aproven el pla d’igualtat així com el conjunt d’accions a implementar que se’n deriven; s’acorda acceptar l’adquisició de les píndoles formatives per un import de 2.850€, IGI no inclòs, a l’empresa Opció Recursos Humans, en concepte de sensibilització en igualtat de gènere, adreçades a tot el personal del Comú d’Encamp següents:
+
+- Píndola 1. Sistema sexe-gènere. Estereotips i rols; - Píndola 2. Conceptes: segregació vertical, horitzontal, diagrama de tisora, sostre de cristall, sòl enganxós, impacte de les cures en l'esfera laboral; - Píndola 3. Usos del temps: conciliació, corresponsabilitat, desconnexió digital, teletreball.
+
+N. COMISSIÓ D’AFERS SOCIALS I GENT GRAN (DEPARTAMENT D’AFERS SOCIALS I GENT GRAN): vista l’acta núm. 4/24, del 9.4.2024, s’acorda donar curs a la proposta continguda en el punt següent:
+
+1.- Prestacions Socials: vistos els informes de valoració presentats per la treballadora social del Comú d’Encamp, tenint en compte els requisits establerts en els articles 5 i 7 del Reglament de prestacions socials del Comú d’Encamp i en aplicació dels barems establerts, s’acorda resoldre, per un import global de 1.348,59 € amb la valoració corresponent, cadascun dels expedients següents: Número d’expedient: SPS-3993/2024
+
+Servei sol·licitat: Llaç d’Animació Encamp Pasqua
+
+Article: Article 4 punt A
+
+Resolució: Desfavorable
+
+Observacions: Nova demanda amb relació amb l’expedient SPS-1136/2024 Observacions: Recursos econòmics suficients.
+
+Número d’expedient: SPS-4034/2024
+
+Servei sol·licitat: Àrea de Jovent Pasqua i extraescolar tarda curs 2023/2024 Article: Article 4 punt A
+
+Resolució: Desfavorable
+
+Observacions: Nova demanda
+
+Observacions: Recursos econòmics suficients.
+
+Número d’expedient: SPS-4606/2024
+
+Servei sol·licitat: Escola bressol Els Esquirolets en règim de pensió completa Article: Article 4 punt A
+
+Resolució: Favorable al 80 %
+
+Despesa: 934,80 €
+
+Observacions: Nova demanda amb relació a l’expedient SPS-1271/2024 Número d’expedient: SPS-4607/2024
+
+Servei sol·licitat: Llaç d’Animació Pasqua i Pentecosta
+
+Article: Article 4 punt A
+
+Resolució: Favorable al 90 %
+
+Despesa: 280,44 €
+
+Observacions: Nova demanda amb relació a l’expedient SPS-0719/2024 Número d’expedient: SPS-4707/2024
+
+Servei sol·licitat: Llaç d’Animació Encamp Pasqua
+
+Article: Article 4 punt A
+
+Resolució: Desfavorable
+
+Observacions: Nova demanda amb relació a l’expedient SPS-12118/2023 Observacions: Recursos econòmics suficients.
+
+Número d’expedient: SPS-4856/2024
+
+Servei sol·licitat: Àrea de Jovent Pasqua
+
+Article: Article 4 punt A
+
+Resolució: Favorable al 50 %
+
+Despesa: 133,35 €
+
+Observacions: Nova demanda amb relació a l’expedient SPS-1004/2023
+
+O. COMISSIÓ DE TURISME (DEPARTAMENT DE TURISME): vista l’acta núm. 5/24, del 8.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+TURISME
+
+1.- Adquisició samarretes de marxandatge: vistos els pressuposts presentats adjunts a l’acta de la comissió per dur a terme l’adquisició de 3.000 samarretes de marxandatge ens dos models diferents; vist l’informe núm. 2024-15 del Departament de Turisme; s’acorda l’adjudicació, a l’empresa eB Easy Brand, de la compra de 1.500 unitats de la samarreta tècnica bàsica blava, Model 2, per un import de 3.785,51€, IGI inclòs, i de 1.500 unitats de la samarreta tècnica blau corba, Model 3 per un import de 5.196,26 €, IGI inclòs.
+
+P. COMISSIÓ D'HIGIENE, MEDI AMBIENT I AGRICULTURA (DEPARTAMENT D’HIGIENE, MEDI AMBIENT I AGRICULTURA): vista l’acta núm. 4/24, del 10.4.2024, s’acorda donar curs a les propostes contingudes en els punts següents:
+
+PARCS I JARDINS
+
+1.- Concurs d’embelliment floral: vist que els darrers divuit anys s’ha dut a terme un concurs anual d’embelliment floral a Encamp i al Pas de la Casa; vist que en les darreres edicions es va mantenir l’establiment de 4 categories, i es va dotar de 4 premis cadascuna, així com un premi per a cada categoria fora de concurs;
+
+s’acorda continuar amb aquesta iniciativa, tal i com es descriu a continuació:
+
+|  | Categories 1 i 3: Hotels i Xalets |  |  |  |  | Categories 2 i 4: Balcons i comerços |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Premis | 1r | 2n | 3r | 4t | No inscrits | 1r | 2n | 3r | 4t | No inscrits |
+| Import | 450€ | 300€ | 200€ | 125€ | 125€* | 250€ | 150€ | 100€ | 75€ | 75€* |
+
+* 2 vals de compra
+
+Així mateix, s’acorda obsequiar els participants amb un xec regal per un valor de 20€, per a l’adquisició de material de jardineria als establiments especialitzats de la parròquia.
+
+2.- Convocatòria d’un concurs públic per a la fabricació, subministrament i col·locació de jardineres a pont de les Riberaigües: s’acorda la convocatòria d’un concurs públic nacional, mitjançant la modalitat de contractació ordinària i per procediment obert, per l’adjudicació dels treballs de fabricació, subministrament i col·locació de jardineres a pont de les Riberaigües, d’acord amb el plec de bases adjunt, amb una estimació de 35.000 €.
+
+PATRIMONI NATURAL
+
+1.- Definició de les zones d’activitat humana per la temporada de caça 2024- 2025: vista la demanda presentada pel Ministre de Medi Ambient, Agricultura i Ramaderia relativa a la definició de zones d’activitat humana per tal d’ultimar el procés d’elaboració de la normativa relativa a la temporada de caça 2024- 2025; vista la proposta del departament;
+
+s’acorda aprovar les dates i zones segons l’establert a la carta adjunta.
+
+SOL·LICITUDS: s’acorda aprovar les propostes de resolució de les sol·licituds presentades al Departament d’Higiene, Medi Ambient i Agricultura:
+
+- 1 sol·licitud d’adequació de cabana
+- 1 sol·licitud d’autorització de senyalització d’itineraris d’iniciativa privada
+- 1 sol·licitud d’autorització d’accés motoritzat en el medi rural o natural
+- 1 sol·licitud de retorn de la taxa d’higiene de població
+- 2 sol·licitud de bonificació de la taxa d’higiene de radicació de comerç
+- 4 sol·licituds per al registre d’empreses usuàries de l’abocador del Maià per l’any 2024
+
+PROPOSTES DE LA INTERVENCIÓ COMUNAL
+
+1.- Aportació anual al compte de compensació, exercici 2023: vista l’aprovació dels comptes anuals del Comú d’Encamp per l’any 2023 que va tenir lloc el passat 27.3.2024 en sessió de Consell de Comú; vist l’informe de la Intervenció Comunal núm. IC20240052; i en compliment del que disposa l’article 19 de la Llei 32/2014 de sostenibilitat de les finances públiques i d’estabilitat pressupostària i fiscal;
+
+s’acorda l’aprovació de l’aportació anual al compte de compensació regulat per la referida Llei per un import de 168.421,66€ amb càrrec a la partida 1900/94100100/41400, segons documenta d’autorització i compromís núm. AC202400022976.
+
+2.- Al·legacions a l’informe del Tribunal de Comptes relatiu als treballs de fiscalització corresponents al tancament de l’exercici 2022 del Comú d’Encamp: vist l’informe del Tribunal de Comptes relatiu als treballs de fiscalització corresponents al tancament de l’exercici 2022 del Comú d’Encamp, rebut el passat dia 26.3.2024; vist que el Comú d’Encamp disposa d’un termini de 15 dies hàbils per presentar al·legacions; vist l’informe d’Intervenció Comunal núm. IC20240046 d’al·legacions; s’acorda acceptar el contingut del referit escrit d’al·legacions per la seva posterior tramesa al Tribunal de Comptes. 3.- Aprovació de modificacions pressupostàries, transferències de crèdit per dotar les partides afectades per les despeses de les comunitats de propietaris i emfiteutes on participa el Comú com a propietari: vist l’informe d’Intervenció comunal núm. 20240053; s’acorda aprovar la modificació pressupostària que es detalla a continuació segons:
+
+Àrea Origen: Corporació
+
+Objecte: Aprovació de modificacions pressupostàries, transferències de crèdit per dotar les partides afectades per les despeses de les comunitats de propietaris i emfiteutes on participa el Comú com a propietari.
+
+Import: 13.200€
+
+| Partida | Origen | Destí |
+| --- | --- | --- |
+| 1900/94100100/41400 | 6.500 € |  |
+| 1900/94230010/44901 | 6.700 € |  |
+| 1900/45000001/21211 |  | 7.500 € |
+| 1900/45000001/21212 |  | 600 € |
+| 1900/45000001/21213 |  | 5.100 € |
+|  | 13.200 € | 13.200 € |
+
+CORRESPONDÈNCIA - Sentència 16-202432/2022 Tribunal Superior de Justícia, en el marc de la TSJA 0000002/2023, relativa a la demanda de comunitat de propietaris de l’edifici Prat de la Bartra. - Sentència 2-2024 Tribunal Superior de Justícia, en el marc de la causa núm. TSJA 0000064/2023, relativa a la demanda dels Srs. Ermengol Torres Torres.
+
+ALTRES QÜESTIONS
+
+1.- Aprovació del nou protocol càmeres de videovigilància del Comú d’Encamp: vist el Protocol dels sistemes de videovigilància del Comú d’Encamp aprovat per la Junta de Govern del 3.2.23, acta 5/23; vista l’ampliació dels usuaris habilitats pel tractament dels sistemes de videovigilància aprovada per la Junta de Govern del 21.3.24, acta 6/24; vista la proposta de modificació proposada per delegat de protecció de dades; s’acorda aprovar el protocol adjunt.
+
+2.- Nomenament a la Comissió de la Mútua dels empleats del Comú d’Encamp: vist l'article 3 del Reglament intern de funcionament de la Comissió de la Mútua dels empleats del Comú d’Encamp; s’acorda el nomenament del Sr. Jordi Martinez Llarden com a representant de l’Àrea Econòmica i Financera del Comú a la Comissió de la Mútua dels empleats del Comú d'Encamp, en tant que Interventor Comunal i es deixa sense efecte l’acord de la Junta de Govern del 21.3.24, acta 6/24.
+
+3.- Autorització de la reproducció del cartell de Carnaval al bar del parc de l'Ossa: vista la sol·licitud núm. E/004704-2024 del 4.4.24 presentada per la Sra. Carolina Muñoz Delgado; s’acorda autoritzar la reproducció del cartell, sempre i quant no es modifiqui la imatge original i estigui contextualitzada conforme és una reproducció del cartell de carnaval realitzat per l’autora corresponent.
+
+4.- Contractació de les insercions publicitàries als mitjans de comunicació: vistes les demandes de preus; vist l’informe tècnic de la direcció en Comunicació i Coordinació Institucional del 14.4.2024; vist l’informe núm. IC20240056d’Intervenció Comunal; s’acorda aprovar la despesa per un import global de 77.423,25 € i a imputar a la partida pressupostària 1800/92200001/22620 i documents AC que figuren en l’informe d’intervenció.
+
+2.- EXAMEN I APROVACIÓ, SI ESCAU, DE LES PROPOSTES D’ACORD DE LA JUNTA DE GOVERN
+
+1.- Reglament del Consell de Joves (acta 8/24 de la Junta de Govern del 18.4.2024): vista la proposta d’aquest reglament; es proposa la seva aprovació.
+
+La cònsol major recorda que el reglament del Consell de Joves era un compromís per part de la majoria comunal desprès de l’èxit del Consell d’Infants. Explica que és un reglament que ha de contribuir a fomentar l’interès dels joves per a la política, per formar part de les decisions que des del comú contribueixin en la millora del seu dia a dia. Diu que és un reglament que vol potenciar la participació democràtica dels joves i la corresponsabilitat de decidir projectes que tenen un pressupost assignat per gestionar-lo. Conclou que el pressupost destinat per aquest any 2024 és de 20.000 euros.
+
+S’aprova aquesta proposta per assentiment.
+
+2.- Modificació de l'Ordinació del 22-12-2023 de preus públics del Comú d’Encamp per l’any 2024 (acta 8/24 de la Junta de Govern del 18.4.2024): vist que en la reformulació de les tarifes dels centres esportius en l’Ordinació de preus públic del Comú d’Encamp per l’any 2024, es va eliminar l’exempció existent de pagament de matrícula pels nous abonaments de la gent gran; vista la proposta de modificació de l’Ordinació recuperant l’exempció esmentada; així mateix, vista la proposta d’actualització de les tarifes de les setmanes joves, ja que a l’estar organitzat per tots els comuns en el moment d’aprovar l’Ordinació vigent no es disposava de les tarifes actualitzades;
+
+Es proposa per la seva aprovació la modificació de l’Ordinació dels preus públics del Comú d’Encamp per l’any 2024, eliminant la matrícula pels nous abonaments de la gent gran i actualitzant els preus de les activitats de les setmanes joves del 2024.
+
+El Sr. José Luís Agudo anuncia que votaran en contra i així ja van fer la reflexió en una de les comissions el fet d’equiparar el preu amb la resta de comuns. No obstant això, agraeixen públicament a la majoria comunal que hagin acceptat la proposta d’eliminar la matrícula pels nous abonaments de la gent gran. La cònsol major respon que aquesta proposta no ve arran de la petició del seu grup polític, sinó que aquesta exempció de la matrícula per als majors de 65 anys ja existia i en la publicació de l’Ordinació de preus pública hi va haver un error. Per tant, ara estan esmenant aquest error. No obstant això, celebra que estiguin contents.
+
+El Sr. José Luís Agudo reitera que tot el que contribueixi a favor dels residents a la parròquia d’Encamp, sempre són benvingudes.
+
+S’aprova aquesta proposta per majoria amb l’abstenció de l'Hble. Sra. MARTA PUJOL PALAU i de l'Hble. Sr. JOSÉ LUIS AGUDO GARCIA, del “Grup polític Avancem “.
+
+3.- Aprovació i signatura del contracte amb Purito Events, SL per la col·laboració de La Purito Andorra (acta 8/24 de la Junta de Govern del 18.4.2024): vista la proposta de contracte; vist l’informe del Departament d’Esports 2024 12; vist l’informe d’Intervenció Comunal núm. 20240037; vist el cost aproximat d’uns 15.000 € anuals per les despeses d’organització que ha d’assumir el Comú a part de l’aportació directa al promotor; es proposa l’aprovació i signatura del contracte per quatre anys amb Purito Events, SL amb una col·laboració econòmica de 30.000 €, IGI no inclòs, més les despeses d’organització esmentades, per a l’organització de La Purito Andorra els dies 10 i 11 d’agost del 2024 a Encamp.
+
+La cònsol major explica com ja saben l’esport és un dinamitzador clau de la parròquia d’Encamp, l’aposta per esdeveniments esportius com la Purito, consoliden Encamp i el Pas de la Casa, com a destinació de turisme esportiu i familiar, fomentant l’esport als nostres ciutadans, i posicionant Encamp en disciplines esportives diferents, en aquest cas, el ciclisme. Conclou que és un sector en auge i que els aporta posicionament i visitants fora de l’estació d’hivern.
+
+S’aprova aquesta proposta per assentiment.
+
+4.- Aprovació i signatura del conveni per a la construcció de les xarxes d’aigua potable i residual al Cramea (acta 8/24 de la Junta de Govern del 18.4.2024): vist l’informe d’Intervenció
+
+Comunal núm.
+
+IC20240050; així com la documentació corresponent al conveni entre el Comú d’Encamp, la societat Icònic, SL i la societat Saetde;
+
+S’aprova aquesta proposta per assentiment.
+
+La cònsol major demana que li permetin que no entri a detallar el contingut d’aquest conveni, ja que com saben, demà els mitjans de comunicació estan convocats a l’acte de signatura dels dos convenis amb ICÒNIC (CRAMEA) al centre esportiu del Pas de la Casa.
+
+3.-PROPOSTA DE NOMENAMENT, SI ESCAU, DE REPRESENTANTS COMUNALS AL CONSELL D’ADMINISTRACIÓ DE LA SOCIETAT GASOPAS I DE LA SOCIETAT SERCENSA
+
+Vist que finalitza la representació al Consell d’Administració de GASOPAS de la Sra. Jessica Montellà Molas i els Srs. Sergi Sanchez Barrionuevo i Jose Luis Agudo Garcia, nomenats al Consell de Comú 6/20 del 18.06.2020, i s’ha de nomenar quatre representants per un període de 4 anys; es proposa al Consell de Comú nomenar a les Sres. Judith Torres Aguiar, Judith Gil Casado i al Sr. Antoni Lopez Leal del partit polític Units per al Progrés i a la Sra. Claudia Cunill Rodriguez del partit polític Avancem.
+
+Vista la carta de la presidenta del partit polític ACCIÓ es proposa nomenar, en substitució del Sr. Èric Alguacil Molné i per la durada que li resta per finalitzar el mandat, el Sr. Vladimir Martins Dos Santos.
+
+Vist que finalitza la representació al Consell d’Administració de SERCENSA dels Srs. Xavier Martin Frade i Jordi Troguet Ribes i la Sra. Susagna Venable Alcaide, nomenades al Consell de Comú 10/20 del 8.10.2020, i s’ha de nomenar tres representants per un període de 4 anys; es proposa al Consell de Comú nomenar el Sr. David Mas Barrionuevo i la Sra. Neus Cervera Pallejà del Partit polític Units per al Progrés i a la Sra. Maria Carmen Garcia Oliva del Partit polític Avancem.
+
+La cònsol major s’absté en el nomenament del Sr. David Mas Barrionuevo, per relació familiar.
+
+S’aproven tots els nomenaments per assentiment, menys el nomenament del Sr. David Mas Barrionuevo que s’aprova per majoria amb l’abstenció de la cònsol major.
+
+La cònsol major desitja molts encerts als nous representants, i conclou que es farà arribar a les societats els noms dels nous representants.
+
+4.- PRECS I PREGUNTES
+
+Els Hbles. Srs. Marta Pujol Palau i José Luis Agudo Garcia, consellers de Comú del grup “Avancem“, d’acord amb el que disposa l’article 23 de l’Ordinació de modificació del Reglament d’organització i funcionament dels comuns, sol·liciten que les preguntes següents s’incorporin a l’apartat de precs i preguntes de l’ordre del dia de la sessió de Consell de Comú del 25 d’abril del 2024.
+
+Preguntes, amb la transcripció literal, que es formulen a l’Hble. Sra. Laura Mas Barrionuevo, cònsol major:
+
+1.Vist que actualment no hi ha cap sindicat de personal del Comú i ni tan sols s’ha creat un òrgan com la Comissió de Personal, el grup de la majoria preveu impulsar el desenvolupament i l’aplicació dels articles 9 i 87 de l’Ordinació del 28-9-2023 de la funció pública del Comú d’Encamp, referents a la Comissió de Personal i a la llibertat sindical?
+
+L’Ordinació de la funció pública del Comú d’Encamp es va aprovar a l’octubre de l’any passat, i la disposició final primera preveu un termini de 24 mesos per aprovar les normes reglamentàries necessàries per al desenvolupament d’aquesta Ordinació. Informa que durant aquest any 2024, des del departament i la comissió de Recursos Humans, està previst iniciar aquest desplegament normatiu.
+
+Afegeix que tot i que la creació de la Comissió de personal no formi part d’aquests reglaments obligatoris a desplegar, és un Òrgan que durant aquest any s’ha de valorar la seva creació.
+
+També aprofita per dir que fins ara la participació del personal, no s’ha fet des d’una comissió, però sí que hi ha projectes en els quals hi ha hagut una participació generalitzada, aportant idees o formant part del projecte. A tall d’exemple cita el Pla de Mobilitat, el Pla d’igualtat o bé la Mútua. Conclou que aquesta corporació sempre ha estat oberta als suggeriments dels treballadors i s’han tingut en compte, com per exemple, la petició de jornada continuada (inclosa en l’Ordinació de la funció pública) o l’intensiu en vacances escolars, efectiu des de l’1 de gener d’aquest any.
+
+La Sra. Marta Pujol espera que encara que l’ordinació no estableixi que sigui un òrgan de creació obligatori, sinó que creu que el que diu és que pot crear una comissió de personal, confia que hi hagi la voluntat de crear-la durant aquest mandat. Ho diu amb la finalitat que hi hagi realment un òrgan o un mecanisme de participació del personal en les decisions que afecti el personal, tant pot ser referent a la legislació sobre la funció pública que s’aprovi o alguna modificació d’aquesta mateixa ordinació o bé alguna altra legislació que pugui afectar els treballadors i les treballadores del comú, com poden ser processos de presa de decisions, millora de les condicions laborals, etc.
+
+No obstant això, sí que entén que els treballadors tenen la llibertat d’adreçar-se al seu superior del departament corresponent, als mateixos consellers o bé als mateixos cònsols per demanar aquestes millores. Creu que estaria bé que hi hagués algun organisme que ho preveiessin de manera col·lectiva. Per tant, que hi hagués representants dels treballadors i treballadores del comú, i tenint en compte que no hi ha un sindicat, almenys que hi hagués aquesta comissió de personal on tinguessin veu i vot, i si pogués ser en les decisions que els afecta en qüestió de millores laborals o d’altres, com poden ser de formació, mobilitat laboral, etc.
+
+Conclou que això faria que el comú també complís uns estàndards que preveu la Llei de la Funció Pública d’acció sindical i patronal o que la mateixa Constitució també esmenta i que sembla que els comuns o alguns comuns no estan tan avançats o no preveuen tants mecanismes de participació com el Govern, amb la Llei de la Funció Pública, o fins i tot les empreses privades, Llei de relacions laborals, tenen l’obligació de tenir un comitè d’empresa a partir de 30 treballadors.
+
+La cònsol major reitera que la previsió és treballar-ho des del departament de Recursos Humans i tractar-ho a la Comissió de Recursos Humans. Posa en relleu que la consellera, la Sra. Sílvia Ramond, present en aquesta sessió, ja té present que cal fer aquest desplegament normatiu que estableix l’Ordinació de la funció pública del Comú d’Encamp. Per tant, conclou que la voluntat és treballar-ho conjuntament per crear aquest comitè de personal. I en no haver-hi més assumptes a tractar, s’aixeca la sessió a les 17.25 h. S’estén aquesta acta amb el vistiplau de la cònsol major.
+
+Vist i plau El secretari general
+
+La cònsol major
+
+JORDI BABI MONTELLÀ
+
+LAURA MAS BARRIONUEVO
