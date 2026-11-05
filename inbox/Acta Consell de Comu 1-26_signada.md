@@ -1,0 +1,2125 @@
+CONSOLAT DELS HBLES. SRS. LAURA MAS BARRIONUEVO I XAVIER
+
+BENEDICTE FERNÁNDEZ CARRIO
+
+SESSIÓ ORDINÀRIA DEL CONSELL DE COMÚ DEL 9 DE FEBRER DEL 2026
+
+ACTA NÚM. 1/26
+
+A Casa Comuna, el 9 de febrer del 2026, a les 18.30 h, es reuneix el Consell de Comú en sessió ordinària presidida per l’Hble. Sra. LAURA MAS BARRIONUEVO, cònsol major, i amb l’assistència de l’Hble. Sr. XAVIER BENEDICTE FERNÁNDEZ CARRIO, cònsol menor, i els consellers de Comú: L’HBLE. SR. JOAN ALBERT SANS URGELL, CONSELLER MAJOR, L’HBLE. SR. NINO MAROT CRESPO, CONSELLER MENOR, L’HBLE. Sra. SABRINA GREGOIRE TORRES , l’Hble. Sr. BENJAMÍ RASCAGNÈRES TRAVESSET; l’Hble. Sra. SILVIA RAMOND PUNSOLA, l’Hble. Sra. VERÒNICA SOLSONA BONREPAUX, l’Hble. Sr. ANDREU RIBA VALLS I l’Hble. Sra. JUDITH TORRES AGUIAR tots ells membres del “Grup polític UP + DA + INDEPENDENTS”, I L’HBLE. SRA. MARTA PUJOL PALAU, MEMBRE DEL “GRUP polític Avancem “ hi assisteix, també, el Sr. JORDI BABI MONTELLÀ, secretari general del Comú.
+
+La cònsol major excusa l’absència de L'HBLE. SR. JOSÉ LUIS AGUDO GARCIA per motius de salut.
+
+La sessió ha estat convocada per la cònsol major en aplicació de les disposicions de l’Ordinació de modificació del Reglament d’organització i funcionament dels Comuns i amb l’ordre del dia següent:
+
+## 1. Aprovació, si escau, del projecte d’acta de la sessió anterior (núm. 11/25)
+
+## 2. Informació relativa als acords presos per la Junta de Govern ( Actes 49/25, 50/25, 51/25, 1/26, 2/26 i 3/26)
+
+3. Examen i aprovació, si escau, de les propostes d’acord de la Junta de Govern:
+
+### 3.1. Sol·licitud núm. SPP-1141/2024 d’aprovació de pla parcial de desenvolupament urbanístic presentada per la societat Alpic, SLU.-
+
+### 3.2. Autorització Compromisos per Amortització Préstecs quotes 2026.-
+
+3.3. Adjudicació dels honoraris dels treballs tècnics de redacció del Projecte de les obres de rehabilitació del Centre Esportiu del Pas de la Casa - projecte núm. 594.-
+
+## 4. Ordinació de crèdit extraordinari per liquidar el cost final de l’obra de construcció del vial d’accés a CRAMEA
+
+## 5. Precs i preguntes
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+## 1. APROVACIÓ, SI ESCAU, DEL PROJECTE D’ACTA DE LA SESSIÓ ANTERIOR (NÚM. 11/25)
+
+En no haver-hi cap esmena, s’aprova per assentiment el projecte d’acta de la sessió del Consell de Comú del 18 de desembre del 2025 (núm. 11/25).
+
+## 2. INFORMACIÓ RELATIVA ALS ACORDS PRESOS PER LA JUNTA DE GOVERN (ACTES 49/25, 50/25, 51/25, 1/26, 2/26 I 3/26)
+
+❖ vista l’acta de la JUNTA DE GOVERN núm. 49/25, del 18 de desembre del
+
+2025, s’informa dels acords presos en aquella reunió:
+
+1.- COMISSIONS PERMANENTS
+
+### 1.1. COMISSIÓ DE CULTURA, INFÀNCIA I JOVENTUT
+
+#### 1.1.1. Contractació del musical infantil "Alicia en el vaixell de les Meravelles" de la Cia. Trencadís
+
+Vista la programació cultural prevista per l’any 2026; vistos els pressupostos presentats adjunts a l’acta de la comissió; s’acorda la contractació del musical infantil pel 7.3.2026 a l’empresa Gatzara Espectacles, SL, per un import de 5.850,00 €, IGI no inclòs, a càrrec de la partida pressupostària 5000/33400111/22680.
+
+Atès que aquesta despesa s’executarà amb càrrec al pressupost de l’any vinent, l’autorització d’aquesta proposta queda supeditada a l’aprovació del pressupost de l’any 2026.
+
+#### 1.1.2. Contractació de l'obra "PicassA" de la Cia. La Nogal
+
+Vista la programació cultural 2026; vistos els pressupostos adjunts a l’acta de la comissió; s’acorda la contractació de l’obra de dansa “PICASSa” pel dia 7.2.2026 a les instal·lacions de Ràdio Andorra, ja que la peça està dissenyada per ser representada en espais museístics, sense que suposi cap cost addicional; s’acorda adjudicar la contractació de l’espectacle a l’empresa Gatzara Espectacles, SL, per un import de 5.450,00 €,IGI no inclòs, a càrrec de la partida pressupostària 5000/33400111/22680. Atès que aquesta despesa s’executarà amb càrrec al pressupost de l’any vinent, l’autorització d’aquesta proposta queda supeditada a l’aprovació del pressupost de l’any 2026.
+
+#### 1.1.4. Conveni de col·laboració amb l’Ambaixada de França per la programació cultural 2026
+
+Vista la proposta de conveni i seguint la col·laboració amb l’ambaixada francesa per la programació cultural del Departament; s’acorda l’aprovació i la signatura del document.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+#### 1.1.5. Concurs del disseny del cartell de l'edició 2026 del Carnaval d'Encamp
+
+La Comissió proposa convocar el concurs del disseny del cartell de l’edició 2026 del Carnaval d’Encamp, s’adjunten les bases del concurs.Error! No s'ha trobat l'origen de la referència.
+
+1.1.6. Autorització de pagament de factures superiors a 5.000 € Vistes les factures d’imports superiors als 5.000 € que han estat adreçades al Departament de Cultura, Infància i Joventut segons quadre adjunt; s’acorda autoritzar-ne el seu pagament.
+
+#### 1.1.7. Convocatòria del concurs públic nacional pel subministrament de càtering per les activitats de Joventut del 2026
+
+S’acorda la convocatòria d’un concurs públic per a la contractació d’una empresa que estigui degudament autoritzada per a efectuar el subministrament del càtering per les activitats de joventut del 2026, el concurs és de caràcter nacional i la modalitat de contractació ordinària i pel procediment obert, d’acord amb les condicions que s’estableixen en el plec de bases que s’adjunta. Vist que aquesta despesa s’executarà amb càrrec al pressupost de l’any vinent, l’autorització d’aquesta proposta queda supeditada a l’aprovació del pressupost de l’any 2026.
+
+### 1.2. COMISSIÓ D'ADMINISTRACIÓ
+
+1.2.1. Sol·licituds de Cens Emfitèutic s’acorda aprovar les propostes de resolució de les 10 sol·licituds de cens emfitèutic següents:
+
+Registre
+
+Sol·licitant
+
+Objecte
+
+Resolució
+
+Observacions
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/021229- 2025 | Jorge Alberto ROSON HERNANDEZ | Apartament 716 bloc 7 planta 1 | Favorable | Demanda de cessió de drets Sup. del |
+|  | HERNANDEZ Maria Concepción HERNANDEZ | planta 1 Edifici Frontera Blanca |  | Sup. del Cadastre: 35,09 m2 Preu: 115.000,00 |
+|  | HERNANDEZ GARCIA | Blanca Av. |  | Preu: 115.000,00 € |
+|  | GARCIA | Av. d’Encamp, núm. 39 |  | € Adquirent: BUBURU, SL Inf. 205/2025 de cens emfitèutic |
+| E/021409- 2025 | SANDI, SL | Apartament G17 planta G Edifici Sandi IV | Favorable | Demanda de cessió de drets Sup. del Cadastre: 41,41 m2 |
+|  |  | IV C. de la Solana, núm. 67 |  | m2 Preu: 81.167,00 € Adquirent: Carmen Maria |
+
+| EMPRESA |  | DATA | CONCEPTE |  | IMPORT (SENSE IGI) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | (SENSE IGI) |  |
+| ESTATGES, SLU |  | Novembre 25 | Monitoratge Àrea Encamp | 10.115,20 € |  |  |
+| ESTATGES, SLU |  | Novembre 25 | Monitoratge Llaç Encamp | 9.766,40 € |  |  |
+| 1.1.7 | 7. Convocatòria del concurs públic nacional pel subministrament de |  |  |  |  |  |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+|  |  |  |  | GASSOL ARGILES Inf. 206/2025 de cens emfitèutic |
+| --- | --- | --- | --- | --- |
+| E/021503- 2025 | Antoine Paul CHIARAMONTI Raphaël Nicolas | Apartament F5 planta F Edifici Sandi IV | Favorable | Demanda de cessió de drets Sup. del Cadastre: 32,63 |
+|  | Nicolas Christian CINOTTO | IV C. de la Solana, núm. 67 |  | Cadastre: 32,63 m2 Preu: 95.000,00 € Adquirent: LAS CIMAS, SLU Inf. 207/2025 de cens emfitèutic |
+| E/021645- 2025 | SANDI, SL | Apartament H3 planta H Edifici Sandi IV | Favorable | Demanda de cessió de drets Sup. del Cadastre: 60,34 |
+|  |  | IV C. de la Solana, núm. 67 |  | Cadastre: 60,34 m2 Preu: 120.000,00 € Adquirent: SKYFALL, SL Inf. 208/2025 de cens emfitèutic |
+| E/021827- 2025 | Bernadette Irène POUSSIBET | Apartament 408 planta 4 Edifici Sky C. Catalunya, núm. 13 | Favorable | Demanda de cessió d’1/3 part de drets per herència Sup. del Cadastre: 29,00 m2 Adquirent: Bernadette Irène POUSSIBET Inf. 209/2025 de cens emfitèutic |
+| E/021853- 2025 | Mustapha BENZIADA | Apartament 302 planta 3 | Favorable | Demanda de cessió de drets |
+| 2025 | BENZIADA | 302 planta 3 Edifici Gran Tetras Av. |  | cessió de drets Sup. del Cadastre: 33,82 m2 |
+|  |  | Av. d’Encamp, núm. 37 |  | m2 Preu: 108.000,00 € Adquirents: Pietro VENTURI i Olga BULAVINA Inf. 210/2025 de cens emfitèutic |
+| E/021994- 2025 | SANDI, SL | Apartament E8 planta E Edifici Sandi IV | Favorable | Demanda de cessió de drets Sup. del Cadastre: 46,18 |
+|  |  | IV C. de la Solana, núm. 67 |  | Cadastre: 46,18 m2 Preu: 92.115,00 € Adquirent: Arthur Jessy Manuel GEA |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+|  |  |  |  | Inf. 211/2025 de cens emfitèutic |
+| --- | --- | --- | --- | --- |
+| E/022076- 2025 | BON AIRE, SLU | Apartament 3B planta 3 Edifici Condor C. Bearn, núm. 14 | Favorable | Demanda de cessió de drets Sup. del Cadastre: 36,23 m2 Preu: 99.000,00 € Adquirent: António Augusto CABEÇA COSTA Inf. 212/2025 de cens emfitèutic |
+| E/022266- 2025 | Antoine Paul CHIARAMONTI Raphaël Nicolas | Apartament H7 planta H Edifici Sandi IV | Favorable | Demanda de cessió de drets Sup. del Cadastre: 32,58 |
+|  | Nicolas Christian CINOTTO | IV C. de la Solana, núm. 67 |  | Cadastre: 32,58 m2 Preu: 103.000,00 € Adquirent: Séverine Rolande Joffrette PAYSÉ Inf. 213/2025 de cens emfitèutic |
+| E/022267- 2025 | Antoine Paul CHIARAMONTI Raphaël Nicolas | Apartament H8 planta H Edifici Sandi IV | Favorable | Demanda de cessió de drets Sup. del Cadastre: 29,26 |
+|  | Nicolas Christian CINOTTO | IV C. de la Solana, núm. 67 |  | Cadastre: 29,26 m2 Preu: 97.000,00 € Adquirent: Séverine Rolande Joffrette PAYSÉ Inf. 214/2025 de cens emfitèutic |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+1.2.3. Sol·licituds de plànols cadastrals s’acorda aprovar les propostes de resolució de les 2 sol·licituds de plànols cadastrals següents:
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/016327- 2025 | Verònica IBÁN GIL | Habitatge planta 2 porta 2 Aparcament | Favorable | Informe 225/2025 |
+| E/020922- 2025 | Joan FAURA MORROS | Aparcament planta -1 núm. 11 Edifici Gemels II Av. de la Bartra, núm. 13 Parcel·la Font del Dallaire núm. 6 | Favorable | Informe 295/2025 |
+| E/021059- 2025 | ECO LIFE PROMOCIONS, SL | 6 El Mollar Terres del Mollar El Mollar | Favorable | Informe 297/2025 |
+| E/021290- 2025 | Carles ALCEDA MARTÍNEZ | Habitatge planta 3 porta 2 Aparcament planta -1 núm. 9 Edifici Gemels II Av. de la Bartra, núm. 13 | Favorable | Informe 300/2025 |
+| E/021695- 2025 | Maria CODINA FARRÀS | Habitatge planta 3 porta 17, bloc G Aparcament planta 2 núm. 14 Traster planta 2 núm. 14 Aparcament planta 2 núm. 15 Traster planta 2 núm. 15 Traster planta -1 núm. G2, bloc G Conjunt Residencial Vila del Sol Ctra. de Vila, núm. 38 | Favorable | Informe 303/2025 |
+| E/021880- 2025 | Stanislav BERGER | Habitatge planta 1 porta 1 Aparcament planta -1 núm. 5 Traster planta -1 núm. 5 Edifici Àrtic I C. de la Vena, núm. 14 | Favorable | Informe 304/2025 |
+| E/021950- 2025 | Julio NUALART SIERRA | Aparcament planta -1 núm. 20 Edifici Prat Solà I Av. Príncep Benlloch, núm. 4 | Favorable | Informe 305/2025 |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+| --- | --- | --- | --- | --- | | E/022430- 2025 | Pere TORRES | Sol·licitud de plànols del Registre del cadastre, en | Favorable | Informe 307/2025 L’Hble. Sr. Nino | | 2025 | TORRES MONTELLÀ | Registre del cadastre, en format paper i digital, del bé amb referència cadastral 20000249E020110001, situat a | | L’Hble. Sr. Nino MAROT CRESPO s’inhibeix | | E/022491- 2025 | Jan PEDRAJA | 20000249E020110001, situat a la carretera de Vila, núm. 65 Sol·licitud de plànols del Registre del cadastre, en | Favorable | Informe 308/2025 | | 2025 | PEDRAJA BATISTA | Registre del cadastre, en format paper i digital, dels béns amb referències cadastrals | | | | | | cadastrals 20000605F051060001 i 20000605F051060023, situats al carrer Mirador d’Encamp, | | | | | | carrer Mirador d’Encamp, núm. 37 | | |
+
+En les reunions de la Comissió i de la Junta de Govern l’Hble. Sr. Nino Marot Crespo s’absenta i s’absté en el tractament de la sol·licitud núm. E/022430- 2025, atesa la seva relació de parentiu amb el sol·licitant.
+
+1.2.4. Sol·licituds d'obertures i modificacions de Comerç i Indústria s’acorda aprovar les propostes de resolució de les 7 sol·licituds d’obertures i modificacions de Comerç i Indústria següents:
+
+Registre
+
+Sol·licitant
+
+Objecte
+
+Resolució
+
+Observacions
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/012376- 2025 | Felipe MABAGOD | Obertura del negoci “TI AMO EUROPA SERVEIS DE NETEJA”, al carrer de la Vena, núm. 3, 3r pis, porta 7a, de l’edifici La Vena I, d’Encamp, destinat a empresa de neteja. | Favorable | Informe 263/2025 |
+| E/013290- 2025 | Álvaro QUILES BERNABEU | Obertura del negoci “BRÚIXOLA DEL BOSC”, al carrer les Arribes, núm. 7, | Favorable | Informe 289/2025 |
+|  | BERNABEU | carrer les Arribes, núm. 7, planta -1, porta 3a, de l’edifici Betània 2, d’Encamp, destinat a activitats de guia de muntanya i d’escalada i de vies ferrades i venda al detall per internet d’articles esportius. |  |  |
+| E/019201- 2025 | RUFER, SAU | Obertura del negoci “HOTEL CATANIES”, al carrer Sant Jordi, núm. 5, del Pas de la Casa, destinat a hotel i restaurant. | Favorable | Informe 425/2025 |
+| E/019769- 2025 | Immaculada BLANCH ROCA | Obertura del negoci “ACARONA”, a l’avinguda d’Encamp, núm. 19, 1r pis, porta 15, de l’edifici Perdiu Blanca, del Pas de la Casa, destinat a centre d’estètica i massatges (sense finalitat terapèutica). | Favorable | Informe 434/2025 |
+| E/020402- 2025 | KETT, SLU | Obertura del negoci “HOTEL NIU”, a l’avinguda de François Mitterrand, núm. 102, | Favorable | Informe 442/2025 L’Hble. Sra. Laura MAS |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+|  |  | d’Encamp, destinat a hotel i bar. |  | BARRIONUEVO s’inhibeix |
+| --- | --- | --- | --- | --- |
+| E/022424- 2025 | Saskia FADRIQUE TORRES | Obertura del negoci “SASKIA GROUP”, al carrer Mirador d’Encamp, núm. 16, planta baixa, porta 3a, del Conjunt Residencial Anyó 4, d’Encamp, | Favorable | Informe 475/2025 |
+|  |  | Anyó 4, d’Encamp, destinat a agència de publicitat, de màrqueting i de comunicació; gestió professional de drets d’imatge inclosa la gestió d’autoritzacions |  |  |
+|  |  | gestió d’autoritzacions relatives a drets d’imatge i la seva |  |  |
+|  |  | d’imatge i la seva explotació i, organització |  |  |
+|  |  | organització d’esdeveniments, fires i congressos. |  |  |
+|  |  | congressos. |  |  |
+| E/022429- 2025 | Alexander MÉNDEZ FERNANDEZ | Obertura del negoci “D.T. MUNTATGES”, al carrer del Doro, 1r pis, | Favorable | Informe 476/2025 |
+|  | FERNANDEZ | carrer del Doro, 1r pis, porta 3a, de l’edifici La |  |  |
+|  |  | porta 3a, de l’edifici La Llenguadera 1, |  |  |
+|  |  | Llenguadera 1, d’Encamp, destinat a |  |  |
+|  |  | d’Encamp, destinat a col·locació de parquet, instal·lació de materials de fusteria i realització de treballs de paleta. |  |  |
+
+En les reunions de la Comissió i de la Junta de Govern l’Hble. Sra. Laura Mas Barrionuevo s’absenta i s’absté en el tractament de la sol·licitud núm. E/020402-2025.
+
+#### 1.2.5. Sol·licituds de baixes de Comerç i Indústria
+
+Error! No s'ha trobat l'origen de la referència.s’acorda aprovar la proposta de resolució d’1 sol·licitud de baixa de Comerç i Indústria següent:
+
+Registre
+
+Sol·licitant
+
+Objecte
+
+Resolució Observacions
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/0E/022211- 2025 | NC CONSULTING, SLU | Baixa del negoci anomenat “NC CONSULTING”, situat a l’avinguda de Joan Martí, núm. 90, 1r pis, porta 5a, espai 10, de l’edifici Picasso, d’Encamp. | Favorable | Informe núm. 471/2025 |
+
+### 1.3. COMISSIÓ D'HIGIENE, MEDI AMBIENT I AGRICULTURA
+
+#### 1.3.1. Retorn romanents abocador del Maià 2025
+
+Vist que una vegada finalitzada la campanya de l’abocador, han quedat romanents econòmics d’algunes empreses registrades durant aquest 2025, dels quals cal efectuar els retorns corresponents; vist l’informe 97/25 de data 26.11.2025, de la tècnica de sostenibilitat;
+
+s’acorda l’aprovació del retorn del romanents econòmics corresponents.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+1.3.2. Campanya per a la recollida d'andròmines a Encamp Vist que per tal de millorar el servei de recollida d’andròmines al sector d’Encamp, i reduir els actes incívics de dipòsit incontrolat de residus a la via pública, s’han sol·licitat pressupostos per al disseny d’una campanya educativa per a particulars i activitats comercials; vistes les ofertes presentades adjuntes a l’acta de la comissió; vist l’informe IHMAIA 98/25 del departament;
+
+s’acorda, l’adjudicació de la campanya a l’empresa WOW per un import de 14.943,50€, IGI inclòs, a imputar a la partida pressupostària 2620/16200001/22685, segons document d’autorització i compromís AC- 202500085185.
+
+## 2. ALTRES QÜESTIONS
+
+2.1. Autorització de pagament de factures superiors a 5.000 € vista la relació de factures d’imports superiors als 5.000€ que han estat adreçades a Secretaria General; s’acorda autoritzar-ne el pagament, segons quadre adjunt:
+
+2.2. Resolució expedient sancionador cens de població 24198/2025 Vista la documentació aportada, en l’expedient núm. ICP-24182/2025 s’ha constatat que la Sra. Agustina PUJOL no s’ha inscrit en el cens parroquial en el termini màxim de sis mesos a comptar de l’inici de la residència a la parròquia d’Encamp, segons preveu l’article 6 de la Llei 16/2025 del cens; vista la incoació de l’expedient sancionador; s’acorda la resolució de l’expedient sancionador en què es conclou que la conducta descrita és constitutiva d’una infracció lleu d’acord amb el que disposa l’article 24.1 de la Llei del cens i l’aplicació d’una multa de 150€, segons preveu l’article 25 de la Llei del cens. Encamp, a data de la signatura electrònica ❖ vista l’acta de la JUNTA DE GOVERN núm. 50/25, del 23 de desembre del
+
+2025, s’informa dels acords presos en aquella reunió:
+
+1.- COMISSIONS PERMANENTS
+
+### 1.1. COMISSIÓ D'ADMINISTRACIÓ
+
+#### 1.1.1. Numeració d'edificis del carrer del Pedral
+
+Vist el plànol que s’adjunta; s’acorda aprovar les numeracions que s’hi detallen.
+
+| EMPRESA | DATA | CONCEPTE | IMPORT (SENSE IGI) |
+| --- | --- | --- | --- |
+| EUROLEX ANDORRA EUROLEX | 10.12.2025 | SAETDE Procediment competències de projectes núm. ref. 230.2023 Acord Preu just SAETDE núm. Ref. | 7.414,27 € |
+| EUROLEX ANDORRA | 11.12.2025 | Acord Preu just SAETDE núm. Ref. 416.2025 | 7.367,25 € |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+1.1.2. Sol·licituds de cens emfitèutic s’acorda aprovar les propostes de resolució de les 6 sol·licituds de cens emfitèutic següents:
+
+Registre
+
+Sol·licitant
+
+Objecte
+
+Resolució
+
+Observacions
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/022526- 2025 | Alexandre Sébastien Daniel DE RAVEL | Apartament G2 planta G Aparcament 6 planta B Edifici Sandi IV C. de la Solana, núm. 67 | Favorable | Demanda de cessió de drets Sup. del Cadastre: 47,67 m2 i 12,76 m2 respectivament Preu: 174.000,00 € Adquirents: Jean- Christophe Fabrice CIANO i Sandrine Lydie Stéphanie BONATI Inf. 215/2025 de cens emfitèutic |
+| E/022605- 2025 | Álvaro RAMON GONZALEZ Almudena LOPEZ BLAYA | Apartament 804 planta 8 Edifici Lake Placid C. de la Solana, núm. 19 | Favorable | Demanda de cessió de drets Sup. del Cadastre: 29,34 m2 Preu: 103.550,00 € Adquirent: Maria JIMENEZ SERRANO Inf. 216/2025 de cens emfitèutic |
+| E/022656- 2025 | Nathalie FARDET | Unitat immobiliària núm. 17 formada pel conjunt inseparablement unit següent: Apartament A planta 5 Aparcament 1 planta -2 Traster 18 planta baixa Edifici Núria C. de la Solana, núm. 41 | Favorable | Demanda de cessió de drets Sup. del Cadastre: 65,03 m2, 13,28 m2 i 3,35 m2 respectivament Preu: 242.000,00 € Adquirent: Sonia Myriam Nicole LOUPIAS Inf. 217/2025 de cens emfitèutic |
+| E/022698- 2025 | Emmanuel François DETEIX | Apartament 14 planta 4 Edifici Sol d’Or C. Sant Jordi, núm. 1 | Favorable | Demanda de cessió de drets Sup. del Cadastre: 45,38 m2 Preu: 125.000,00 € Adquirents: Wilson Ariel MARIN LUCIO i Audrey Elodie LORIOU Inf. 218/2025 de cens emfitèutic |
+| E/022759- 2025 | Goretti LÓPEZ JÁUREGUI, Saig, en execució de la causa núm. 4000155/2022 | Apartament 205 planta 2 Edifici Sky C. Catalunya, núm. 13 | Favorable | Adjudicació de drets Sup. del Cadastre: 39,13 m2 Preu: 85.000,00 € Adquirents: Jordi LLOVERA MASSANA i Pilar FARRÉ MASSANA Inf. 219/2025 de cens emfitèutic |
+| E/022760- 2025 | Jordi LLOVERA MASSANA Pilar FARRÉ MASSANA | Apartament 205 planta 2 Edifici Sky C. Catalunya, núm. 13 | Favorable | Demanda de cessió de drets Sup. del Cadastre: 39,13 m2 Preu: 85.000,00 € Adquirent: : ROC DE LES BRUIXES, SA Inf. 220/2025 de cens emfitèutic |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+1.1.3. Sol·licituds de cadastre s’acorda aprovar les propostes de resolució de les 2 sol·licituds de cadastre següents:
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/022458- 2025 | Verònica LORENZO PRADO | Habitatge planta 1 porta 6 Aparcament planta -2 núm. 7 | Favorable | Informe 309/2025 |
+|  |  | núm. 7 Traster adscrit planta -2 núm. 7 |  |  |
+| E/022661- 2025 | Ester FERNANDEZ FARINA | núm. 7 Edifici Prat de la Farga, bloc I C. 14 de Març, núm. 1 Habitatge planta baixa porta 601 | Favorable | Informe 310/2025 |
+| 2025 | FARINA | porta 601 Edifici Aparthotel El Pedral, bloc F C. del Pedral, núm. 4 |  | 310/2025 |
+
+1.1.4. Sol·licituds d'obertures i modificacions de Comerç i Indústria s’acorda aprovar les propostes de resolució de les 2 sol·licituds d’obertures i modificacions de Comerç i Indústria següents:
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/014879- 2025 | BOURIOL, SL | Canvi de titular del negoci “EL GARGANTUA”, registrat a nom del Sr. Gregory Jean Fabrice FALLET, situat a l’avinguda d’Encamp, núm. 39, local 23, de l’edifici Frontera Blanca, del Pas de la Casa, a favor de la societat BOURIOL, SL. | Favorable | Informe 329/2025 |
+| E/017971- 2025 | ANALÍTICA FI, SL | Obertura del negoci “LABORATORI ALVAREZ”, al carrer Major, núm. 15, baixos, d’Encamp, destinat a punt d’extracció i recollida de mostres per a anàlisis clíniques. | Favorable | Informe 398/2025 |
+
+1.1.5. Sol·licituds de baixes de Comerç i Indústria s’acorda aprovar la proposta de resolució d’1 sol·licitud de baixa de Comerç i Indústria següent:
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/022689- 2025 | BOMBA ROSSA, SLU | Baixa del negoci anomenat “BOMBA ROSSA”, situat al carrer de la Solana, núm. 29, 1r pis, porta 3a, de l’edifici Consuegra II, del Pas de la Casa. | Favorable | Informe núm. 481/2025 |
+
+1.1.6. Sol·licituds de terrasses s’acorda aprovar la proposta de resolució d’1 sol·licitud terrassa següent:
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+| --- | --- | --- | --- | --- | | E/021273- 2025 | BOURIOL, SL | Demanda d’instal·lar dues terrasses de bar per la temporada d’hivern 2025- 2026, davant del negoci “EL GARGANTUA”, situat a l’avinguda d’Encamp, núm. 39 de l’edifici Frontera Blanca, local núm. 23, del Pas de la Casa | Favorable | Informe INS- 92/2025 |
+
+## 2. ALTRES QÜESTIONS
+
+2.1. Resolució expedient sancionador cens de població 24832/2025 Vista la documentació aportada, en l’expedient núm. ICP-24801/2025 s’ha constatat que la Sra. Sra. Joana Janer Ruiz, actuant en tant que representant del menor, Noah Ruiz Janer, no s’ha inscrit en el cens parroquial en el termini màxim de sis mesos a comptar de l’inici de la residència a la parròquia d’Encamp, segons preveu l’article 6 de la Llei 16/2025 del cens; vista la incoació de l’expedient sancionador; s’acorda la resolució de l’expedient sancionador en què es conclou que la conducta descrita és constitutiva d’una infracció lleu d’acord amb el que disposa l’article 24.1 de la Llei del cens i l’aplicació d’una multa de 150€, segons preveu l’article 25 de la Llei del cens.
+
+2.2. Resolució expedient sancionador cens de població 24214/2025 Vista la documentació aportada, en l’expedient núm. ICP-24195/2025 s’ha constatat que la Sr. Joao Pedro Rocha Ferreira no s’ha inscrit en el cens parroquial en el termini màxim de sis mesos a comptar de l’inici de la residència a la parròquia d’Encamp, segons preveu l’article 6 de la Llei 16/2025 del cens; vista la incoació de l’expedient sancionador; s’acorda la resolució de l’expedient sancionador en què es conclou que la conducta descrita és constitutiva d’una infracció lleu d’acord amb el que disposa l’article 24.1 de la Llei del cens i l’aplicació d’una multa de 150€, segons preveu l’article 25 de la Llei del cens.
+
+❖ vista l’acta de la JUNTA DE GOVERN núm. 51/25, del 29 de desembre del 2025, s’informa dels acords presos en aquella reunió:
+
+## 3. ALTRES QÜESTIONS
+
+1.1 Adjudicació de les obres de millora de la captació de Montuell, PB364/25.
+
+El passat 22 de desembre del 2025, es va dur a terme l’obertura del concurs negociat sense publicitat per a la contractació directa en segona
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad convocatòria, mitjançant demanda de preus, de les obres de millora de la captació de Montuell PB-364/25 i amb referència d’expedient EC2025054.2
+
+Vist l’informe de la Mesa de Contractació del dia 22 de desembre del 2025, s’acorda adjudicar a l’empresa Construccions Entrimo, SLU, per un import de 84.308,38 (IGI no inclòs), en ser l’oferta millor valorada, amb càrrec a la partida pressupostaria 2040/45200001/60395, C-202500087741.
+
+1.2 Declarar desert el concurs per al subministrament i muntatge d'un apantallament acústic per les màquines exteriors del CESE. El passat 22 de desembre del 2025, es va dur a terme l’obertura del concurs d’obres per a la contractació del subministrament i muntatge d’un apantallament acústic per les màquines exteriors del centre esportiu i sociocultural d’Encamp. PB-371/25 i amb referència d’expedient EC2025068;
+
+Vist que no s’ha presentat cap oferta i tenint en compte l’informe de la Mesa de Contractació del dia 22 de desembre de 2025, s’acorda declarar desert l’adjudicació pel subministrament i muntatge d’un apantallament acústic per les màquines exteriors del CESE.
+
+### 1.3 Demanda de preus pels treballs de millora de zones de pas al Parc de l'Ossa
+
+Vista la necessitat d'actuació en alguns sectors del Parc de l'Ossa per millorar algunes zones de pas; vistos els pressuposts adjunts, seguint el procediment establert per la modalitat de contractació directa; s’acorda l’adjudicació dels treballs d’obra civil a l’empresa Centre de jardineria La Grandalla, SL per un import de 10.654,30 € (inclòs el 4,5 % d’IGI), amb la proposta d’autorització i compromís de despesa a imputar a la partida pressupostària 2600/17100001/6072000, segons document AC- 202500087727.
+
+1.4 Adjudicació concurs públic dels treballs tècnics de redacció de projecte i de direcció de l’obra d’instal·lació de proteccions contra la caiguda de blocs rocosos a l’edifici de la Bartra - projecte núm. 609
+
+Vist l’informe de la mesa de contractació de l’expedient núm. EC2025066 i l’informe núm. 10853 del Departament d’Obres Públiques i Urbanisme; s’acorda l’adjudicació dels treballs tècnics de redacció de projecte a l’empresa Euroconsult, SAU per un import de 13.585,00 € (inclòs el 4,5 % d’IGI) i d’uns honoraris de direcció d’obra corresponents a l’1,60 % del cost d’obra adjudicat, amb la proposta d’autorització i compromís de despesa a imputar a la partida pressupostària 4000/15100001/6020000, segons document C-202500087541 pels treballs de redacció de projecte, i segons document C-202500087565 pels honoraris de direcció d’obra.
+
+1.5 Adjudicació concurs públic dels treballs tècnics de redacció de projecte i de direcció de l’obra de construcció de serveis sanitaris a l’antiga duana del Pas de la Casa - projecte núm. 608
+
+Vistos els informes de la mesa de contractació de l’expedient núm. EC2025057 i l’informe núm. 10855 del Departament d’Obres Públiques i
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+Urbanisme; s’acorda l’adjudicació dels treballs tècnics de redacció de projecte a l’empresa Azahara Jurado - Arquitecta per un import de 12.749,00 € (inclòs el 4,5 % d’IGI) i d’uns honoraris de direcció d’obra corresponents al 5,00 % del cost d’obra adjudicat, amb la proposta d’autorització i compromís de despesa a imputar a la partida pressupostària 4000/15100001/6020000, segons document C-202500087562 pels treballs de redacció de projecte, i segons document C-202500087654 pels honoraris de direcció d’obra.
+
+1.6 Adjudicació concurs públic dels treballs tècnics de redacció de projecte i de direcció de l’obra de reforma de l’antiga escola bressol del Pas de la Casa - projecte núm. 607
+
+Vistos els informes de la mesa de contractació de l’expedient núm. EC2025065 i l’informe núm. 10857 del Departament d’Obres Públiques i Urbanisme; s’acorda l’adjudicació dels treballs tècnics de redacció de projecte a l’empresa Azahara Jurado - Arquitecta per un import de 14.107,50 € (inclòs el 4,5 % d’IGI) i d’uns honoraris de direcció d’obra corresponents al 5,22 % del cost d’obra adjudicat, amb la proposta d’autorització i compromís de despesa a imputar a la partida pressupostària 4000/15100001/6020000, segons document C-202500087569 pels treballs de redacció de projecte, i segons document C-202500087570 pels honoraris de direcció d’obra.
+
+La cònsol major dona la paraula al Sr. Joan Albert Sans Urgell, president de la Comissió de Cultura, Infància i Joventut, perquè expliqui en què consistirà aquest projecte.
+
+El Sr. Joan Albert Sans Urgell intervé per explicar que L’Alberg de la Baronia ha estat, i continua sent, un pilar fonamental per a l’educació en el lleure a Encamp. Durant dècades, ha donat un servei excel·lent a milers d’infants i joves. No obstant això, per tal que pugui seguir complint aquesta missió amb els estàndards de qualitat actuals, cal fer un pas endavant en la seva actualització.
+
+Diu que amb l’adjudicació dels treballs tècnics de redacció de projecte i de direcció d’obra per a la reforma de l’Alberg de la Baronia, s’inicia una transformació que busca l’excel·lència en tres eixos principals:
+
+1. Modernització i confort: La reforma permetrà que l’Alberg s’adapti plenament a les necessitats dels usuaris i monitors, repensant l’edifici en la seva globalitat, millorant l’accessibilitat i creant espais més polivalents i funcionals.
+
+2. Sostenibilitat i eficiència:
+
+La reforma prioritzarà l’eficiència energètica, traduint-se en una gestió més sostenible i en un estalvi de costos de manteniment a llarg termini. A més, l’edifici es convertirà en una eina pedagògica per transmetre valors ecològics als joves.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+3. Inversió amb retorn social: Aquesta actuació no és només una obra; és una aposta pel futur d’un model pedagògic i de convivència. Un alberg renovat i coherent amb els temps actuals permetrà continuar sent un referent per a colònies i estades esportives.
+
+Conclou que, en lloc d’intervencions parcials, s’ha optat per una visió global que garanteixi el correcte funcionament coordinat de totes les instal·lacions, mostrant així el compromís del Comú amb la joventut i amb el manteniment d’un patrimoni que és de tots els encampadans i encampadanes.
+
+1.7 Adjudicació concurs públic dels treballs tècnics de redacció de projecte i de direcció de l’obra de reforma de l’alberg de la Baronia - projecte núm. 606
+
+Vistos els informes de la mesa de contractació de l’expedient núm. EC2025056 i l’informe núm. 10859 del Departament d’Obres Públiques i Urbanisme; s’acorda l’adjudicació dels treballs tècnics de redacció de projecte a l’empresa Azahara Jurado - Arquitecta per un import de 13.294,49 € (inclòs el 4,5 % d’IGI) i d’uns honoraris de direcció d’obra corresponents al 3,00 % del cost d’obra adjudicat, amb la proposta d’autorització i compromís de despesa a imputar a la partida pressupostària 4000/15100001/6020000, segons document C-202500087572 pels treballs de redacció de projecte, i segons document C-202500087598 pels honoraris de direcció d’obra.
+
+La cònsol major dona novament la paraula al Sr. Joan Albert Sans Urgell, president de la Comissió de Cultura, Infància i Joventut, perquè expliqui en què consistirà aquesta reforma.
+
+El Sr. Joan Albert Sans Urgell explica que aquest punt té una transcendència especial per al Pas de la Casa. Amb l’adjudicació de la redacció d’aquest projecte es posa la primera pedra d’un nou model de serveis per a la vila.
+
+Actualment, la biblioteca i l’Espai Jove ofereixen un servei excel·lent dins del centre esportiu, però la seva ubicació actua, més interior, limita la seva capacitat de creixement i la seva interacció amb la vida de la vila. Amb el trasllat a l’antiga escola bressol, es busca proporcionar-los centralitat i visibilitat:
+
+1. A peu de carrer i obert a la vila: Es passarà d’espais més tancats a una instal·lació amb presència directa a la trama urbana, amb espais oberts i accessibles que integrin cultura i lleure saludable en la vida quotidiana del Pas.
+
+2. Sinergies i identitat pròpia: La proximitat de la biblioteca i l’Espai Jove en un mateix edifici genera una atracció mútua: l’Espai Jove apropa públic a la biblioteca, i la biblioteca ofereix recursos i inspiració als joves. Cada espai mantindrà la seva personalitat, silenci i estudi a la biblioteca, dinamisme i creativitat a l’Espai Jove, garantint la comoditat dels usuaris.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+3. Vitalitat comunitària: Aquest projecte no és només una obra, sinó la creació d’un pol de dinamització per a la vila. El Pas guanyarà una biblioteca moderna amb millors condicions d’espai i llum, i els joves tindran un entorn propi on ser protagonistes de la vida comunal. Finalitza posant en relleu que traslladar i remodelar aquests serveis donarà una nova dimensió al coneixement i la creativitat, convertint-los en el cor cultural i social de la comunitat del Pas de la Casa.
+
+### 1.8 Demanda de preus per la instal·lació d'un sistema d'ultrasons a la llacuna del Parc de l'Ossa
+
+Vista la necessitat d'actuació a la llacuna del Parc de l'Ossa per tal d'eliminar les algues i llenties d'aigua; vista la nota tècnica redactada per la direcció facultativa de les obres; vistos els pressupostos per la instal·lació d'un sistema d'ultrasons per eliminar les esmentades algues, seguint el procediment establert per la modalitat de contractació directa; s’acorda l’adjudicació dels treballs d’actuació a la llacuna a l’empresa Ecologia i Tècnica, SAU (Ecotècnic) per un import de 14.947,68 € (inclòs el 4,5 % d’IGI), amb la proposta d’autorització i compromís de despesa a imputar a la partida pressupostària
+
+2600/17100001/6072000, segons document AC202500087768.
+
+❖ vista l’acta de la JUNTA DE GOVERN núm. 1/26, del 14 de gener del 2026, s’informa dels acords presos en aquella reunió:
+
+1.- PROPOSTES DE LES COMISSIONS PERMANENTS
+
+1.1 COMISSIÓ DE CULTURA, INFÀNCIA I JOVENTUT .1.1.
+
+Contractació del servei tècnic per als concerts de "Tarta Relena" i "Gala i Ovidio" .1.2.
+
+Contractació del concert “Gala i Ovidio”
+
+Vist el marc del cicle cultural 2026; vista la demanda de preus adjunta a l’acta de la comissió; vistes les ofertes presentades; s’acorda la contractació de la societat Gatzara Espectacles, SL per a l’organització del concert “Gala i Ovidio” pel dia 21 de març d’enguany, per un import de 11.485,00 €, IGI no inclòs, a càrrec de la partida pressupostària 5000/33400111/22680 i número d’autorització i compromís AC- 202600001407. .1.3.
+
+Contractació del recital “Tarta Relena”
+
+Vist el cicle cultural previst per aquest any 2026; vista la demanda de preus adjunta a l’acta de la comissió; vistes les ofertes presentades; s’acorda la contractació de l’empresa Art Music per a l’organització del concert “Tarta Relena” pel dia 9 d’abril d’enguany, per un import de 6.900,00 €, IGI no
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad inclòs, a càrrec de la partida pressupostària 5000/33400111/22680 i número d’autorització i compromís AC-202600001408.
+
+.1.4.
+
+Compra per la carn de les escudelles 2026
+
+Vista la demanda de preus adjunta a l’acta de la comissió; vista l’oferta presentada; s’acorda l’adjudicació de la compra de la carn per les escudelles 2026 a l’empresa Carnisseria Carles amb un import de 7.242,67 €, sense IGI, a càrrec de la partida 5000/33810021/2268202 i número d’autorització i compromís AC-20260001363.
+
+.1.5.
+
+Vigilància i Seguretat Carnaval d'Encamp i Pas de la Casa 2026
+
+Vista la demanda de preus adjunta a l’acta de la comissió; vistes les ofertes presentades; s’acorda l’adjudicació de la vigilància i la seguretat pel Carnaval d’Encamp i el Pas de la Casa 2026 a l’empresa Nova Seguretat amb un import total de 7.304,00 €, sense IGI, desglossats de la forma següent: 6.732,00 € càrrec de la partida 5000/33810031/2268224 i número d’autorització i compromís AC-202600001406 pel que fa a Encamp i 572,00 € a la 5000/33810032/2268225 amb número d’autorització i compromís AC- 202600001405, pel Pas de la Casa. .2. COMISSIÓ D'ADMINISTRACIÓ
+
+1.2.1. Sol·licituds de cens emfitèutic s’acorda aprovar les propostes de resolució de les 5 sol·licituds de cens emfitèutic següents:
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/000228- 2026 | Philippe DADOUN | Aparcament 660 planta -3 Edifici | Favorable | Demanda de cessió de drets |
+|  | DADOUN | planta -3 Edifici Frontera Blanca |  | drets Sup. del Cadastre: |
+|  |  | Frontera Blanca |  | Sup. del Cadastre: 11,79 m2 |
+|  |  | Av. d’Encamp, |  | 11,79 m2 Preu: 13.000,00 € |
+|  |  | núm. 39 |  | Preu: 13.000,00 € Adquirent: Valérie |
+|  |  |  |  | Adquirent: Valérie Charlotte LAMBERT |
+|  |  |  |  | Charlotte LAMBERT |
+|  |  |  |  | Inf. 1/2026 de cens |
+|  |  |  |  | emfitèutic |
+| E/000250- 2026 | Alain BOUFFIL | Apartament 5 planta 5 | Favorable | Demanda de cessió de drets |
+|  | Josette Céline | planta 5 |  | drets |
+|  | Josette Céline ROCHE | planta 5 Edifici Sol d’Or |  | Sup. del Cadastre: |
+|  | ROCHE | Edifici Sol d’Or C. Sant Jordi, |  | 71,47 m2 |
+|  |  | núm. 1 |  | Preu: 105.000,00 € |
+|  |  |  |  | (105.570,00 €) Adquirent: Edward |
+|  |  |  |  | Adquirent: Edward James READ |
+|  |  |  |  | James READ |
+|  |  |  |  | Inf. 2/2026 de cens emfitèutic |
+|  |  |  |  | emfitèutic |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+| E/000452- 2026 | Jean-Marie GUENON | Apartament 32 planta 3 Edifici |  | Favorable | Demanda de cessió de drets |
+| --- | --- | --- | --- | --- | --- |
+|  | GUENON | planta 3 Edifici Madriu |  |  | drets Sup. del Cadastre: |
+|  | Marie-Ange | Madriu |  |  | Sup. del Cadastre: |
+|  | Marie-Ange Anna BAUDIN | C. dels Vaquers, |  |  | 49,09 m2 |
+|  | Anna BAUDIN | núm. 15 |  |  | Preu: 150.000,00 € Adquirent: Pascale |
+|  |  |  |  |  | Adquirent: Pascale Simone Louise |
+|  |  |  |  |  | Simone Louise |
+|  |  |  |  |  | LAPLANCHE |
+|  |  |  |  |  | Inf. 3/2026 de cens emfitèutic |
+|  |  |  |  |  | emfitèutic |
+| E/000516- 2026 | Olivier TACHOIRES | Apartament 310 planta 3 |  | Favorable | Demanda de cessió de drets |
+|  | Antoine | planta 3 |  |  | drets |
+|  | Antoine François | Edifici | Gran |  | Sup. del Cadastre: |
+|  | François TACHOIRES | Edifici Tetras | Gran |  | 50,92 m2 |
+|  | TACHOIRES | Tetras Av. d’Encamp, núm. 37 |  |  | 50,92 m2 Preu: 140.000,00 € Adquirent: Marine |
+|  | Edouard | núm. 37 |  |  | Adquirent: Marine Maeva Pilar MOLINIER Inf. |
+|  | Edouard TACHOIRES |  |  |  | Maeva Pilar MOLINIER Inf. 4/2026 de cens |
+|  | TACHOIRES |  |  |  | 4/2026 de cens emfitèutic |
+|  |  |  |  |  | emfitèutic |
+| E/000666- 2026 | Màrius BARAHONA | Apartament 206 planta 2 |  | Favorable | Demanda de cessió de drets |
+|  | BARAHONA MARTIN | planta 2 Edifici | Lake |  | drets Sup. del Cadastre: |
+|  | MARTIN | Edifici Placid | Lake |  | Sup. del Cadastre: 39,08 m2 |
+|  |  | Placid |  |  | 39,08 m2 Preu: 123.000,00 € |
+|  |  | C. de la Solana, |  |  | Preu: 123.000,00 € Adquirent: Margarita |
+|  |  | núm. 19 |  |  | Adquirent: Margarita VAQUER GUERRERO |
+|  |  |  |  |  | VAQUER GUERRERO |
+|  |  |  |  |  | Inf. 5/2026 de cens emfitèutic |
+
+1.2.2. Sol·licituds de plànols cadastrals s’acorda aprovar les propostes de resolució de les 2 sol·licituds de plànols cadastrals següents:
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/000457- 2026 | Laura OROÑEZ | Sol·licitud de plànols del Registre del cadastre, en format paper i digital, dels béns | Favorable | Informe |
+| 2026 | OROÑEZ CASAL | cadastre, en format paper i digital, dels béns amb referències cadastrals |  | 6/2026 |
+|  | CASAL | amb referències cadastrals |  |  |
+|  |  | 20000040F005960001, |  |  |
+|  |  | 20001761U024720001 i |  |  |
+|  |  | 20000355P026890001, |  |  |
+|  |  | situats a l’avinguda de la Bartra, núm. 18, a la partida dels Escarpiders i a la partida de la |  |  |
+|  |  | partida dels Escarpiders i a la partida de la Vena respectivament |  |  |
+|  |  | Vena respectivament |  |  |
+| E/000517- 2026 | Marc PALMITJAVILA | Sol·licitud de plànols del Registre del cadastre, en format paper i digital, del bé | Favorable | Informe 7/2026 |
+| 2026 | PALMITJAVILA DANTO | cadastre, en format paper i digital, del bé amb referència cadastral |  | 7/2026 |
+|  | DANTO | amb referència cadastral |  |  |
+|  |  | 20001510L100930001, situat a la partida de Beixalís |  |  |
+|  |  | a la partida de Beixalís |  |  |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+❖ vista l’acta de la JUNTA DE GOVERN núm. 2/26, del 21 de gener del 2026, s’informa dels acords presos en aquella reunió:
+
+1.- PROPOSTES DE LES COMISSIONS PERMANENTS
+
+### 1.1. COMISSIÓ D'ADMINISTRACIÓ
+
+#### 1.1.1. Carta de la Saig Goretti LOPEZ JAUREGUI
+
+Vista la comunicació de data 14.1.26 en la qual se’ns sol·licita si el Comú fa valdre el seu dret de fadiga o tempteig en relació amb una subhasta i vist l’informe núm. 2/26 d’Administració; s’acorda no ver valdre el dret de fadiga.
+
+#### 1.1.2. Cens emfitèutic
+
+S’acorda aprovar la proposta de resolució de la sol·licitud de cens emfitèutic següent:
+
+| Registre | Sol·licitant | Objecte |  | Resolució | Observacions |
+| --- | --- | --- | --- | --- | --- |
+| E/001034- 2026 | Stéphane Alain Edmond DAVIAUD Héloïse Ginette | Apartament planta 3 Edifici Pisanu | B | Favorable | Demanda de cessió de drets Sup. del Cadastre: 92,35 m2 Preu: 249.959,01 € |
+|  | Héloïse Ginette BERENGUER | Edifici Pisanu C. Sant Jordi, núm. 9 |  |  | Preu: 249.959,01 € Adquirents: Magí MAESTRE CORTADELLA i Anthony BALDO |
+|  |  |  |  |  | BALDO Inf. 6/2026 de cens emfitèutic |
+
+Favorable
+
+Demanda de cessió de drets Sup. del Cadastre: 92,35 m2 Preu: 249.959,01 € Adquirents: Magí MAESTRE CORTADELLA i Anthony BALDO
+
+Inf. 6/2026 de cens emfitèutic Error! No s'ha trobat l'origen de la referència.1.1.3. Plànols cadastrals S’acorda aprovar la proposta de resolució de la sol·licitud de plànols cadastrals següent:
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/000769- 2026 | Cristina RIBES SAGUES | Sol·licitud de plànols del Registre del cadastre, en format paper i digital, del bé amb referència cadastral 20001329W090910001, situat a la partida del Feritxet | Favorable | Informe 15/2026 |
+
+#### 1.1.4. Obertures i modificacions de Comerç i Indústria
+
+Error! No s'ha trobat l'origen de la referència.S’acorda aprovar les propostes de resolució de les 18 sol·licitud d’obertures i modificacions de Comerç i Indústria següents:
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/012376- 2025 | CWIT, SLU | Obertura del negoci “CWIT”, a l’avinguda d’Encamp, núm. 25, | Favorable | Informe 301/2025 |
+| 2025 |  | l’avinguda d’Encamp, núm. 25, apartament 46, de l’edifici Chamois, del Pas de la Casa, destinat a creació, venda al detall sota comanda, a |  |  |
+|  |  | venda al detall sota comanda, a l’engròs i lloguer d’articles de confecció i dels seus complements, |  |  |
+|  |  | confecció i dels seus complements, de calçat, de bosses de mà i de marroquineria; cessió de drets o concessió d’autoritzacions o llicències |  |  |
+|  |  | concessió d’autoritzacions o llicències d’ús sobre programes informàtics, bases de dades, invencions, models d’utilitat, dissenys gràfics i industrials, marques, noms de domini i altres signes distintius, secrets comercials, |  |  |
+|  |  | signes distintius, secrets comercials, sobre altres obres i prestacions |  |  |
+|  |  | sobre altres obres i prestacions |  |  |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+|  |  | objecte de drets de propietat intel·lectual i industrial; organització d’esdeveniments de moda, exposicions, presentacions de col·leccions, fires i congressos; realització de classes en l’àmbit de la moda i creació, edició, publicació i venda al detall sota comanda i a l’engròs de llibres i de revistes en l’àmbit de la moda. |  |
+| --- | --- | --- | --- |
+| E/014550- 2025 | DIGITAL LAB CP, SL | Canvi d’adreça del negoci “DIGITAL LAB CP”, situat a la carretera de les Riberaigües, núm. 16, bloc C, 5è pis, porta 2a, del Conjunt Immobiliari Vila Park, a la nova adreça del carrer Mirador d’Encamp, núm. 14, bloc B, 1r pis, porta 2a, Bordes de la Àguila, d’Encamp. | Favorable Informe 324/2025 |
+| E/017598- 2025 | C.A.S.P.E., SL | Reducció d’activitats i de superfície del negoci "APARTAMENTS SHUSSKI”, situat a l’avinguda de François Mitterrand, núm. 83, d’Encamp, destinat a apartaments turístics, donant de baixa les activitats de bar i restaurant, passant a ocupar 3.769,49 m2 de superfície comercial. | Favorable Informe 392/2025 |
+| E/018489- 2025 | OUROBORUS VALUE, SL | Obertura del negoci “OURO VALUE”, a l’avinguda de Joan Martí, núm. 90, 1r pis, porta 5a, espai 16, de l’edifici Picasso, d’Encamp, destinat a compravenda i lloguer de béns immobles per compte propi. | Favorable Informe 411/2025 |
+| E/018593- 2025 | Júlia MARTÍN GIMÉNEZ | Obertura del negoci “JÚLIA MARTÍN GIMÉNEZ”, a l’avinguda de Joan Martí, núm. 131, escala A, 2n pis, porta 1a, de l’edifici Khi, d’Encamp, destinat a agència de models; assessorament en imatge personal i estilisme; creació de vídeos; organització d’esdeveniments i gestió de xarxes socials. | Favorable Informe 415/2025 |
+| E/018836- 2025 | Saul Reyes PRIOR GARRIDO | Obertura del negoci “PRIOR CONSULTORS”, a l’avinguda de la Bartra, núm. 10, bloc C, 3r pis, porta 8a, de l’edifici Valira Nova, destinat a assessorament en intel·ligència artificial. | Favorable Informe 421/2025 |
+| E/019102- 2025 | Viviane DA SILVA VIEIRA | Obertura del negoci “V.D.S. NETEJA”, al carrer sant Jordi, núm. 7, 5è pis, porta 3a, del Pas de la Casa, destinat a empresa de neteja. | Favorable Informe 422/2025 |
+| E/019172- 2025 | GRUP KAPA, SLU | Canvi de titular del negoci “KAPA PINTURES”, registrat a nom del Sr. Xavier MARTÍ LLOMPART, situat al carrer Hort de Godí, núm. 20, bloc A, 1r pis, porta 2a, de l’edifici Proteco, d’Encamp, a favor de la societat GRUP KAPA, SLU. | Favorable Informe 423/2025 |
+| E/019181- 2025 | GRUP KAPA, SLU | Reducció d’activitats del negoci “KAPA PINTURES”, situat al carrer Hort de Godí, núm. 20, bloc A, 1r pis, porta 2a, de l’edifici Proteco, d’Encamp, destinat a realització de treballs de pintura (sense emmagatzematge) i muntatge i lloguer de bastides, donant de baixa l’activitat de realització de treballs d’aïllaments. | Favorable Informe 424/2025 |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+| E/019258- 2025 | Erwan LE POTIER | Obertura del negoci “R1 SIGNATURE”, a l’avinguda Princep Benlloch, núm. 28, àtic, de l’edifici Roc Arnau, | Favorable Informe 427/2025 L’Hble. Sr. Benjamí RASCAGNERES |
+| --- | --- | --- | --- |
+|  |  | 28, àtic, de l’edifici Roc Arnau, d’Encamp, destinat a promoció immobiliària. | RASCAGNERES TRAVESSET s’absté |
+| E/019635- 2025 | NUVIK, SLU | Obertura del negoci “NUVIK”, al carrer 14 de Març, 1r pis, porta 3a, de l’edifici Prat de la Farga I, d’Encamp, | Favorable Informe 431/2025 |
+|  |  | l’edifici Prat de la Farga I, d’Encamp, destinat a gestió, creació, disseny, |  |
+|  |  | destinat a gestió, creació, disseny, manteniment, implantació, compravenda i lloguer de programes, |  |
+|  |  | compravenda i lloguer de programes, d’aplicacions informàtiques, de bases |  |
+|  |  | d’aplicacions informàtiques, de bases de dades i de pàgines web i assessorament informàtic. |  |
+| E/019666- 2025 | SOCIETAT TÈCNICA DIGITAL, SLU | Canvi d’adreça del negoci “SOCIETAT TÈCNICA DIGITAL STD”, situat al carrer de la Solana, núm. 19, apartament 206, de l’edifici Lake Plàcid, a la nova adreça del carrer de la Solana, núm. 67, apartament E16, de l’edifici Sandi IV, del Pas de la Casa. | Favorable Informe 432/2025 |
+| E/020603- 2025 | Maria Elisabet MELCHOR JIMÉNEZ | Obertura del negoci “SI O SI CONSULTORIA”, al carrer del Solà, núm. 21, escala C, 2n pis, porta 1a, de l’edifici la Llenguadera, d’Encamp, | Favorable Informe 447/2025 |
+|  | JIMÉNEZ | l’edifici la Llenguadera, d’Encamp, destinat a despatx d’economista. |  |
+| E/020892- 2025 | C.R.C. INNOVACIÓ, | Reducció d’activitats del negoci “C.R.C. INNOVACIÓ”, situat a | Favorable Informe 455/2025 |
+| 2025 | INNOVACIÓ, SL | “C.R.C. INNOVACIÓ”, situat a l’avinguda de Joan Martí, núm. 94, 2n pis, porta 6a, de l’edifici Trivala, d’Encamp, destinat a empresa |  |
+|  |  | d’Encamp, destinat a empresa constructora, de treballs públics i realització de treballs de paleta i amb guix, donant de baixa les activitats d’agència de subministrament i col·locació de personal. |  |
+| E/021042- 2025 | PNS MOUNTAIN | Obertura del negoci “PNS MOUNTAIN INVESTMENT SERVICES”, a la carretera | Favorable Informe 457/2025 |
+| 2025 | MOUNTAIN INVESTMENT SERVICES, SL | INVESTMENT SERVICES”, a la carretera de Vila, núm. 45, baixos, despatx 1, de l’edifici Obaga del Notari, d’Encamp, |  |
+|  | SERVICES, SL | l’edifici Obaga del Notari, d’Encamp, destinat a gestió del patrimoni o dels béns propis. |  |
+| E/022754- 2025 | ROBLEIS, SLU | Obertura del negoci “ROBLEIS”, a la carretera dels Cortals, núm. 14, bloc | Favorable Informe 490/2025 |
+| 2025 |  | carretera dels Cortals, núm. 14, bloc A, 2n pis, porta 8a, de l’edifici la Miranda, d’Encamp, destinat promoció de jocs i vídeojocs, creació de vídeos, venda d’espais publicitaris per internet i composició i interpretació musical. |  |
+| E/000445- 2026 | Eric BELMONTE FERNANDEZ | Obertura del negoci “MONLINE”, a l’avinguda de la Bartra, núm. 13, 2n pis, porta 8a, de l’edifici Gemels II, | Favorable Informe 2/2026 |
+|  | FERNANDEZ | pis, porta 8a, de l’edifici Gemels II, d’Encamp, destinat a intermediari comercial sense predomini de productes; realització de formacions i venda de cursos en l’àmbit del màrqueting i de la informàtica; |  |
+|  |  | màrqueting i de la informàtica; creació, edició i publicació de vídeos, |  |
+|  |  | creació, edició i publicació de vídeos, cessió de drets o concessió d’autoritzacions o llicències d’ús de programes informàtics i venda al detall sota comanda i per internet de productes tèxtils, d’electrodomèstics, |  |
+|  |  | productes tèxtils, d’electrodomèstics, de calçats, d’articles per a la llar, de confecció i dels seus accessoris, d’esport i de marxandatge com ara |  |
+|  |  | d’esport i de marxandatge com ara articles de confecció i dels seus |  |
+|  |  | articles de confecció i dels seus |  |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad accessoris, de bosses, d’adhesius, de clauers, de bijuteria i de tasses.
+
+E/000508- 2026 NOUINICI, SLU
+
+Obertura del negoci “NOUINICI”, al carrer Vila del Sol, bloc D, porta 3a, del Conjunt Residencial Vila del Sol, d’Encamp, destinat a gestió d’empreses i intermediari comercial sense predomini de productes.
+
+Favorable Informe 3/2026
+
+#### 1.1.5. Baixes de Comerç i Indústria
+
+S’acorda aprovar les propostes de resolució de les 7 sol·licituds de baixes de Comerç i Indústria següents:
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/022692- 2025 | Sara MIRÓ GIMENEZ | Baixa del negoci anomenat “GLOSSA”, situat al carrer del Solà, núm. 21, escala F, 4t pis, porta 2a, de l’edifici La Llenguadera, d’Encamp. | Favorable | Informe núm. 482/2025 |
+|  |  | Llenguadera, d’Encamp. |  |  |
+| E/022725- 2025 | SERVEI AERI ANDORRA D’AVANTGUARDA, SL | Baixa del negoci anomenat “SERVEI AERI ANDORRA S.XXI”, situat a l’avinguda de la Bartra, 2n pis, de l’edifici Gelesa, d’Encamp. | Favorable | Informe núm. 487/2025 |
+| E/022736- 2025 | Aritz RECHI MONTES | Baixa del negoci anomenat “OPENMIND ARM”, situat a l’avinguda de la Bartra, Bloc E, àtic, porta 1a, de l’edifici Valira Nova, d’Encamp. | Favorable | Informe núm. 488/2025 |
+|  |  | Nova, d’Encamp. |  |  |
+| E/022847- 2025 | Miquel Àngel ROJO LARA | Baixa del negoci anomenat “TRANSPORTS ROJO”, situat al carrer Hort de Godí, núm. 13, 1r pis, porta 2a, de l’edifici Marsal, d’Encamp. | Favorable | Informe núm. 492/2025 |
+| E/022898- 2025 | ANDORRA AVIATION | Baixa del negoci anomenat “ANDORRA AVIATION | Favorable | Informe núm. 493/2025 |
+| 2025 | AVIATION ACADEMY D’AVANGUARDA, SLU | “ANDORRA AVIATION ACADEMY D’AVANGUARDA”, situat a l’avinguda de la Bartra, 2n pis, de l’edifici Gelesa, d’Encamp. |  | 493/2025 |
+| E/023002- 2025 | EL BUEN ROLLO CESPED ARTIFICIAL, | Baixa del negoci anomenat “EL BUEN ROLLO CESPED | Favorable | Informe núm. 497/2025 |
+| 2025 | CESPED ARTIFICIAL, SL | BUEN ROLLO CESPED ARTIFICIAL”, situat a l’avinguda de Joan Martí, núm. 3, baixos, Casa Rossell, d’Encamp. |  | 497/2025 |
+|  |  | Casa Rossell, d’Encamp. |  |  |
+| E/023008- 2025 | Oscar CHEDAR SILVA | Baixa del negoci anomenat “ASIA (AUTOMATITZACIONS DE SISTEMES D’INTEL·LIGÈNCIA ARTIFICIAL)”, situat a l’avinguda de la Bartra, bloc G, 1r pis, porta 1a, de l’edifici Valira Nova, | Favorable | Informe núm. 498/2025 |
+|  |  | 1a, de l’edifici Valira Nova, d’Encamp. |  |  |
+
+### 1.2. COMISSIÓ DE RECURSOS HUMANS
+
+1.2.1. Resolució del concurs relatiu al procés per a la cobertura d’una plaça en el lloc de treball d’educador/a de l’escola bressol Els Esquirolets d’Encamp (C1) com a treballador públic interí, adscrita al Departament de Cultura, Infància i Joventut
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+Vist el procés efectuat per a la cobertura d’una plaça en el lloc de treball d’educador/a de l’escola bressol Els Esquirolets d’Encamp (C1), adscrita al Departament de Cultura, Infància i Joventut; vista l’acta 32/25 del Comitè Tècnic de Selecció i l’establert als articles 111, apartat e), 112 i 113 de l’Ordinació de la funció pública del Comú d'Encamp del 18.12.2025; s’acorda el nomenament de la Sra. Maribel Torres Torres, com a treballadora pública interina, per a desenvolupar funcions d’educador/a de l’escola bressol Els Esquirolets d’Encamp (C1), adscrita al Departament de Cultura, Infància i Joventut, a partir del 22.1.2026 i per un període de 9 mesos.
+
+1.2.2. Nomenament de la Sra. Maria del Carmen Orfo Boada, per desenvolupar tasques d’educadora (C1) a l’escola bressol Els Marrecs del Pas de la Casa, com a treballadora pública interina, adscrita al Departament de Cultura, Infància i Joventut
+
+Vist el l’informe de la directora del Departament de Cultura, Infància i Joventut de data 28.11.2025; vist l’informe del director del Departament de Recursos Humans de data 7.1.2026; s’acorda el nomenament, per la via d’urgència, de la Sra. Maria del Carmen Orfo Boada, per realitzar tasques d’educadora (C1) a l’escola bressol Els Marrecs del Pas de la Casa, com a treballadora pública interina, d’acord amb l’establert als articles 111, apartat a), 112.1 i 113 de l’Ordinació de la funció pública del Comú d'Encamp del 18.12.2025, a partir del 24.1.2026, i fins a la cobertura definitiva de la plaça o per un període màxim de 12 mesos.
+
+1.2.3. Nomenament de la Sra. Ana Paula Martins Da Silva per desenvolupar tasques en el lloc de treball d’administrativa de l’Àrea de Gestió Financera, Comptable i de la Tresoreria (C1), adscrita al Departament de Finances Vist l'acord de la Junta de Govern de data 30.7.2025 en què es nomena a la Sra. Ana Paula Martins Da Silva per a desenvolupar funcions d’administrativa de l’Àrea de Gestió Financera, Comptable i de la Tresoreria (C1), com a treballadora pública interina en període inicial de 6 mesos; vist l'informe del director del Departament de Finances de data 8.1.2026, i vist l’informe del director del Departament de Recursos Humans de data 14.1.2026; s’acorda el nomenament de la Sra. Ana Paula Martins Da Silva, per realitzar tasques d’administrativa de l’Àrea de Gestió Financera, Comptable i de la Tresoreria (C1), adscrita al Departament de Finances, com a treballadora pública interina, d’acord amb l’establert als articles 111, apartat b), 112 i 113 de l’Ordinació de la funció pública del Comú d'Encamp del 18.12.2025, a partir de l’1.2.2026 i fins al retorn de la funcionària que ocupa la plaça.
+
+#### 1.2.4. Actualització de la taula salarial 2026
+
+Vist el Decret 8/2026 del 14.1.2026, de fixació del salari mínim horari interprofessional per a l’any 2026; vist el Decret 9/2026 del 14.1.2026, pel qual es fa pública la variació percentual de l’índex general de preus de consum (IPC) de l’any 2025 per a Andorra; vista la disposició final segona de l’Ordinació de la funció Pública del Comú d’Encamp del 18.12.2025 en
+
+| Candidat | Núm. registre tràmits |
+| --- | --- |
+| Maribel Torres Torres | SLT-16436/2025 |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad què s’estableix que la banda retributiva mínima no pot ser mai inferior a l’import que resulta de l’aplicació del salari mínim interprofessional vigent; s’acorda l’actualització de la taula salarial vigent amb la revisió del grup funcional C, i la publicació de l’avís corresponent al BOPA.
+
+Error! No s'ha trobat l'origen de la referència.
+
+❖ INFORMACIÓ
+
+2.1. Estadístiques de població: s’informa de les dades comparatives del Cens de Població dels mesos d’abril fins a desembre del 2025.
+
+### 2.2. Informació encants St Antoni 2026
+
+❖ ALTRES QÜESTIONS
+
+### 3.1. Resolució de l'expedient sancionador cens de població núm. 25433/2025
+
+Vist que en data 20.12.2025, la Sra Laurine Annie Raymonde Huguin ha presentat unes al·legacions en resposta a l’expedient sancionador núm. 25433/2025, en referència a la sanció imposada per incompliment d’inscripció al cens de població en un termini màxim de 6 mesos, segons preveu l’article 6 de la Llei 16/2025, on la Sra. Huguin exposa que la menor no adquireix la residència legal al Principat d’Andorra fins el 10 de juny de 2025, no obstant això, la menor és nascuda al Principat d’Andorra en data 25 de maig de 2025. Per tant, es constata que hi ha infracció per part de la Huguin;
+
+S’acorda desestimar les al·legacions de la Sra. Laurine Annie Raymonde Huguin i imposar-li la sanció de 150€ segons el que disposa l’article 25 de la Llei del cens.
+
+### 3.2. Resolució de l'expedient sancionador cens de població núm. 25915/2025
+
+Vista la documentació aportada, en l’expedient núm. ICP-25448/2025 s’ha constatat que el Sr. Juan Jose MOYANO VICCINO no s’ha inscrit en el cens parroquial en el termini màxim de sis mesos a comptar de l’inici de la residència a la parròquia d’Encamp, segons preveu l’article 6 de la Llei 16/2025 del cens.
+
+Vist que d’acord amb l’article 24 i següents de la Llei 9/2007 del cens i l’article 13 del Reglament regulador del procediment sancionador del 22 de juliol del 2015, s’acorda la incoació d’un expedient sancionador.
+
+❖ vista l’acta de la JUNTA DE GOVERN núm. 3/26, del 30 de gener del 2026, s’informa dels acords presos en aquella reunió:
+
+## 1. PROPOSTES DE LES COMISSIONS PERMANENTS
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+### 1.1. COMISSIÓ DE CIRCULACIÓ (SERVEI DE CIRCULACIÓ)
+
+1.1.1. Calendari de reunions ordinàries de la Comissió de Circulació per al 2026. s’acorda la proposta de calendari per a les reunions ordinàries de la Comissió de Circulació amb les dates següents: 27 de gener, 10 de març, 14 d’abril, 5 de maig, 2 de juny, 7 de juliol, 15 de setembre, 13 d’octubre, 10 de novembre i 1 de desembre. L’horari d’inici serà a les 17.00h, segons quadre adjunt a l’acta de la Comissió.
+
+1.1.2. Relació de plecs de descàrrec de les sancions de circulació, estimats.
+
+Vist que l’article 127 del Codi de la Circulació estableix que correspon al cap de circulació dictar les resolucions relatives a les al·legacions presentades de les sancions en matèria de circulació; vista la documentació adjunta en els expedients de la relació dels plecs de descàrrec; s’acorda estimar els plecs de descàrrec amb les resolucions corresponents.
+
+1.1.3. Relació de plecs de descàrrec de les sancions de circulació, desestimats.
+
+Vist que l’article 127 del Codi de la Circulació estableix que correspon al cap de circulació dictar les resolucions relatives a les al·legacions presentades de les sancions en matèria de circulació; vista la documentació examinada relativa a als expedients de la relació dels plecs de descàrrec; s’acorda desestimar els plecs de descàrrec amb les resolucions corresponents.
+
+1.1.4. Ocupació de la via pública, per ubicar una creperia mòbil per part del negoci Creperia Ernesto, per la Festa de Carnaval d'Encamp 2026. Vista la sol·licitud del 21 de gener del 2026, presentada pel Sr. Ernesto Amilcar Ledesma, amb el registre E/001214-2026, en la qual sol·licita l’ocupació de la via pública per la col·locació d’una creperia mòbil, per vendre creps artesanals i begudes/refrescos, en la Festa de Carnaval d’Encamp, a la Plaça de Sant Miquel, vist que és l’únic emplaçament que disposa de quadres elèctrics per connectar-la, ocupant un espai de 6 metres X 2 metres;
+
+s’acorda acceptar l’ocupació de la via pública del negoci Creperia Ernesto, per la Festa de Carnaval d’Encamp 2026, segons el preu estipulat en l’Ordinació tributària de la parròquia d’Encamp de l’article 14.
+
+1.1.5. Ocupació de la via pública, per ubicar una food track per part del BAR LUGO, per la Festa del Poble de Carnaval. vista la sol·licitud del 13 de gener del 2026, presentada per la Sra. Dana Varela Boix, amb el registre E/000758-2026, en la qual sol·licita l’ocupació de la via pública per la col·locació d’una food truck, per vendre entrepans i begudes/refrescos, en la Festa de Carnaval, a la Plaça de Sant Miquel, vist que és l’únic emplaçament que disposa de quadres elèctrics per connectar -la, ocupant un espai de 3 metres X 2 metres.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad s’acorda acceptar l’ocupació de la via pública del negoci Bar Lugo, per la Festa de Carnaval d’Encamp 2026, segons el preu estipulat en l’Ordinació tributària de la parròquia d’Encamp de l’article 14.
+
+1.1.6. Aprovació i signatura d'una d’addenda al contracte de subministrament de vestimenta pels agents de circulació comunals. Vist que el contracte vigent de subministrament de la vestimenta dels agents de circulació va finalitzar la seva vigència al mes d’octubre, i vist que el nou procediment de contractació ha estat publicat recentment al Bopa, en data 21 del present mes, i que no estarà adjudicat de manera immediata; vist que fins a l’adjudicació del nou contracte, és necessari garantir la continuïtat dels subministrament de la uniformitat dels agents de circulació comunals; vista la proposta d’addenda;
+
+s’acorda l’aprovació i signatura d’una addenda al contracte anterior amb l’empresa Dipsa, amb caràcter temporal i excepcional, fins que el nou contracte sigui adjudicat de forma definitiva.
+
+#### 1.1.7. Sol·licituds al Servei de Circulació gener 2026
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/022423- 2025 | Hotel Univers, SL | Demanda de modificació de reserva d’estacionament número 012, situat al carrer René Baulard | Favorable | En relació a la sol·licitud de la modificació passarà a tenir 5 metres, així com la petició d’un |
+|  |  | carrer René Baulard número 13, i una nova reserva d’estacionament |  | com la petició d’un nou emplaçament de 12 metres a la |
+|  |  | reserva d’estacionament davant de l’hotel a la zona blava d’uns 12 |  | de 12 metres a la zona blava, segons informe 2/26, del |
+|  |  | zona blava d’uns 12 metres, al carrer René Baulard |  | informe 2/26, del cap de servei |
+
+Error! No s'ha trobat l'origen de la referència.
+
+Error! No s'ha trobat l'origen de la referència.
+
+### 1.2. COMISSIÓ DE CULTURA, INFÀNCIA I JOVENTUT (Acta 2-26)
+
+#### 1.2.1. Atorgament de subvencions 2026 per les associacions de pares i les entitats culturals de la parròquia d'Encamp
+
+Vist l’informe del Departament de Cultura i Infància i Joventut; vist l’informe número IC 20260012 d’Intervenció Comunal; s’acorda atorgar les subvencions per l’any 2026 de les associacions de pares i de les entitats culturals que es detallen a continuació; així mateix, d’acord amb el reglament de subvencions; s’acorda cedir gratuïtament els espais a les associacions i entitats de la parròquia, a fi que puguin realitzar els assajos i els actes previstos en el marc de les activitats i propostes que tinguin programades.
+
+En la reunió de la Comissió la directora del departament i l’Hble. Sr. Joan Sans Urgell s’abstenen i s’absenten en el tractament de la sol·licitud de subvenció de l’Esbart Sant Romà. L’Hble Sr. Joan Sans Urgell també s’absenta i s’absté en la Junta de Govern.
+
+Associacions i/o entitats Proposta d’atorgament 2026 Proposta de resolució
+
+Esbart Sant Romà 58.591,26 € Favorable AC202600003757 Associació Ball en Línia Principat 4.500 € Favorable AC202600003754
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+Associacions de pares Proposta d’atorgament 2026 Proposta de resolució
+
+APA Escola Andorrana 3.250 € Favorable AC202600003762 (maternal i primera ensenyança) Encamp
+
+APA Escola Francesa Encamp 1.990 € Favorable AC202600003764
+
+APA Escola Andorrana 790 € Favorable AC202600003770 (maternal i primera ensenyança)del Pas de la Casa
+
+1.2.2. Aprovació de la programació de les biblioteques comunals per l'any 2026 vist l’informe de la cap d’Àrea de les Biblioteques Comunals de data 9.1.2026; s’acorda la contractació de les activitats i espectacles per la programació de la biblioteca comunal d'Encamp per un import de 10.565,20 € a càrrec a la partida pressupostària 5020/33200001/22680 amb document d’autorització número A-202600002809 i de la biblioteca comunal del Pas de la Casa per un import de 5.923,44 € a càrrec de la partida pressupostària 5020/33200002/22680 amb document d’autorització número A-202600002810 per l’any 2026.
+
+#### 1.2.3. Impressió Revista Carnaval Encamp 2026
+
+Vistos els pressupostos adjunts a l’acta de la comissió; s’acorda la contractació de l’empresa Impremta Envalira amb 6.000 unitats per un import de 5.370 €, IGI no inclòs, a càrrec de la partida pressupostària 5000/33810031/2268224 amb document d’autorització i compromís AC202600002811.
+
+#### 1.2.4. Contractació de les cobles per l’organització del 37è aplec de la sardana i 31è concurs de colles sardanistes 2026
+
+Vistos els pressupostos presentats adjunts a l’acta de la comissió i per tal de donar continuïtat al Concurs de Colles i Aplec de la Sardana; s’acorda la contractació de les cobles: “La Flama de Farners” i la “Cobla Jovenívola de Sabadell”, per un preu de 6.450,00 € i per un preu de 3.900,00 €, a càrrec de la partida pressupostària
+
+5000/33810011/22680 i número d’autoritzacions AC202600002813 i AC202600002812, respectivament.
+
+#### 1.2.5. Compromisos per l'execució del contracte de monitoratge de lleure per l'any 2026
+
+Vista la planificació anual d’execució del contracte de monitoratge de lleure adjudicat a l’empresa Estatges, SLU; s’acorda l’aprovació dels compromisos pressupostaris que es detallen a continuació:
+
+#### 1.2.6. Aprovació de la programació de lleure pel Carnaval 2026 de Joventut
+
+Vista la memòria de la programació de lleure pel Carnaval 2026, en la qual es detallen els objectius i la proposta d’activitats que es volen dur a terme;
+
+| Concepte | Partida | Import 2026 | AC |
+| --- | --- | --- | --- |
+| Monitoratge Àrea Encamp | 5060/33700121/22761 | 147.603,64 € | 202600003430 |
+| Monitoratge Llaç Encamp | 5080/32400001/22761 | 139.636,70 € | 202600003431 |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad vist que la referida memòria inclou la valoració econòmica de les despeses i ingressos que es preveuen per cada secció; s’acorda validar la programació de les activitats previstes per Joventut durant el període de vacances escolars del Carnaval 2026 amb un cost total aproximat de 9.275,00 € i una estimació d’ingressos de 11.936,70 €.
+
+### 1.3. COMISSIÓ DE CULTURA, INFÀNCIA I JOVENTUT (Acta 3-26)
+
+1.3.1. Adjudicació del concurs públic per la concessió de serveis per l’organització, la gestió i l’explotació del servei de barra de les Festes d’Encamp i del Pas de la Casa 2026
+
+Vist l’informe tècnic d’anàlisi de le ofertes; vist l’informe de la Mesa de Contractació núm. EC2025070; s’acorda la contractació de la concessió de serveis per l’organització, la gestió i l’explotació del servei de barra de les Festes d’Encamp i del Pas de la Casa 2026 de la següent manera:
+
+- Lot 1: Carnaval d'Encamp i del Pas de la Casa: A l’empresa Bar Lugo per una puntuació total de 77 punts i un cànon econòmic de 3.500 €.
+
+-Lot 2: Festa del Poble i Revetlla de St. Joan d’Encamp: A l’empresa Bar Lugo per una puntuació total de 77 punts i un cànon econòmic de 3.500 €.
+
+-Lot 3: Festa Major del Pas de la Casa i Festa Major d’Encamp: A l’empresa Bar Lugo per una puntuació total de 77 punts i un cànon econòmic de 2.500 €.
+
+1.3.2. Adjudicació del concurs públic per a la contractació d’espectacles i activitats pel Carnaval d’Encamp i del Pas de la Casa 2026 Vist l’informe tècnic d’anàlisi de les ofertes; vist l’informe de la Mesa de Contractació núm. EC2025069; s’acorda la contractació d’espectacles i activitats pel Carnaval d’Encamp i del Pas de la Casa 2026 de la següent manera:
+
+- Lot 1 : Gatzara Espectacles, SLU, per un import total de 62.755 € amb càrrec a la partida pressupostària 5000/33810031/2268224 i número d’autorització i compromís AC202600004613.
+- Lot 2: Gatzara Espectacles, SLU, un import de 19.640 € a amb càrrec a la partida pressupostària 5000/33810032/2268225 i número d’autorització i compromís AC202600004614.
+
+Jarana, SL un import de 519,33 € amb càrrec a la partida pressupostària 5000/33810032/2268225 i número d’autorització i compromís AC202600004615.
+
+- Lot 3, es declara deserta la decoració del Carnaval d’Encamp perquè les ofertes presentades superen la previsió pressupostària i es proposa adjudicar 2.500 € a l’empresa Gatzara Espectacles, SLU per a la decoració del Carnaval del Pas de la Casa amb càrrec a la partida pressupostària
+
+5000/33810032/2268225 i número d’autorització i compromís AC202600004616.
+
+- Lot 4, es declara desert en no haver-se presentat cap oferta.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+1.3.3. Premis i bases del Concurs Internacional d’Escultures de Neu 2025 Vistes les bases i el reglament adjunt del XX Concurs d’escultures de neu que tindrà lloc del 27 al 1 de març d’enguany; s’acorda aprovar les bases i atorgar els premis de la següent manera: tres premis per a professionals: 1.000 €, 750 € i 500 €, respectivament i tres premis per a estudiants: 300 €, 200 € i 100 €, respectivament.
+
+Així mateix, s’acorda que un professional del món de les arts, que a la vegada farà de jurat i gestionarà les escoles vingudes, cobri uns honoraris de 350 €. Tots els imports van a càrrec de la partida pressupostària 5000/33810011/2268219 per un import total de 3.500 € i número d’autorització A-202600004618.
+
+### 1.4. COMISSIÓ DE FINANCES
+
+#### 1.4.1. Diligència inici procediment de Constrenyiment Deutes fins 31-12- 2025
+
+Vist que s’ha exhaurit el termini establert en l’article 51.2 de la llei 21/2014, del 16 d’octubre, de bases de l’ordenament tributari (LBOT), per a fer efectiu el pagament en període voluntari dels rebuts que figuren relacionats com annex a la present proposta, conforme al que preveu l’article 107 de la LBOT i l’article 97 l’Ordinació tributària comunal; s’acorda aprovar la notificació de la provisió de constrenyiment contra els deutors que figuren a la relació amb el codi “NOT25-12”, que inclou el recàrrec de constrenyiment sobre el principal dels deutes pendents i requerir als titulars dels deutes que facin efectiu el pagament dels imports no ingressats, principal més recàrrec, fent-los saber que en el cas de no efectuar-se el pagament en el termini d’un mes a comptar des de la data de notificació d’aquesta provisió de constrenyiment, el Comú iniciarà el procediment d’embargament i execució del patrimoni del deutor en quantitat suficient per cobrir el deute no ingressat, els interessos meritats, els recàrrecs en període executiu i les costes del procediment de constrenyiment i embargament. El procediment d’embargament es regirà per l’article 101 de l’Ordinació tributària de la parròquia d’Encamp per l’any 2026. En el moment d’aquesta proposta, la relació amb referència esmentada, inclou els deutes corresponents a 3.752 rebuts de 2.062 deutors, amb un import total pendent de 914.209,31 euros.
+
+1.4.2. Aprofitament de l’excedent de tresoreria.
+
+Vist que les previsions de l’estat de tresoreria del Comú mostren un excedent a curt termini, s’acorda l’aprofitament d’aquest excedent de tresoreria mitjançant la contractació de dipòsits bancaris per un total de 6 milions d’euros, amb venciments esglaonats de tres i sis mesos, prèvia demanda de condicions a les entitats bancàries del país.
+
+### 1.5. COMISSIÓ DE REACTIVACIÓ ECONÒMICA
+
+1.5.1. Aprovació i signatura del conveni de col·laboració entre la Cambra de Comerç, Indústria i Serveis d’Andorra (CCIS), Andorra desenvolupament i Inversió (ADI) i el Comú d’Encamp
+
+Vista la proposta de conveni de col·laboració entre la Cambra de Comerç, Indústria i Serveis d’Andorra (CCIS), Andorra desenvolupament i Inversió (ADI) i el Comú d’Encamp; vist que el conveni té per objecte
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad establir els termes i les condicions que han de regir la col·laboració entre les parts per a la creació i l’explotació d’una plataforma digital destinada a facilitar el traspàs de negocis viables al territori d’Encamp; vist que la iniciativa té com a finalitat preservar l’activitat econòmica local, així com fomentar la continuïtat empresarials a la parròquia; s’acorda l’aprovació i signatura del conveni de col·laboració entre la Cambra de Comerç, Indústria i Serveis d’Andorra (CCIS), Andorra desenvolupament i Inversió (ADI) i el Comú d’Encamp
+
+### 1.6. COMISSIÓ D'ESPORTS
+
+#### 1.6.1. Aprovació de col·laboració puntual pel Moto Club Pirineu per a l’organització del Trial d’Encamp
+
+Vista la demanda presentada per Moto Club Pirineu, registrada al Servei de Tràmits amb el número E/0001184-2026, per poder sufragar una part de les depeses corresponents a la cursa Trial d’Encamp 2026, a realitzar el diumenge 10 de maig d’enguany, i que és puntuable pel Campionat d’Andorra de Trial; vist l’informe del Departament d’Esports 2026 08; s’acorda l’acceptació de col·laboració en l’organització del Trial d’Encamp 2026 amb un import de 1.500€ en concepte d’esponsorització amb càrrec a la partida 7020/34200001/22683, segons AC-202600003718.
+
+#### 1.6.2. Aprovació i signatura del conveni amb Pas de l’Esport, SLU per a la Travessa del Pas de la Casa
+
+Vista la proposta de conveni presentada per la societat Pas de l’Esport, SLU per a la col·laboració en l’organització de la Travessa del Pas de la Casa 2026-2027; s’acorda l’aprovació i signatura del conveni amb una col·laboració econòmica de euros 8.700 €, segons AC- 20260003423, amb càrrec a la partida pressupostària 7020/34200002/22683.
+
+1.6.3. Aprovació i signatura del conveni amb La Clàssica, S.C per a l’Andorra Morabanc Clàssica:
+
+Vista la proposta de conveni; s’acorda l’aprovació i signatura del conveni amb La Clàssica per a la col·laboració en l’organització de l’Andorra Morabanc Clàssica 2026 -2027, amb una col·laboració econòmica de 7.000 €, segons AC- 20260003703, amb càrrec a la partida pressupostària 7020/34200001/22683.
+
+#### 1.6.4. Compromisos per l'execució del contracte de monitoratge esportiu i socorrisme per l'any 2026
+
+Vista la planificació anual d’execució del contracte de monitoratge esportiu i socorrisme adjudicat a l’empresa Estatges, SLU; s’acorda l’aprovació dels compromisos pressupostaris que es detallen a continuació:
+
+| Concepte | Partida | Import 2026 | AC |
+| --- | --- | --- | --- |
+| Socorrisme Encamp | 7020/34200001/22764 | 101.967,32 € | 202600003154 |
+| Socorrisme Pas de la Casa | 7020/34200002/22764 | 75.804,45 € | 202600003155 |
+| Monitor natació Encamp | 7020/34200001/22761 | 58.208,53 € | 202600003156 |
+| Monitor natació Pas de la Casa | 7020/34200002/22761 | 14.036,78 € | 202600003157 |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+#### 1.6.5. Aprovació de la demanda de subvenció puntual per al Club Karate Shotokan per la Temporada 2025-2026
+
+Vist el Reglament de subvencions per a entitats esportives i esportistes, associacions de joves i activitats esportives puntuals vigent; vista la documentació presentada per Club Karate Shotokan inclosa en la proposta PCDE- 1099/2026; vist l’informe del departament número 2026 04; vist l’informe d’Intervenció Comunal; s’acorda atorgar al Club Karate Shotokan una subvenció puntual de 4.400,00 € destinada a la participació en les competicions de karate corresponents a l’any 2026, amb càrrec a la partida 7000/34100111/4680031, segons document AC20260003162.
+
+#### 1.6.6. Aprovació de 3 subvencions puntuals per l’Esquí Club Pas de la Casa Grau Roig per la Temporada 2025-2026
+
+Vist el Reglament de subvencions per a entitats esportives i esportistes, associacions de joves i activitats esportives puntuals vigent; vista la documentació presentada per l’Esquí Club Pas de la Casa Grau Roig; vist l’informe del departament número 2026 02; vist l’informe d’Intervenció Comunal; s’acorda l’aprovació d’una subvenció puntual de 1.500 € per l’organització del Campionat Nacional de Freestyle Fis, en la modalitat Big Air, el 14 de març 2026 al Sunset Park Peretol (expedient SEEJ-0602/2026) segons
+
+AC-2026000027100, amb càrrec a la partida 7000/34100111/4680001. s’acorda l’aprovació d’una subvenció puntual de 2.400 € per l’organització del 45è Campionat Social, el 16 de febrer 2026 a les pistes del Pas de la Casa (expedient SEEJ-0600/2026), segons AC-202600002711, amb càrrec a la partida 7000/34100111/4680001. s’acorda l’aprovació d’una subvenció puntual de 2.000 € a l’Esquí Club PCGR per l’organització Trobada internacional de Pre Pollets, el 28 de març 2026 a Grau Roig (expedient SEEJ- 0601/2026), segons AC-202600002712, amb càrrec a la partida 7000/34100111/4680001.
+
+#### 1.6.7. Calendari de reunions ordinàries per al 2026
+
+S’acorda aprovar la proposta de calendari per a les reunions ordinàries de la Comissió d’Esports.
+
+#### 1.6.8. Aprovació de l’esponsorització de l’esportista encampadà Sr. Gonzalo Fernández Garcia
+
+Vist el Reglament de subvencions per a entitats esportives i esportistes, associacions de joves i activitats puntuals vigent; vista la documentació presentada per l’esportista encampadà en la modalitat esportiva d’alpinisme, Sr. Gonzalo Fernández Garcia, a l’expedient SEEJ-00006/2026 de l’annexa; vist l’informe del Departament d’Esports número 2026 01; i vist l’informe d’Intervenció
+
+Comunal; s’acorda l’aprovació de l’esponsorització de 1.000 € , segons AC-20260002817 amb càrrec a la partida 7000/34100111/4890000; en contraprestació l’esportista ha de
+
+| Tècnic fitness Encamp | 7020/34200001/22761 32.931,32 € | 202600003158 |
+| --- | --- | --- |
+| Tècnic fitness Pas de la Casa | 7020/34200002/22761 13.712,08 € | 202600003159 |
+| Tècnic sala Encamp | 7020/34200001/22761 34.391,80 € | 202600003160 |
+| Tècnic sala Pas de la Casa | 7020/34200002/22761 31.397,68 € | 202600003161 |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad portar, en un lloc visible, la marca oficial del Comú d’Encamp en la indumentària en les expedicions que participa.
+
+#### 1.6.9. Aprovació de la subvenció puntual per al Club Waterpolo Taurons per la temporada 2025-2026
+
+Vista la demanda de subvenció puntual de la temporada 2025-2026 presentada pel Club Waterpolo Taurons a l’expedient SEEJ-24914/2025 de l’Annexa; vist l’informe del Departament d’Esports número 2025 82; vist l’informe d’Intervenció Comunal; vist el Reglament de subvencions per a entitats esportives i esportistes, associacions de joves i activitats esportives puntuals vigent; s’acordal’aprovació d’una subvenció puntual de 950 € al Club Waterpolo Taurons, per a la seva participació al Torneig Habawaba 2026, segons
+
+AC-202600002704, amb càrrec a la partida 7000/34100111/4680033.
+
+### 1.7. COMISSIÓ D'INFRAESTRUCTURES I MANTENIMENT
+
+1.7.1. Adjudicació del subministrament de pedra del país pel revestiment de l'Etap de les Pardines.
+
+Vist que es preveu realitzar el revestiment exterior, amb pedra del país, l’edifici de l’ETAP de les Pardines, amb l’objectiu de millorar-ne la integració paisatgística i l’adequació estètica a l’entorn; vist que aquesta actuació requereix únicament el subministrament del material esmentat, atès que els treballs de col·locació del revestiment es realitzaran amb mitjans propis, a càrrec dels operaris de la Secció de Via Pública; vistes les ofertes presentades adjuntes a l’acta de la Comissió;
+
+s’acorda l’adjudicació del subministrament de pedra del país a l’empresa SIMAC10, per un import de 14.981,12€, IGI inclòs, amb càrrec a la partida 2060/45000001/6020000, segons document d’intervenció AC- 202600004630.
+
+1.7.2. Adjudicació dels treballs de realització d'auditories energètiques de dos edificis comunals.
+
+Vist el que preveu l'article 42.1 de la Llei 21/2018, del 13 de setembre, d'impuls de la transició energètica i del canvi climàtic, que estipula que l’Administració Pública ha de realitzar auditories energètiques de tots els seus edificis calefactats; vista la demanda de preus per encarregar les auditories dels edificis de Casa Comuna i del CESE i les propostes presentades adjuntes a l’acta de la comissió;
+
+s’acorda l’adjudicació dels treballs a l’empresa Enginyeria i Tecnologia, SA , per
+
+11.750€, IGI inclòs, amb càrrec a la partida 2000/45000001/22740,segons document d’intervenció AC-202600004587.
+
+#### 1.7.3. Treballs de reparació del llosat i de la canal de pluvials de l'edifici de WC públics del Pas de la Casa
+
+Vista la necessitat de reparar de caràcter urgent el llosat i la canal de l’edifici del WC públics del Pas de la Casa abans de l’hivern; s’acorda adjudicar els treballs de reparació a l’empresa DAM,SL, vist que és l’empresa contractada per les reparacions dels teulats i línies de vida dels edificis comunals, per un import de 7.556,39€, IGI inclòs, amb càrrec a la
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad partida pressupostaria
+
+2060/92000001/21300, segons document d’intervenció A-202600004355.
+
+#### 1.7.4. Convocatòria d'un concurs públic per l'adjudicació dels treballs de pintura a les instal·lacions dels edificis i locals del Comú d'Encamp, PB- 369/26
+
+s’acorda convocar un concurs públic nacional per a la realització dels treballs de pintura, amb la modalitat ordinària i pel procediment obert, d’acord amb les condicions que s’estableixen en el plec de bases, el qual també s’adjunta. L’import establert inicialment per aquesta licitació és de 70.000,00€
+
+(per any), amb càrrec a la partida pressupostàries 2060/4500001/21200, segons document d’Intervenció A-202600004207.
+
+1.7.5. Convocatòria d'un concurs nacional per a l'arranjament del paviment de la planta -7 de l'aparcament del Funicamp, PB-373/26 S’acorda convocar un concurs públic nacional, amb la modalitat de contractació ordinària i pel procediment obert, d’acord amb les condicions que s’estableixin en el corresponent plec de bases, per adjudicar els treballs d’arranjament del paviment de la planta -7 de l’aparcament del
+
+Funicamp, amb càrrec a la partida 2051/13310211/6020000, segons document d’intervenció A-202600004257.
+
+1.7.6. Convocatòria d'un concurs nacional pels treballs de prolongació de les xarxes de serveis a l'avinguda de les Riberaigües, PB375/26 Vista la necessitat de dotar de serveis a les noves unitats d’actuacions d'Orals i Riberaigües, el Comú d’Encamp preveu dur a terme un projecte per l’ampliació de la xarxa de sanejament existent a l’avinguda de les Riberaigües que permeti garantir el correcte ús i gestió de les noves àrees urbanitzades.
+
+El projecte inclou l’ampliació de la xarxa existent d'aigües residuals i pluvials, amb la formació de nous col·lectors i pous de registre de sanejament d’aigües residuals i pluvials de diàmetre Ø315 mm. Aquestes actuacions permetran millorar la interconnexió de la xarxa, la fiabilitat del servei i adaptar les instal·lacions als estàndards actuals.
+
+Es proposa a la Junta de Govern convocar, amb la modalitat de concurs nacional i pel procediment obert, d’acord amb les condicions que s’estableixin en el corresponent plec de bases, el concurs per adjudicar treballs de prolongació de les xarxes de servei a l’avinguda de les Riberaigües, amb càrrec a la partida 2030/45910101/6074000, segons document d’intervenció A-202600002189.
+
+#### 1.7.7. Aprovació de les bases per a la contractació directa mitjançant demanda de preus dels treballs d'apantallament acústic de les màquines de climatització del CESE
+
+Vist que es va declarar desert el concurs d’obres per a la contractació del subministrament i muntatge d’un apantallament acústic per les màquines exteriors del centre esportiu i sociocultural d’Encamp PB-371/25 i amb referència d’expedient EC2025068 s’acorda aprovar les bases per a la contractació directa mitjançant demanda de preus a través de la plataforma de contractació pública electrònica.
+
+#### 1.7.8. SOL·LICITUDS
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+| Registre | Sol·licitant | Objecte | Resolució |
+| --- | --- | --- | --- |
+| SEAP- 0942/2026 | NOVES PROMOCIONS | Sol·licitud d’embrancament d’aigua potable per nova edificació, a Carrer del Pedral 8-10 a Encamp | Favorable |
+| SEAP- 0948/2026 | NOVES PROMOCIONS | Sol·licitud contra incendis, al Carrer del Pedral 8-10 a Encamp | Favorable |
+| SEAPO- 1107/2026 | Roc TORRES BARO | Sol·licitud d’embrancament d’aigua per ús d’obra, Ctra.dels Cortals, núm.1 “Prat dels Bous” a Encamp | Favorable |
+| SEAP- 26097/2026 | CONSTRUCCIONS NEU | Sol·licitud d’embrancament d’aigua per ús d’obra, a Carrer René Baulard, núm.19 | Favorable |
+| 26097/2026 | NEU | ús d’obra, a Carrer René Baulard, núm.19 “Magatzem” a Encamp |  |
+| SEAP- 26052/2026 | Joan Marc BARTUMEU RIBA | Sol·licitud de comptador definitiu domèstic, a Avda. Rouillac “Terreny Aixec” | Favorable |
+| 26052/2026 | BARTUMEU RIBA | domèstic, a Avda. Rouillac “Terreny Aixec” |  |
+| S/105 | FEDA | Prolongació treballs Carrer del Tremat i Camí Canal Llisa a Encamp | Favorable |
+| S/106 | FEDA | Sol·licitud obertura de rases “arqueta”, a Avda.François Mitterrand núm.110 a Encamp | Favorable |
+|  |  | Encamp |  |
+
+1.7.9. Convocatòria d'un concurs públic nacional pel subministrament i substitució de lluminàries Sodi per LED i la integració en el sistema EXEDRA per a l'enllumenat públic de la Parròquia d'Encamp, PB-377/26 Vist l’estat actual de la instal·lació d’enllumenat públic amb lluminàries obsoletes de vapor de sodi d’alta pressió les quals tenen i una baixa eficiència energètica i una reproducció cromàtica molt limitades, el Comú d’Encamp preveu dur a terme un projecte per a la substitució de lluminàries per altres de tecnologia LED al vial d’Encamp.
+
+Amb la instal·lació de noves lluminàries es millorarà l’eficiència energètica i es reduirà significativament el consum elèctric de la instal·lació, així com es millorarà la uniformitat i es limitarà la contaminació lumínica. La nova il·luminació contribuirà a incrementar la seguretat viària i la qualitat de l’espai públic per als vianants. En últim lloc, es contempla integrar aquests punts de llum en el sistema de telegestió Exedra que afavorirà el control i la gestió de la instal·lació.
+
+Es proposa a la Junta de Govern convocar, amb la modalitat de concurs nacional i pel procediment obert, d’acord amb les condicions que s’estableixin en el corresponent plec de bases, el concurs per adjudicar subministrament i substitució de lluminàries Sodi per LED i la integració en el sistema EXEDRA per a l’enllumenat públic de la parròquia d'Encamp. La cònsol major dona la paraula a la Sra. Sabrina Gregoire Torres, presidenta de la Comissió d’Infraestructures i Manteniment, perquè expliqui en què consistirà aquest concurs.
+
+La Sra. Sabrina Gregoire Torres intervé per posar en valor tres punts aprovats en les darreres Juntes de Govern, considerats clau per consolidar un model de parròquia responsable, sostenible i, sobretot, resilient.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+Emmarca aquestes accions en el context conegut per tothom: arran de la crisi energètica derivada de la guerra a Ucraïna, el Govern d’Andorra va demanar a les administracions un esforç de contenció amb l’objectiu d’un estalvi del 15 %. En aquell moment, el Comú d’Encamp no només va complir aquest objectiu, sinó que va arribar a reduir el consum en un 31,8 %.
+
+Recorda que aquest resultat no va ser fruit de la improvisació ni de la casualitat, sinó de decisions planificades i valentes. Es van prendre mesures com l’apagada selectiva de fanals, un de cada dos, mantenint sempre la seguretat en punts crítics com els passos de vianants. Amb la normalització actual, aquestes mesures s’han revertit o mantingut segons la lògica i la necessitat.
+
+Amb l’aprovació de les noves propostes, es fan tres passos més en la mateixa direcció:
+
+1. Enllumenat públic: La convocatòria del concurs per substituir les lluminàries de sodi per LED al vial d’Encamp és la continuïtat d’una estratègia iniciada en el mandat passat. Aquesta mesura no només té implicacions tècniques, sinó també estratègiques en l’àmbit energètic i de seguretat urbana. La integració al sistema de telegestió EXEDRA permet regular la intensitat i el control segons la necessitat real, gestionant els diners públics amb eficiència i il·luminant millor gastant menys.
+
+2. Instal·lació fotovoltaica al Complex Esportiu i Sociocultural: Es convoca un concurs públic per instal·lar plaques fotovoltaiques a la coberta del gimnàs, de la pista, de la piscina i de l’escola bressol. Aquesta actuació, aprofitant un dels sostres més grans i assolellats de la parròquia, aposta per l’autonomia energètica comunal i la sobirania energètica nacional. L’objectiu és convertir aquesta infraestructura en una inversió amb retorn, generant energia renovable i reduint la despesa energètica de la parròquia.
+
+3. Auditories energètiques dels edificis comunals: Es contracten dues auditories energètiques, per a la Casa Comuna i per al Complex Esportiu i Sociocultural. Aquesta acció tanca el cercle: si les plaques generen energia verda, les auditories garanteixen que no se’n malbarati cap quilowatt. La combinació de producció i eficiència permet incrementar els ingressos energètics i reduir la despesa de funcionament.
+
+Conclou destacant que el Comú d’Encamp vol continuar liderant amb l’exemple, anticipant-se a les necessitats i adoptant mesures que garanteixin la sostenibilitat econòmica i ambiental de la parròquia.
+
+#### 1.7.10. Convocatòria d'un concurs públic nacional per l'adquisició d'un camió amb cistella de 16m,PB-372/26
+
+Vista la necessitat del Comú d’Encamp de disposar de mitjans tècnics adequats per a la realització de treballs en alçada en condicions òptimes de seguretat i eficiència, es considera necessari procedir a l’adquisició
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad d’un camió amb cistella elevadora d’una alçada de treball aproximada de 16 metres.
+
+Aquest vehicle permetrà donar resposta a diverses necessitats operatives dels serveis comunals, reduint la dependència de mitjans externs i millorant la capacitat d’intervenció directa.
+
+Es proposa a la Junta de Govern convocar, amb la modalitat de concurs públic i pel procediment obert, d’acord amb les condicions que s’estableixin en el corresponent plec de bases, el concurs per a l’adquisició d’un camió amb cistella elevadora de 16 metres, amb càrrec a la partida 2030/155000001/60300, EC2026005, segons document d’intervenció A- 202600002104.
+
+1.7.11. Convocatòria d'un concurs públic nacional pels treballs de refecció del camí vell de Vila i la reposició de les xarxes de serveis, PB-376/26 s’acorda la convocatòria d’un concurs públic nacional, amb la modalitat de contractació ordinària i pel procediment obert, d’acord amb les condicions que s’estableixin en el corresponent plec de bases, per adjudicar els treballs de refecció del camí vell de Vila i la reposició de les xarxes de serveis, amb càrrec a la partida 2030/45910101/6074000,segons document d’intervenció A-202600002183.
+
+#### 1.7.12. Convocatòria d'un concurs públic nacional per l'adjudicació dels treballs de construcció d'una instal·lació fotovoltaica a les cobertes del Centre Esportiu i Sociocultural d'Encamp,PB-369/25
+
+S’acorda la convocatòria d’un concurs públic nacional, amb la modalitat de contractació ordinària i pel procediment obert, d’acord amb les condicions que s’estableixin en el corresponent plec de bases, per adjudicar els treballs de construcció d’una instal·lació fotovoltaica a les cobertes del Centre Esportiu i Sociocultural d’Encamp amb càrrec a la partida
+
+7010/34200001/60310, segons document d’intervenció A- 202600001897.
+
+#### 1.7.13. Convocatòria d'un concurs nacional pels treballs de millora de la climatització per Casa Comuna, PB-378/26
+
+Vista la necessitat de garantir unes condicions òptimes de confort tèrmic d’eficiència energètica a l’edifici de la Casa Comuna d’Encamp, el Comú preveu dur a terme un projecte per al subministrament i la instal·lació d’un nou sistema de climatització que substitueixi l’actual instal·lació de producció de fred, la qual es troba clarament obsoleta, amb un elevat risc d’avaries, un rendiment energètic deficient i dificultats creixents de manteniment.
+
+El sistema proposat permetrà que es pugui sol·licitar calefacció i fred de manera simultània, en funció de les necessitats tèrmiques específiques de cada zona de l’edifici, millorant notablement el confort dels usuaris i la flexibilitat operativa de la instal·lació.
+
+Es proposa a la Junta de Govern convocar, amb la modalitat de concurs nacional i pel procediment obert, d’acord amb les condicions que s’estableixin en el corresponent plec de bases, el concurs per adjudicar els treballs de subministrament i instal·lació del nou sistema de climatització de
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad la
+
+Casa
+
+Comuna, amb càrrec a la partida pressupostària 2060/92000001/60310, EC2026012.
+
+### 1.8. COMISSIÓ D'OBRES PÚBLIQUES I URBANISME
+
+#### 1.8.1. Adjudicació d’un complement de despesa de l’obra de construcció d’un vial d’accés al Cramea - projecte núm. 481
+
+Vistos els informes d’Intervenció comunal, de l’empresa Suport Enginyers Consultors, SAU i l’informe núm. 10869 del Departament d’Obres Públiques i Urbanisme, relatius al tancament econòmic de l’obra amb el detall del cost final de l’obra i la justificació del cost complementari respecte a l’adjudicació inicial; s’acorda l’adjudicació d’un complement de despesa a l’empresa constructora Treballs Públics Unitas, SAU per un import de 96.294,46 € (inclòs el 4,5% d’IGI) i l’adjudicació d’un complement de despesa a l’empresa Suport Enginyers Consultors, SAU per un import de 1.829,60 € (inclòs el 4,5% d’IGI) que resulta de l’aplicació del percentatge d’honoraris de l’1,90 % respecte de les certificacions d’obra executada, d’acord amb la proposta d’autorització i compromís de despesa a imputar a la partida pressupostària 4000/45300202/6071052.
+
+Atès que la partida afectada no presenta crèdits pressupostaris suficients, l’autorització d’aquesta despesa queda supeditada a l’aprovació de la corresponent modificació pressupostària.
+
+#### 1.8.2. Adjudicació d’un complement de despesa de l’obra de remodelació de la rotonda del Funicamp - projecte núm. 601
+
+Vistos els informes d’Intervenció, de la UTE Suport-Gespro (Serveis d’Encamp-2024) i l’informe núm. 10872 del Departament d’Obres Públiques i Urbanisme, relatius al tancament econòmic de l’obra amb el detall del cost final de l’obra i la justificació del cost complementari respecte a l’adjudicació inicial; s’acorda l’adjudicació d’un complement de despesa a l’empresa constructora Construccions Neu, SL per un import de 1.337,01 € (inclòs el 4,5% d’IGI) i l’adjudicació d’un complement de despesa a la UTE Suport-Gespro (Serveis d’Encamp-2024) per un import de 60,60 € (inclòs el 4,5% d’IGI) que resulta de l’aplicació del percentatge d’honoraris del 4,50 % respecte de les certificacions d’obra executada, d’acord amb la proposta d’autorització i compromís de despesa a imputar a la partida pressupostària
+
+4000/45910201/6075000, segons document AC- 202600003724 pels treballs d’execució d’obra, i d’acord amb la proposta d’autorització i compromís de despesa a imputar a la partida pressupostària
+
+4000/45910201/6075000, segons document AC- 202600003725 pels treballs de direcció d’obra.
+
+1.8.3. Conveni de cessió d’us temporal de terreny entre el Comú d’Encamp i la societat Casa Areny, SL en el marc de les obres de remodelació de l’avinguda de Joan Martí: Tram Genil - Prada de Moles - projecte núm. 596 Vista la documentació corresponent al conveni de cessió d’ús temporal de terreny a fi d’executar les obres de remodelació de l’avinguda de Joan Martí per a ubicar-hi un espai de zona verda, la remodelació de la voravia i una marquesina d’autobús, així com per a habilitar l’espai per a l’estacionament de 8 places d’aparcament que donen servei a l’hotel la Mola i la cessió gratuïta d’una plaça d’estacionament a l’aparcament del parc de l’Ossa, a signar entre el Comú d’Encamp i la societat Casa Areny, SL; s’acorda l’aprovació del conveni de cessió d’ús.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad presentada pel senyor Dorian Bishop Villero
+
+Vista la sol·licitud presentada per a la primera utilització i ocupació de les obres de reforma i rehabilitació interior pel canvi d’ús de local comercial a l’ús de restauració; consistint en l’adaptació dels serveis higiènics, la reorganització dels espais de cuina i serveis i la renovació d’acabats i instal·lacions del local planta baixa de l‘edifici Casa Malibern, situat al carrer de la Girauda, núm. 2 d’Encamp; vist l’informe núm. 10877 del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+En la reunió de la Junta de Govern l’Hble. Sra. Sabrina Gregoire Torres, s’absté en el tractament d’aquest punt, atesa la seva relació de parentiu amb la propietat del local comercial.
+
+#### 1.8.5. Sol·licitud núm. SLOARRE-15335/2025 de llicència d’obres de rehabilitació o reforma d’edificació presentada pel senyor Dorian Bishop Villero
+
+Vista la sol·licitud presentada per dur a terme les obres de reforma i rehabilitació interior pel canvi d’ús de local comercial a l’ús de restauració; consistint en l’adaptació dels serveis higiènics, la reorganització dels espais de cuina i serveis i la renovació d’acabats i instal·lacions, del local planta baixa de l‘edifici Casa Malibern, situat al carrer de la Girauda, núm. 2 d’Encamp; vist l’informe núm. 10876 del Departament d’Obres Públiques i Urbanisme, es proposa considerar revisada favorablement la llicència urbanística.
+
+En la reunió de la Junta de Govern l’Hble. Sra. Sabrina Gregoire Torres, s’absté en el tractament d’aquest punt, atesa la seva relació de parentiu amb la propietat del local comercial.
+
+1.8.6.
+
+Sol·licitud núm.
+
+SLOARRE-20509/2024 de llicència d’obres d’ampliació, de rehabilitació o reforma d’edificació presentada per la societat Ventall 2020, SL.
+
+Vista la sol·licitud presentada de modificació de projecte aprovat, per dur a terme la construcció d’un edifici de nova planta destinat a l’ús d’habitatge plurifamiliar amb aparcament per a venda; que consisteix en la disminució del nombre d’habitatges i del nombre de places d’aparcament i comporta la disminució de la superfície construïda i edificada de l’edifici, situat a la parcel·la de terreny Hort del Canimà del carrer del Solà, s/n d’Encamp; vist l’informe núm. 10871 del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+1.8.7. Sol·licitud núm. SCDO-24684/2025 de comunicació o denúncia d’obres o instal·lacions presentada pel senyor Jaume Cervera Palleja Vista la sol·licitud presentada pel president de la Comunitat de propietaris de l’edifici Fènix, i vistes les actes d’inspecció del Departament d’Obres Públiques i Urbanisme; s’acorda donar resposta al sol·licitant.
+
+#### 1.8.8. Sol·licitud núm. SLUE-23297/2025 de llicència d’ús de l’edificació presentada per la societat Saetde
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+Vist que per acord de la Junta de Govern del 28.11.2025 es va atorgar la llicència d’ús de l’edificació per a la primera utilització i ocupació, amb caràcter parcial, de la planta baixa de les obres de construcció d’un edifici destinat a donar servei a les activitats d’aventura tant d’hivern com d’estiu, que comprèn els usos d’oficina en planta baixa, i a l’ús residencial d’habitatge en planta sota coberta per reubicació de la cabana del vaquer, situat al costat nord-oest de l’aparcament del Cubil amb accés des de la CS280 de Grau Roig, al domini esquiable de Pas de la Casa - Pic Maià - Grau-Roig; vista la sol·licitud presentada per a la primera utilització i ocupació corresponent a la planta primera de l’edifici; vist l’informe núm. 10835 del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+#### 1.8.9. Sol·licitud núm. SLP-23154/2025 de llicència de parcel·lació presentada per la senyora Maria Reig Moles
+
+Vista la sol·licitud presentada per dur a terme la segregació de la parcel·la de terreny Parcel·la 1, en dues parcel·les resultants anomenades Parcel·la 1 i Parcel·la 2, incloses a la UA Aviar 3 (SUNC) i a la UA Aviar 1 (SUCc), respectivament, ubicades al terreny El Morelló, situat a la CS210 de Vila- Beixalís, núm. 20 d’Encamp; vist l’informe núm. 10874 del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+#### 1.8.10. Sol·licitud núm. SLP-21125/2025 de llicència de parcel·lació presentada per la societat La Feixa, SL
+
+Vista la sol·licitud presentada per dur a terme la unió de les parcel·les de terreny Parcel·la 1, Parcel·la 2 i Parcel·la 3; en dues parcel·les resultants anomenades Parcel·la 1 i Parcel·la 2, incloses a la UA Calcinera 3 (SUBLE), situada a l’avinguda de Joan Martí, s/n d’Encamp; vist l’informe núm. 10868 del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+#### 1.8.11. Sol·licitud núm. SLUE-1126/2026 de llicència d’ús de l’edificació presentada per la senyora Marina Ferriz Font
+
+Vista la sol·licitud presentada per a la primera utilització i ocupació de les obres de reforma i rehabilitació, pel canvi d’ús hoteler a l’ús d’habitatge plurifamiliar per a destinar-lo a lloguer, de l’edifici Casa Benito, situat a l’avinguda de Joan Martí, núm. 51 d’Encamp; vist l’informe núm. 10875 del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+#### 1.8.12. Sol·licitud núm. SLUE-24875/2025 de llicència d’ús de l’edificació presentada pel senyor Gustavo Trueba
+
+Vista la sol·licitud presentada per a la primera utilització i ocupació de les obres de reforma i rehabilitació interior per a la connexió de dos locals comercials per a destinar-los a l’ús de restauració; consistint en l’adaptació dels serveis higiènics, la reorganització dels espais de cuina i serveis, la renovació d’acabats i instal·lacions, i la creació d’una rampa de connexió interior dels local 6B i del local 8, ubicats als edificis Casa Marxanda i Casa Marquet, situats a l’avinguda de Joan Martí, núm. 6B i núm. 8 d’Encamp; vist l’informe núm. 10851 del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad presentada pel senyor Joan Marc Bartumeu Riba
+
+Vista la sol·licitud presentada per a la primera utilització i ocupació de les obres de construcció d’un edifici de nova planta a l’ús d’habitatge unifamiliar a la parcel·la de terreny Prat de Casa, situada a l’avinguda de Rouillac, s/n d’Encamp; vista l’acta de lliurament i recepció provisional d’obres d’urbanització integral i vist l’informe núm. 10850 del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+1.8.14. Sol·licitud núm. SLUE-24501/2025 de llicència d’ús de l’edificació presentada pels senyors Gil Lautrec i Guylaine Karine Stoedzel Vista la sol·licitud presentada per a la primera utilització i ocupació de les obres de reforma i redistribució completa per la unió dels habitatges planta segona porta 3 i porta 4, en un únic habitatge, de l’edifici Sporting, situat al carrer Sant Jordi, núm. 6 del Pas de la Casa; vist l’informe núm. 10860 del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+#### 1.8.15. Sol·licitud núm. SLORRE-16088/2025 de llicència d’obres de rehabilitació o reforma d’edificació presentada pels senyors Gil Lautrec i Guylaine Karine Stoedzel
+
+Vista la sol·licitud presentada per dur a terme les obres de reforma i redistribució completa per la unió dels habitatges planta segona porta 3 i porta 4, en un únic habitatge, de l’edifici Sporting, situat al carrer Sant Jordi, núm. 6 del Pas de la Casa; vist l’informe núm. 10870 del Departament d’Obres
+
+Públiques i
+
+Urbanisme, es proposa considerar revisada favorablement la llicència urbanística.
+
+1.8.16.
+
+Sol·licitud núm.
+
+SLOARRE-23628/2025 de llicència d’obres d’ampliació, de rehabilitació o reforma d’edificació presentada pel senyor Antoni Mas Marsenyach
+
+Vista la sol·licitud presentada per dur a terme les obres de reforma i ampliació d’un edifici destinat a habitatge unifamiliar anomenat Casa Ton de Martí; consistint en l’augment de l’alçada de l’edifici en una planta, situat al carrer de les Bons, núm. 11 de Les Bons; vist l’informe núm. 10865 del Departament d’Obres Públiques i Urbanisme, es proposa l’atorgament de la llicència urbanística.
+
+L’Hble. Sra. Laura Mas Barrionuevo s’absté i s’absenta en l’examen d’aquest punt, atesa la seva relació directa amb el titular de la sol·licitud. 1.8.17.
+
+Sol·licitud núm.
+
+SLOARRE-14386/2025 de llicència d’obres d’ampliació, de rehabilitació o reforma d’edificació presentada per la societat Patrimonial Cal Joan Cal Notari, SL
+
+Vista la sol·licitud presentada per dur a terme les obres de reforma i ampliació d’un edifici, pel canvi d’ús de magatzem i assecador de tabac per a destinar-lo a habitatge unifamiliar; consistint en la reforma de l’envolupant, obertures de façana, i la construcció d’una ampliació amb dormitoris i terrasses i la creació de nous espais exteriors amb piscina i gimnàs, ubicat a la parcel·la de terreny Parcel·la l’Obaga de Cal Joan, situada a la carretera de Vila, núm. 41 d’Encamp; vist l’informe núm. 10873
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+En la reunió de la Junta de Govern l’Hble. Sra. Veronica Solsona Bonrepaux s’absté i s’absenta en el tractament d’aquest punt.
+
+#### 1.8.18. Sol·licitud núm. SLOCEIINP-16852/2025 de llicència d’obres de construcció d’edificis, infraestructures o instal·lacions de nova planta presentada pels senyors Enric i Laura Pujal Torres
+
+Vista la sol·licitud presentada per dur a terme la construcció d’una infraestructura destinada a estacionament, en règim d’obres i actuacions provisionals, lligat a l’ús esportiu i esportivorecreatiu del Complex Esportiu i Sociocultural d’Encamp, ubicat al terreny Prat de l’Escorial, situat al carrer René Baulard, núm. 19 d’Encamp; vist l’informe núm. 10866 del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+En la reunió de la Junta de Govern l’Hble. Sra. Veronica Solsona Bonrepaux s’absté i s’absenta en el tractament d’aquest punt.
+
+#### 1.8.19. Sol·licitud núm. SLOCEIINP-5202/2025 de llicència d’obres de construcció d’edificis, infraestructures o instal·lacions de nova planta presentada per la societat Saetde
+
+Vista la sol·licitud presentada per dur a terme les obres de construcció d’una nova estació de captació d’aigua al riu de la Barraca Cremada, consistint en la construcció d’un assut, d’una arqueta de captació i d’una canonada per alimentar la Bassa del Vaquer, situada a la CS280 de Grau Roig, aparcament de Grau Roig del domini esquiable Pas de la Casa - Pic Maià - Grau Roig; vist l’informe núm. 10861 del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+#### 1.8.20. Sol·licitud núm. SLOCEIINP-4938/2025 de llicència d’obres de construcció d’edificis, infraestructures o instal·lacions de nova planta presentada per la societat Ernose, SLU
+
+Vista la sol·licitud presentada per dur a terme les obres de construcció d’una instal·lació de captació solar fotovoltaica per a la producció d’energia elèctrica, amb la instal·lació de mòduls fotovoltaics, els moviments de terra per habilitar el terreny, fonamentacions, rases, urbanització i tancament, i la construcció d’un edifici tècnic, situada en un terreny al costat de l’aparcament de Costa Rodona, sector de Pas de la Casa del Domini Esquiable Pas de la Casa - Pic Maià - Grau Roig; vist l’informe núm. 10864 del Departament d’Obres Públiques i Urbanisme; s’acorda l’atorgament de la llicència urbanística.
+
+#### 1.8.21. Sol·licituds de certificat urbanístic
+
+Vistes les sol·licituds presentades que s’adjunten a l’expedient, s’han lliurat els certificats urbanístics següents:
+
+| Expedient | Sol·licitant | Objecte |
+| --- | --- | --- |
+| SCU- 21526/2025 | Mario Antequera Abella | CU 61-2025 de la parcel·la de terreny Font del Dallaire, núm. 6, situada a la carretera dels Cortals, s/n d’Encamp. |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+| SCU- 23799/2025 | Patrimonial Cal Joan Cal Notari, SL | CU 62-2025 de la parcel·la de terreny l’Obaga de Cal Joan, situada a la carretera de Vila, núm. 41 d’Encamp. |
+| --- | --- | --- |
+| SCU- 24583/2025 | Andorra Banc Agrícol Reig SA | CU 63-2025 del terreny Prat del Forn de Cals, situat a la partida El Fener de l’Olla d’Encamp. |
+| SCU- 24589/2025 | Ricard Coma Ribes | CU 64-2025 del terreny Borda de la Costa, situat a la partida La Costa a la carretera dels Cortals, s/n d’Encamp. |
+| SCU- 26093/2025 | Judith Puigcernal Solé | CU 65-2025 de la parcel·la 11 lot 4 i l’edificació bastida Residència Catalana, situada al carrer Major, núm. 8 del Pas de la Casa. |
+| SCU- 26353/2025 | Eco Life Promocions, SL | CU 66-2025 de la parcel·la de terreny Terres del Mollar abans Casa Cotxa, situada a la carretera dels Cortals, núm. 77 d’Encamp. |
+| SCU- 0678/2026 | Albert Llovera Massana, SLU | CU 1-2026 de la parcel·la de terreny Parcel·la de la Plana – 07579, situada a la carretera de la Plana, núm. 26 d’Encamp. |
+
+#### 1.8.22. Sol·licituds de llicència d’obres menors
+
+Vistes les sol·licituds presentades que s’adjunten a l’expedient; s’acorda considerar revisar favorablement les llicències adquirides, pel procediment simplificat, a la data de presentació.
+
+| Expedient | Sol·licitant | Objecte |
+| --- | --- | --- |
+| SLOM- 16029/2025 | Isabel Ribault Castel | Refecció de la cuina i del bany, de substitució de la instal·lació elèctrica i de col·locació de parquet a l’habitatge planta primera porta B de l’edifici La Grandalla, situat al carrer del Solà, núm. 8 d’Encamp. |
+| SLOM- 16139/2025 | Com. emfiteutes ed. Frontera Blanca | Manteniment i reparació de la teulada de l’edifici Frontera Blanca, situat a l’avinguda d’Encamp, núm. 39 del Pas de la Casa. |
+| SLOM- 16336/2025 | Pilar Cuesta Berrocal | Refecció del bany de l’habitatge planta primera porta C de l’edifici Velazquez, situat al carrer dels Ajustants, núm. 1 d’Encamp. |
+| SLOM- 16417/2025 | Sergi Rivera Garcia | Substitució de les finestres, refecció de la cuina i de la instal·lació elèctrica i substitució de fusteria interior de l’apartament 44 planta 1 de l’edifici Sporting, situat al carrer Sant Jordi, núm. 6 del Pas de la Casa. |
+| SLOM- 16579/2025 | Saetde | Retirada d’elements estructurals malmesos i realització de cales i pous al pont del Planell dels Piolets, sector Grau Roig, Domini Esquiable Pas de la Casa - Pic Maià - Grau Roig |
+| SLOM- 16779/2025 | Residencial Ossa, SAU | Realització de sondeigs per a estudi geotècnic del terreny Parcel·la 4B, situada al carrer Prat Gran de l’Areny, núm. 7B d’Encamp. |
+| SLOM- 17166/2025 | Miquel Alvarez Marfany | Refecció dels paviments i de la instal·lació elèctrica i de pintura del local planta baixa de l’edifici Casa Coma, situat al carrer Major, núm. 15 d’Encamp. |
+| SLOM- 17425/2025 | David Zabala Mas | Reparació de la tela asfàltica i de la fusteria malmesa per l’aigua de la marquesina de la porta de recepció de l’Hotel Montecarlo, situat a l’avinguda de Joan Martí núm. 104 d’Encamp. |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+| SLOM- 17483/2025 | Josep Anton Valén Panillo | Reparació de les finestres i tancaments metàl·lics, refecció de les instal·lacions i sanejament de revestiments, paviments i sostre i pintura del Local Soterrani 1 de l’edifici Ós Blanc, situat al carrer Sant Jordi, núm. 15 del Pas de la Casa. |
+| --- | --- | --- |
+| SLOM- 17489/2025 | Alfons Martisella Capdevila | Refecció de la cuina i del bany de l’habitatge planta 2 de l’edifici Casa Basté, situat al carrer Sant Miquel, núm. 3 d’Encamp. |
+| SLOM- 17554/2025 | Jordi Pons Lopez | Refecció de la cuina de l’habitatge planta segona porta 1, escala A, de l’edifici Mercuri, situat al carrer Mirador d’Encamp, núm. 31 d’Encamp. |
+| SLOM- 17655/2025 | Olivier Muñoz Causse | Substitució de les finestres i refecció dels banys de l’apartament B planta 4 de l’edifici Pisanu, situat al carrer Sant Jordi, núm. 9 del Pas de la Casa. |
+| SLOM- 17660/2025 | Jana Majoral Julia | Refecció del bany de l’habitatge planta primera porta 1, escala B, de l’edifici Sastret, situat al carrer del Solà, núm. 29 d’Encamp. |
+| SLOM- 17661/2025 | Teresa Ferreira de Jesus | Refecció de la cuina de l’habitatge planta 2 porta 2, de l’edifici La Llenguadera, situat al carrer del |
+| 17661/2025 | Jesus | 2, de l’edifici La Llenguadera, situat al carrer del Doro, núm. 1 d’Encamp. |
+| SLOM- 17700/2025 | Joan Cornella Arolas | Adaptació de paret de formigó per facilitar la maniobra de vehicles a l’entrada de l’edifici Casa Cornella, situat al carrer Pas de la Casa, núm. 3 d’Encamp. |
+| SLOM- 17706/2025 | Xavier Coma Gasia | Substitució d’una placa malmesa de la façana de l’edifici Les Abelletes, situat al carrer de les Abelletes, núm. 7 del Pas de la Casa. |
+| SLOM- 17759/2025 | Promocions CMS, SL | Substitució de les finestres, refecció del bany, actualització de la il·luminació i col·locació de parquet al Local 3 Soterrani 1, escala 1, del Conjunt Residencial Anyó, situat al carrer Mirador d’Encamp, núm. 16 d’Encamp. |
+| SLOM- 17794/2025 | Nova Constructora, SLU | Refecció del bany per reparar filtracions d’aigua de l’habitatge planta 4 porta 2, bloc B, de l’edifici Rolls, situat a l’avinguda de Joan Martí, núm. 75 d’Encamp. |
+| SLOM- 17854/2025 | Emilie Pauline Moulier | Refecció de la cuina i del bany i pintura de l’habitatge planta primera porta 3, escala E, de l’edifici La Pleta de les Bons, situat al carrer Ciutat Pubilla de la Sardana, núm. 28 d’Encamp. |
+| SLOM- 17935/2025 | IM Serveis Immobiliaris, SLU | Substitució de l’ascensor de l’edifici El Cim, situat al carrer Mirador d’Encamp, núm. 26 d’Encamp. |
+| SLOM- 18036/2025 | Sideco, SL | Refecció de la cuina, substitució del paviment i pintura de l’habitatge planta 2 porta 5 de l’edifici Delta, situat al carrer Mirador d’Encamp, núm. 21 d’Encamp. |
+| SLOM- 18056/2025 | Robert Stephen Ralph Hay | Refecció de la cuina i dels banys, substitució de revestiments i paviments, actualització de la il·luminació i pintura de l’habitatge planta quarta porta 1, escala F, del CR Vila del Sol, situat a la carretera de Vila, núm. 38 d’Encamp. |
+| SLOM- 18123/2025 | Sociedad Técnica Digital STD, SLU | Refecció del bany de l’apartament D planta primera, escala 13, de l’edifici Sandi IV, situat al carrer de la Solana, núm. 67 del Pas de la Casa. |
+| SLOM- 18151/2025 | Constructora Al Quadrat, SL | Refecció de la cuina de l’habitatge planta primera porta 4, escala A, del CR Vila del Sol, situat a la carretera de Vila, núm. 38 d’Encamp. |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+| SLOM- 18153/2025 | Francesc Xavier Barroso Andrade | Substitució de les finestres, refecció de la cuina, del bany i de la fusteria interior, i de col·locació de parquet a l’habitatge planta segona porta 1, escala H, de l’edifici Valira Nova, situat a l’avinguda de la Bartra, núm. 10 d’Encamp. |
+| --- | --- | --- |
+| SLOM- 18175/2025 | Angela Mas Joaniquet | Substitució de les finestres dels habitatges planta quarta porta 1 i planta cinquena porta 1, escala B, de l’edifici Casa Oros, situat a l’avinguda de François Mitterrand, núm. 7 d’Encamp. |
+| SLOM- 18194/2025 | Rui Filipe Barbosa de Vasconcelos | Substitució de les finestres, refecció de la cuina i del bany, renovació del paviment de la terrassa i de la plaça d’aparcament de l’habitatge planta primera porta A, de l’edifici El Cim, situat al carrer Mirador d’Encamp, núm. 26 d’Encamp. |
+| SLOM- 18371/2025 | Com. Prop. Aparcament El Pedral | Reparació de les goteres del teulat de l’edifici Aparcament El Pedral, situat a l’avinguda Príncep Benlloch, núm. 20 d’Encamp. |
+| SLOM- 18386/2025 | Construccions Neu, SL | Substitució de paviment i pintura de l’apartament 166 planta sisena, escala 1, de l’edifici Frontera Blanca, situat a l’avinguda d’Encamp, núm. 39 del Pas de la Casa. |
+| SLOM- 18435/2025 | Apartaments i Hotels 3000, SLU | Col·locació d’un nou tub de doble capa d’extracció de fums de calefacció per la façana exterior collat a la paret amb tacs i abraçadores a l’hotel Pere d’Urg, situat al carrer Pas de la Casa, núm. 6 d’Encamp. |
+| SLOM- 18510/2025 | Elio Ros Lopez | Substitució de les finestres, refecció de la cuina i dels banys, de col·locació de parquet i pintura de l’habitatge planta sisena porta A de l’edifici Fènix, situat al carrer Mirador d’Encamp, núm. 20 d’Encamp. |
+| SLOM- 18549/2025 | Esther Paris Riba | Sanejament interior de parets i envans malmesos per humitats de l’edifici Casa pairal Lluís de Mas, situat al carrer de Les Bons, núm. 5 de Les Bons. |
+|  |  | carrer de Les Bons, núm. 5 de Les Bons. |
+| SLOM- 18594/2025 | Germans Fernandez Tot | Substitució dels paviments, revestiments, del mobiliari i dels rètols actuals del local de l’establiment Burguer |
+| 18594/2025 | Fernandez Tot Construccions, SL | i dels rètols actuals del local de l’establiment Burguer King, situat al carrer Bearn, núm. 10 del Pas de la Casa. |
+| SLOM- 18695/2025 | Karen Lorena Espitia Sierra | Substitució de les finestres, refecció de la cuina i del bany, de col·locació de parquet i pintura de l’habitatge planta cinquena porta B de l’edifici Fènix, situat al carrer Mirador d’Encamp, núm. 20 d’Encamp. |
+| SLOM- 19159/2025 | Immobles Julia- Pas, SA | Manteniment de les resistències elèctriques de la coberta i de la voravia de l’edifici situat al carrer Catalunya, núm. 25 del Pas de la Casa. |
+| SLOM- 19310/2025 | Construccions Barca, SLU | Tancament de la Parcel·la 1 del terreny Terres de la Plana, fent una entrada i amb col·locació d’una porta, situada a la carretera de la Plana, núm. 18 d’Encamp. |
+| SLOM- 19511/2025 | Joana Solà Molero | Refecció de la cuina i dels banys, substitució de la instal·lació elèctrica i de revestiments i de pintura de l’habitatge Xalet número 8A del CR Els Agols, situat a la carretera dels Cortals, núm. 60 d’Encamp. |
+| SLOM- 19585/2025 | Marina Mas Martí | Refecció del bany i dels revestiments i de modificació de la instal·lació elèctrica del local planta baixa de l’edifici Casa Marxanda de Cal Remendo, situat al carrer Major, núm. 1 d’Encamp. |
+|  |  | Remendo, situat al carrer Major, núm. 1 d’Encamp. |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+| SLOM- 19618/2025 | Josep Maria Marot Perez | Refecció de la cuina i del bany de l’habitatge planta primera porta 1 de l’edifici Casa Farré/Casa |
+| --- | --- | --- |
+| 19618/2025 | Perez | planta primera porta 1 de l’edifici Casa Farré/Casa Marot, situat a l’avinguda de Joan Martí, núm. 51 d’Encamp. |
+| SLOM- 19826/2025 | Llosats d’Envalira | Treballs de manteniment a la teulada del bloc D de l’edifici Prat de la Solana, situat al carrer del Solà, s/n d’Encamp. |
+| SLOM- 19935/2025 | Angela Mas Joaniquet | Refecció del bany i substitució de paviments i revestiments de l’habitatge planta tercera porta 1, escala B, de l’edifici Casa Oros, situat a l’avinguda de François Mitterrand, núm. 7 d’Encamp. |
+| SLOM- 19973/2025 | Meritxell Trullà Martí | Col·locació d’una divisòria de cartró-guix per separar la cuina, el despatx i el magatzem del local de l’establiment Restaurant Roc Arnau, situat a l’avinguda Príncep Benlloch, núm. 28 d’Encamp. |
+| SLOM- 20065/2025 | Construccions Nobrega, SL | Desmuntatge d’envans i de falsos sostres de cartró- guix del Local planta baixa de l’edifici El Mollar, situat al carrer René Baulard, núm. 13Bis d’Encamp. |
+| SLOM- 20134/2025 | Albert Parrilla Vela | Refecció del bany principal de l’habitatge planta tercera porta 2, escala H, de l’edifici La Llenguadera fase I i II, situat al carrer del Solà, núm. 21 d’Encamp. |
+| SLOM- 20379/2025 | Pallars Construcció, SLU | Refecció dels banys de l’apartament 12 planta soterrani 2 de l’edifici Nevada I, situat al carrer de la Solana, núm. 15 del Pas de la Casa. |
+| SLOM- 20448/2025 | Seic, SAU | Refecció de la cuina, substitució de la instal·lació elèctrica i del paviment i de pintura de l’habitatge planta quarta porta C de l’edifici Torre Valentina, situat a l’avinguda de François Mitterrand, núm. 71 d’Encamp. |
+| SLOM- 20476/2025 | Sergio Alberto Candanedo Pomeda | Substitució del paviment i treballs de millora de la xemeneia de l’habitatge planta quarta porta 2 de l’edifici Canima, situat a l’avinguda de Joan Martí, núm. 82 d’Encamp. |
+| SLOM- 20488/2025 | Record Gegant, SL | Col·locació d’un teulat de protecció del tub d’extracció de fums de la façana posterior de l’edifici Mati Mar, situat al carrer Sant Jordi, núm. 17 del Pas de la Casa. |
+| SLOM- 20498/2025 | Andorra Superhome, SLU | Refecció de la cuina i dels banys, substitució de la instal·lació elèctrica i de col·locació de parquet a l’habitatge Xalet Picot 1, situat a la carretera dels Cortals, núm. 90 d’Encamp. |
+| SLOM- 20575/2025 | Sideco, SL | Refecció de la cuina, de substitució de paviments i revestiments i de modificació de la instal·lació elèctrica del local planta baixa de l’edifici Casa Benito, situat a l’avinguda de Joan Martí, núm. 51 d’Encamp. |
+| SLOM- 20628/2025 | Josep Antoni Castell Nadal | Refecció de la cuina i dels banys de l’habitatge planta segona porta 1 de l’edifici Canima, situat a l’avinguda de Joan Martí, núm. 82 d’Encamp. |
+| SLOM- 20754/2025 | Pic Restauració, SLU | Substitució del tub interior del conducte d’extracció de fums del local de l’establiment Restaurant Pas 83 de l’edifici Dolsa, situat a la plaça dels Vaquers, núm. 13 del Pas de la Casa. |
+| SLOM- 20909/2025 | Jordi Babi Picolo | Reparació de les goteres de la coberta i substitució de la fusteria de totes les obertures de l’edifici Casa Roca, situat al carrer Sant Miquel, núm. 13 d’Encamp. |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+| SLOM- 20949/2025 | Record Gegant, SL | Col·locació d’un teulat de protecció del tub d’extracció de fums de la façana principal de l’edifici Mati Mar, situat al carrer Sant Jordi, núm. 17 del Pas de la Casa. |
+| --- | --- | --- |
+| SLOM- 21024/2025 | Construccions Neu, SLU | Sanejament de les juntes, arrebossats i baranes, reparació i substitució de les peces malmeses i pintura de la façana, i col·locació de canalons de recollida d’aigües de l’edifici Rolls, situat a l’avinguda de Joan Martí, núm. 75 d’Encamp. |
+| SLOM- 21058/2025 | Pierre Montpeyroux | Substitució de les finestres de l’habitatge planta quarta porta 2 de l’edifici Vídua Llop, situat a l’avinguda de François Mitterrand, núm. 5 d’Encamp. |
+| SLOM- 21069/2025 | Anna Maria Palmitjavila Calbó | Treballs de pintura pel manteniment de finestres i portes del local planta baixa de l’edifici Casa Gaspà II, situat a l’avinguda Príncep Benlloch, núm. 32 d’Encamp. |
+| SLOM- 21111/2025 | Com. Prop. ed. Prat de la Bartra bloc E | Reparació i sanejament de la terrassa comunitària, reparació i substitució de les peces malmeses i pintura de la façana, i substitució del baixant de la teulada del Bloc E de l’edifici Prat de la Bartra, situat a l’avinguda de la Bartra, núm. 24 d’Encamp. |
+| SLOM- 21137/2025 | Helmut Karbe | Refecció del bany de l’habitatge planta sotacoberta porta 2 de l’edifici Cal Pere, situat a l’avinguda de François Mitterrand, núm. 92 d’Encamp. |
+| SLOM- 21143/2025 | Construccions Nobrega, SL | Refecció del bany i del paviment del local planta baixa de l’edifici Casa Cornella, situat al carrer Pas de la Casa, núm. 3 d’Encamp. |
+| SLOM- 21416/2025 | Anna Maria Palmitjavila Calbó | Treballs de pintura de la façana (costat església) de l’edifici Casa Gaspà II, situat a l’avinguda Príncep Benlloch, núm. 32 d’Encamp. |
+| SLOM- 21471/2025 | Francisco Arocena del Campo | Refecció del bany per reparació de fuita d’aigua de l’habitatge planta cinquena porta 5A de l’edifici Maià, situat al carrer Catalunya, núm. 5 del Pas de la Casa. |
+| SLOM- 21597/2025 | Kim Bishop Villero | Substitució del paviment i de pintura del local planta baixa de l’edifici Casa Xampaina, situat a la plaça del Consell, núm. 5 d’Encamp. |
+| SLOM- 21612/2025 | Nerea Lopez Calzada | Refecció de la cuina, del bany i del paviment i de pintura de l’habitatge planta primera porta 1, escala B, de l’edifici Rolls, situat a l’avinguda de Joan Martí, núm. 75 d’Encamp. |
+| SLOM- 21682/2025 | Com. Emfiteutes ed. La Morera | Treballs de pintura de l’escala i del garatge planta - 3 de l’edifici La Morera, situat al carrer Sant Jordi, núm. 12 del Pas de la Casa. |
+| SLOM- 21080/2025 | Pedro Miguel Xavier Santos | Refecció de la cuina i del bany de l’habitatge planta baixa porta 2 de l’edifici Residencial Cortals, situat a la carretera dels Cortals, núm. 21 d’Encamp. |
+| SLOM- 21073/2025 | Matheus Fernandez Monteiro | Refecció de la cuina i del bany, renovació de fals sostres i de col·locació de parquet a l’habitatge planta segona porta 4 de l’edifici l’Oratori, situat a l’avinguda de Rouillac, núm. 15-17 d’Encamp. |
+
+Refecció de la cuina i del bany, renovació de fals sostres i de col·locació de parquet a l’habitatge planta segona porta 4 de l’edifici l’Oratori, situat a l’avinguda de Rouillac, núm. 15-17 d’Encamp. En la reunió de la Junta de Govern l’Hble. Sr. Nino Marot Crespo s’absté i s’absenta en el tractament de la sol·licitud SLOM -19618/2025. Error! No s'ha trobat l'origen de la referència.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+### 1.9. COMISSIÓ D'ADMINISTRACIÓ
+
+#### 1.9.1. Carta de la Saig Goretti LOPEZ JAUREGUI
+
+Vista la comunicació de data 23.1.26 en la qual es sol·licita si el Comú farà valdre el seu dret de fadiga o tempteig en relació amb una subhasta i vist l’informe núm. 3/26 d’Administració; s’acorda que el Comú d’Encamp no fa valdre els drets.
+
+#### 1.9.2. Numeració al carrer Urbanització Prat del Salt
+
+Vist el plànol que s’adjunta; s’acorda aprovar les numeracions que s’hi detallen.
+
+#### 1.9.3. Fi d'expedient d'inscripció d'ofici Àrea de Cartografia
+
+Vistos els informes núm. 77 bis, 83 bis, 90 bis i 91 bis/2025; s’acorda finalitzar els procediments d’ofici de Registre al Cadastre per a enregistrar les alteracions físiques i jurídiques que es relacionen als informes suara descrits.
+
+#### 1.9.4. Plànols cadastrals
+
+S’acorda aprovar la proposta de resolució de la sol·licitud de plànols cadastrals següent:
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/001454- 2026 | Maria Cinta | Sol·licitud de plànols del Registre del cadastre, en | Favorable | Informe 30/2026 |
+| 2026 | Cinta PALLÉ ALÍS | Registre del cadastre, en format paper i digital, dels béns amb referències cadastrals |  |  |
+|  |  | cadastrals 20000164D017940001, 20000162O017920001, 20000161H017910001 i 20000137D017670001, situades a la partida de Vila |  |  |
+
+#### 1.9.5. Baixes del 2025
+
+Vistes les baixes autoritzades a partir de la facturació de l’impost de radicació i de la taxa d’higiene de l’any 2025 i vist l’informe núm. 506/2025 de Comerç adjunt amb el seu annex, s’acorda els retorns i les anul·lacions que es detallen a l’informe anteriorment descrit.
+
+#### 1.9.6. Inici d’un expedient d’ofici de l’Àrea de Cadastre
+
+Vist l’informe núm. 6/2026; s’acorda iniciar el procediment d’ofici de Registre al Cadastre per a enregistrar les alteracions jurídiques que es relacionen a l’informe suara descrit.
+
+#### 1.9.7. Cadastre
+
+S’acorda aprovar les propostes de resolució de les 21 sol·licituds de Cadastre següents :
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/003643- 2025 | Arnaud DE ALMEIDA DUBOIS | Terres del Mollar, abans Janeta El Mollar | Favorable | Informe 1/2026 |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+| E/003644- 2025 | Arnaud DE ALMEIDA DUBOIS | Terres del Mollar El Mollar | Favorable | Informe 2/2026 |
+| --- | --- | --- | --- | --- |
+| E/021505- 2025 | GLOBUS INVESTMENT, SL | Habitatge planta 1 porta 2 Aparcament | Favorable | Informe 3/2026 |
+| E/022837- 2025 | Pedro Manuel VIEIRA TEIXEIRA | Aparcament planta -2 núm. 5 Traster planta -2 núm. 5 Edifici Prat de la Farga, bloc I C. 14 de Març, núm. 1 Habitatge planta 4 porta 343 | Favorable | Informe 4/2026 |
+| 2025 | TEIXEIRA | 4 porta 343 Edifici Aparthotel El Pedral C. del Pedral, núm. 20 |  | 4/2026 |
+| E/022893- 2025 | FUTUR CAPITAL, SLU | Habitatge planta 1 porta 2 Aparcament planta -2 núm. 5 Traster planta -2 núm. 5 Edifici Prat de la Farga, bloc I C. 14 de Març, núm. 1 | Favorable | Informe 5/2026 |
+| E/022915- 2025 | Adrien Luc Pierre MARTÍNEZ | Habitatge planta 3 porta 7 Aparcament planta -1 núm. 20 Edifici Gemels II Av. de la Bartra, núm. 13 | Favorable | Informe 8/2026 |
+| E/023040- 2025 | Axel LARI GOMILA | Habitatge planta baixa porta 3 Aparcament planta -1 núm. 52 Traster planta -1 núm. 24 Edifici CR El Pedral 1 | Favorable | Informe 9/2026 |
+|  |  | 1 Av. Príncep Benlloch, núm. 16- 18 |  |  |
+| E/023062- 2025 | Jordi MAS CASELLAS | Habitatge planta 2 porta 5 Traster adscrit planta 2 Aparcament planta -5 núm. 25 Traster planta -5 núm. 25 Edifici Delta C. Mirador d’Encamp, núm. 21 | Favorable | Informe 10/2026 |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+| E/023177- 2025 | Francisco Javier MASSÓ MARTÍN | Habitatge planta 3 porta 2 Edifici Bell Esguard Av. de François Mitterrand, núm. 27 | Favorable | Informe 11/2026 |
+| --- | --- | --- | --- | --- |
+| E/000210- 2026 | Sara CRUZ CARDIEL | Habitatge planta 4 porta 3 Edifici Els Cortals, bloc III C. dels Ajustants, núm. 6 | Favorable | Informe 12/2026 |
+| E/000329- 2026 | Susana SERRA SIMON | Habitatge planta 3 porta 2, bloc A Aparcament adscrit planta baixa núm. A32 Edifici Mercuri C. Mirador d’Encamp, núm. 31 | Favorable | Informe 13/2026 |
+| E/000330- 2026 | Joaquin SERRA SIMON | Habitatge planta 4 porta 2, bloc A Aparcament adscrit planta baixa núm. A42 Edifici Mercuri C. Mirador d’Encamp, núm. 31 | Favorable | Informe 14/2026 |
+| E/000401- 2026 | Denis PAROKONNYY | Habitatge planta 4 porta 3 Aparcament planta -1 núm. 6 Traster planta -1 núm. 13 CR Proteco - Hort de Godí, bloc A C. Hort de Godí, s/n | Favorable | Informe 16/2026 |
+| E/000459- 2026 | Elena Maria BIFET GARCIA | Aparcament planta -1 núm. 43 Traster planta -1 núm. 23 Edifici Euro C. de la Vena, núm. 12 | Favorable | Informe 17/2026 |
+| E/000730- 2026 | Eva MORENO BUIL | Aparcament planta -2 núm. 227 Conjunt Residencial Anyó C. Mirador d’Encamp, núm. 16 | Favorable | Informe 18/2026 |
+| E/000947- 2026 | Miquel Àngel RIPOLL LLIRÒ | Habitatge planta 1 porta 16 | Favorable | Informe 20/2026 |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+|  |  | Edifici La Grandalla, bloc B C. del Solà, núm. 8 |  |  |
+| --- | --- | --- | --- | --- |
+| E/000966- 2026 | VISIO EUROPA, SLU | Aparcament planta -2 núm. 229 Traster planta -2 núm. 228 Conjunt Residencial Anyó C. Mirador d’Encamp, núm. 16 | Favorable | Informe 21/2026 |
+| E/001064- 2026 | Dominique Madeleine Françoise FRÉMIOT esposa CHÉREAU | Habitatge planta SC porta 2 Edifici Noguer- Siscaró C. dels Avellaners, núm. 10 | Favorable | Informe 22/2026 |
+|  |  | Aparcament planta -2 núm. 31 Aparcament del Conjunt Residencial Avellaners C. dels Avellaners, núm. 8 |  |  |
+| E/001065- 2026 | Paula Cristina DA SILVA CASTRO | Habitatge planta 4 Edifici Janer- Rossell Av. de Joan Martí, núm. 38 | Favorable | Informe 23/2026 |
+| E/001132- 2026 | FS CONSEIL & CONSULTING, SLU | Habitatge planta 5 porta 1 Aparcament adscrit planta -2 núm. 21 Aparcament adscrit planta -2 núm. 22 Edifici Els Cortals, bloc III C. dels Ajustants, núm. 6 | Favorable | Informe 26/2026 |
+| E/001149- 2026 | Maria Josepa RAMÍREZ MOLINA | Habitatge planta 1 porta 1 Aparcament planta -2 núm. 15 Traster planta -2 núm. 22 Edifici Aixec-Les Bons | Favorable | Informe 27/2026 |
+| 1.9.8. Plànols cadastrals |  | Bons C. Ciutat Pubilla de la Sardana, núm. 30 |  |  |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+S’acorda aprovar la proposta de resolució de la sol·licitud de plànols cadastrals següent:
+
+| Registre | Sol·licitant | Objecte | Resolució | Observacions |
+| --- | --- | --- | --- | --- |
+| E/001286- 2026 | Maria Assumpció TORRES SOLÀ | Sol·licitud de plànols del Registre del cadastre, en format paper i digital, del bé amb referència cadastral 20000960P073980001, situat a l’avinguda de François Mitterrand, núm. 104 | Favorable | Informe 29/2026 |
+
+En la reunió de la Junta de Govern l’Hble. Sra. Sabrina Gregoire Torres, s’absté en el tractament d’aquest punt, atesa la seva relació de parentiu amb la propietat de la parcel·la.
+
+### 1.10. COMISSIÓ DE SISTEMES D'INFORMACIÓ
+
+#### 1.10.1. Calendari de reunions ordinàries per al 2026
+
+S’acorda la proposta de calendari per a les reunions ordinàries de la Comissió de Sistemes d’Informació.
+
+1.10.2. Implantació de la plataforma de gestió econòmica GEMA Vist que s’ha d’actualitzar el programari de comptabilitat corporatiu, SICAP, cap a la plataforma de gestió econòmica Gema, amb la finalitat de millorar la funcionalitat i per posar al dia l’entorn tecnològic; vist l’informe adjunt; s’acorda adjudicar el subministrament i serveis corresponents a l’empresa T-Systems, únic proveïdor de l’aplicació, per un import de 113.387,20 €, impostos indirectes inclosos, a càrrec de la partida pressupostària 1700 92000001 60620 i segons document d’Intervenció Comunal AC202600004098.
+
+1.10.3. Convocatòria del concurs públic pel subministrament, instal·lació, configuració i manteniment d'una plataforma de servidors d'intel·ligència artificial pel sistema de videovigilància del Comú d'Encamp Vist l’important increment del nombre de càmeres i la necessitat de disposar de funcionalitats avançades d’anàlisi de vídeo; s’acorda convocar un concurs públic amb la modalitat ordinària, pel procediment obert, d'acord amb les condicions que s'estableixen en el plec de bases que s'adjunta. La proposta d’autorització de despesa associada s’imputa a la partida pressupostària 1700 92000001 60640 per un import de 110.000 € i segons document d’Intervenció Comunal A202600003813. L’import del manteniment a partir del segon any és de 2.700 €/any a càrrec de la partida pressupostària 1700 92000001 21610
+
+La cònsol major dona la paraula a la Sra. Judith Torres Aguiar, presidenta de la Comissió de Sistemes d’Informació, perquè expliqui en què consistirà aquest projecte.
+
+La Sra. Judith Torres Aguiar intervé per explicar que l’objectiu del projecte és modernitzar i millorar el sistema de gestió de la videovigilància del Comú, donant resposta a l’augment significatiu del nombre de càmeres i incorporant funcionalitats avançades d’intel·ligència artificial, avui imprescindibles per a una recerca més eficient i precisa de les imatges.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+El projecte preveu la instal·lació de servidors dedicats exclusivament a la videovigilància, tant a Encamp com al Pas de la Casa, amb un entorn de producció i un entorn de contingència, garantint així una major fiabilitat i continuïtat del servei.
+
+Aquest nou sistema suposa una millora substancial respecte a l’actual, ja que disposarà d’un entorn físic dedicat, més ràpid i optimitzat, que no interferirà amb les aplicacions corporatives del Comú. A més, el pas d’un model centralitzat a un sistema distribuït permetrà reduir la càrrega de xarxa i millorar tant la qualitat com els temps de resposta.
+
+Finalment, assenyala que la integració nativa d’intel·ligència artificial facilitarà una recerca avançada més fiable i eficient. En conjunt, es tracta d’un projecte estratègic que reforça la seguretat i prepara el Comú per afrontar les necessitats presents i futures en matèria de videovigilància.
+
+#### 1.10.4. Compra d'ordinadors, portàtils i pantalles
+
+Vist la necessitat d’actualitzar el parc informàtic comunal; vistos els pressupostos adjunts a l’acta; s’acorda realitzar la primera compra programada de material informàtic a l’empresa Semic, per presentar l’oferta més econòmica amb un import total de 13.269,45€.
+
+### 1.11. COMISSIÓ DE RECURSOS HUMANS
+
+1.11.1. Convocatòria d’un procés selectiu per cobrir dues (2) places de monitor d’activitats de lleure infantil i juvenil (C1), per al Llaç d’Animació i Àrea de Jovent del Pas de la Casa, com a funcionaris, adscrites al Departament de Cultura, Infància i Joventut
+
+Vist l’informe de la directora del Departament de Cultura, Infància i Joventut de data 28.11.2025 i l’informe del director del Departament de Recursos Humans de data 20.1.2026; s’acorda la publicació de l’edicte corresponent per a la cobertura de dues (2) places de monitor d’activitats de lleure infantil i juvenil (C1), per al Llaç d’Animació i Àrea de Jovent del Pas de la Casa, d’acord amb l’establert als articles 36 i 37 de l’Ordinació de la funció pública del Comú d'Encamp del 18.12.2025, inicialment per promoció interna; i, amb l’objectiu d’agilitzar el procés en cas que s’hagin de declarar desertes les convocatòries internes, es proposa aprovar també la cobertura de la plaça per procediment selectiu d’ingrés mitjançant les convocatòries de provisió externa que escaiguin.
+
+1.11.2. Resolució del concurs relatiu al procés per a la cobertura d’una plaça en el lloc de treball de tècnic d’atenció ciutadana (B3), com a funcionari, adscrita a Secretaria General
+
+Vist el procés selectiu efectuat per a la cobertura d’una plaça en el lloc de treball de tècnic d’atenció ciutadana (B3), adscrita a Secretaria General; vistos els resultats de les proves realitzades i l’acta 01/26 del Comitè Tècnic de Selecció; s’acorda atorgar una plaça de tècnic d’atenció ciutadana (B3), al Sr. Adrian Sanz Moreno, com a funcionari en període de prova de 12 mesos, d’acord amb l’establert a l’article 49 de l’Ordinació de la funció pública del Comú d'Encamp del 18.12.2025, a partir de la data en què es faci efectiva la seva incorporació.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+1.11.3. Convocatòria d’un procés selectiu per cobrir tres (3) places d’operari/ària de parcs i jardins (C2) com a treballadors públics interins, adscrites al Departament d’Higiene, Medi Ambient i Agricultura Vist l’informe de la directora del Departament d’Higiene, Medi Ambient i Agricultura de data 7.1.2026; i vist l’informe del director del Departament de Recursos Humans de data 20.1.2026; s’acorda la cobertura de tres places d’operari/ària de parcs i jardins (C2), com a treballadors públics interins, d’acord amb l’establert a l’article 111, apartat c) i als articles 112 i 113 de l’Ordinació de la funció pública del Comú d'Encamp del 18.12.2025; pel període comprés entre el 13.4.2026 i el 12.10.2026, amb la publicació al BOPA de l’edicte corresponent.
+
+#### 1.11.4. Convocatòria d’un procés selectiu per cobrir una (1) plaça de vaquer, com a treballador públic interí, adscrita al Departament d’Higiene, Medi Ambient i Agricultura
+
+Vist l’informe de la directora del Departament d’Higiene, Medi Ambient i Agricultura de data 7.1.2026; i vist l’informe del director del Departament de Recursos Humans de data 20.1.2026; s’acorda la cobertura d’una plaça de vaquer (guarda per a les colles comunes) com a treballador públic interí, d’acord amb l’establert a l’article 111, apartat c) i als articles 112 i 113 de l’Ordinació de la funció pública del Comú d'Encamp del 18.12.2025, pel període comprés entre el 27.4.2026 i el 2.11.2026, amb la publicació al BOPA de l’edicte corresponent.
+
+1.11.5. Convocatòria d’un procés selectiu per cobrir dues (2) places d’auxiliar de bander (C2) com a treballadors públics interins, adscrites al Departament d’Higiene, Medi Ambient i Agricultura
+
+Vist l’informe de la directora del Departament d’Higiene, Medi Ambient i Agricultura de data 7.1.2026; i vist l’informe del director del Departament de Recursos Humans de data 20.1.2026; s’acorda la cobertura temporal de dues places d’auxiliars de banders (C2), com a treballadors públics interins, d’acord amb l’establert a l’article 111, apartat c) i als articles 112 i 113 de l’Ordinació de la funció pública del Comú d'Encamp del 18.12.2025, pel període comprés entre el 13.4.2026 i el 12.10.2026, amb la publicació al BOPA de l’edicte corresponent.
+
+1.11.6. Convocatòria d’un procés selectiu per cobrir una (1) plaça de cuiner (C2) a l’escola bressol Els Esquirolets d’Encamp, adscrita al Departament de Cultura, Infància i Joventut
+
+Vist l’informe de la directora del Departament de Cultura, Infància i Joventut de data 27.11.2025 i vist l’informe del director del Departament de Recursos Humans de data 20.1.2026; s’acorda la publicació de l’edicte corresponent per a la cobertura d’una (1) plaça de cuiner (C2), d’acord amb l’establert als articles 36 i 37 de l’Ordinació de la funció pública del Comú d'Encamp del 18.12.2025, inicialment per promoció interna; i, amb l’objectiu d’agilitzar el procés en cas que s’hagin de declarar desertes les convocatòries internes, s’acorda aprovar també la cobertura de la plaça
+
+| Candidat | Codi sol·licitud |
+| --- | --- |
+| Adrian Sanz Moreno | SLT-20600/2025 |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad per procediment selectiu d’ingrés mitjançant les convocatòries de provisió externa que escaiguin.
+
+#### 1.11.7. Convocatòria d’un procés selectiu per cobrir una (1) plaça de cap de Cadastre i Cens Emfitèutic (B1), com a funcionari, adscrita al Departament d’Administració
+
+Vist l’informe del director del Departament d’Administració de data 16.1.2026 i l’informe del director del Departament de Recursos Humans de data 20.1.2026, s’acorda la publicació de l’edicte corresponent per a la cobertura d’una (1) plaça de cap de Cadastre i Cens Emfitèutic (B1), d’acord amb l’establert als articles 36 i 37 de l’Ordinació de la funció pública del Comú d'Encamp del 18.12.2025, inicialment per promoció interna; i, amb l’objectiu d’agilitzar el procés en cas que s’hagin de declarar desertes les convocatòries internes, s’acorda aprovar també la cobertura de la plaça per procediment selectiu d’ingrés mitjançant les convocatòries de provisió externa que escaiguin.
+
+1.11.8. Nomenament de la Sra. EPM, per desenvolupar tasques en el lloc de treball de monitora d'activitats de lleure infantils i juvenils (C1) al Llaç d’Animació i Àrea de Jovent Els Marrecs del Pas de la Casa, com a treballadora pública interina
+
+Vist l’informe de la directora del Departament de Cultura, Infància i Joventut de data 28.11.2025; vist l’informe del director del Departament de Recursos Humans de data 20.1.2026; s’acorda el nomenament, per la via d’urgència, de la Sra. Elodie Pauline Mignon, per realitzar tasques de monitora d'activitats de lleure infantils i juvenils (C1) al Llaç d’Animació i Àrea de Jovent Els Marrecs del Pas de la Casa, com a treballadora pública interina, d’acord amb l’establert als articles 111, apartat a), 112.1 i 113 de l’Ordinació de la funció pública del Comú d'Encamp del 18.12.2025; a partir del 26.2.2026 i fins a la resolució del procés selectiu.
+
+1.11.9. Convocatòria d’un procés selectiu per cobrir els diferents llocs de treball, com a treballadors públics interins, per atendre les necessitats del servei i les funcions relacionades amb les activitats d’estiu 2026 Vistes les demandes cursades pels departaments en relació amb el personal interí d’estiu 2026, d’acord amb l’establert a l’article 111, apartat
+
+c) de l’Ordinació de la funció pública del Comú d'Encamp del 18.12.2025; s’acorda iniciar el procés selectiu publicant els edictes corresponents (monitors de lleure, auxiliar de monitors i genèric) al BOPA.
+
+#### 1.11.10. Nomenament definitiu de la Sra. MAMM com a tècnica superior d’Obres Públiques (B1), adscrita al Departament d’Obres Públiques i Urbanisme
+
+Vist l'acord de la Junta de Govern de data 22.1.2025 en què s’atorga una plaça tècnica superior d’Obres Públiques (B1) a la Sra. Maria Amparo Martinez Milvaques com a funcionària en període de prova de 12 mesos; vist l'informe del director del Departament d’Obres Públiques i Urbanisme de data 26.1.2026, en què exposa que la Sra. Maria Amparo Martinez Milvaques ha superat satisfactòriament el període de prova i l’informe del director del Departament de Recursos Humans de data 26.1.2026; s’acorda el nomenament definitiu la Sra. Maria Amparo Martinez Milvaques, a partir del 10.2.2026, com a funcionària, en qualitat tècnica superior d’Obres Públiques (B1), adscrita al Departament d’Obres
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+Públiques i Urbanisme, i que se segueixin els procediments de notificació, inscripció i publicació establerts, de conformitat amb l'article 48 de l'Ordinació de la funció pública del Comú d’Encamp de data 18.12.2025.
+
+#### 1.11.11. Demanda d’autorització per realitzar les vacances corresponents a l’any 2025 fora dels períodes establerts per l’OFPCE
+
+Vist l’informe de la directora del Departament d’Higiene, Medi Ambient i Agricultura de data 7.1.2026, amb relació a la demanda de diversos empleats per poder gaudir de les vacances pendents del 2025 fora dels límits establerts a l’Ordinació de la funció pública del Comú d’Encamp; i vist l’informe del director del Departament de Recursos Humans de data 8.1.2026; s’acorda que els empleats que es relacionen a continuació puguin gaudir de les vacances pendents del 2025 després del 31.1.2026 d’acord amb el què estableix l’article 75.2 de l’OFPCE:
+
+| NOM | DIES PENDENTS | DATA DE REALITZACIÓ |
+| --- | --- | --- |
+| JOSE MANUEL GARCIA LUENA | 3 | Abans del 31.7.2026 |
+| CARLES SOLANA BARRAU | 7 | Abans del 31.7.2026 |
+| DAVID MANEIRO TON | 8 | Abans del 31.7.2026 |
+| FRANCESC MANUEL MARIN BARREIRO | 8 | Abans del 30.6.2026 |
+| CRISTIAN FERNANDEZ FUNES | 3,5 | Abans del 31.7.2026 |
+| LAURENT BAUER TAESCH | 5 | Abans del 30.6.2026 |
+| VANESSA CARRASCOSA GÓMEZ | 7 | Abans del 30.6.2026 |
+
+#### 1.11.12. Demanda d’autorització per realitzar les vacances corresponents a l’any 2025 fora dels períodes establerts per l’OFPCE
+
+Vistos els informes de la directora del Departament de Turisme i Reactivació Econòmica de data 30.11.2025 i 15.1.2026, amb relació a la demanda de diversos empleats per poder gaudir de les vacances pendents del 2025 fora dels límits establerts a l’Ordinació de la funció pública del Comú d’Encamp; i vist l’informe del director del Departament de Recursos Humans de data 8.1.2026; s’acorda que els empleats que es relacionen a continuació puguin gaudir de les vacances pendents del 2025 després del 31.1.2026 d’acord amb el què estableix l’article 75.2 de l’OFPCE:
+
+| NOM | DIES PENDENTS | DATA DE REALITZACIÓ |
+| --- | --- | --- |
+| CRISTINA LLANAS SANCHO | 9,5 | Abans del 30.6.2026 |
+| MANEL JESUS ARROYO JIMENEZ | 1 | Abans del 31.3.2026 |
+
+#### 1.11.13. Demanda d’autorització per realitzar les vacances corresponents a l’any 2025 fora dels períodes establerts per l’OFPCE
+
+Vist l’informe del director del Departament d’Esports de data 9.1.2026, amb relació a la demanda de diversos empleats per poder gaudir de les vacances pendents del 2025 fora dels límits establerts a l’Ordinació de la funció pública del Comú d’Encamp; i vist l’informe del director del Departament de Recursos Humans de data 9.1.2026; s’acorda que els empleats que es relacionen a continuació puguin gaudir de les vacances
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad pendents del 2025 després del 31.1.2026 d’acord amb el què estableix l’article 75.2 de l’OFPCE:
+
+| NOM | DIES PENDENTS | DATA DE REALITZACIÓ |
+| --- | --- | --- |
+| JOAN FRANCESC GILABERT MONTALVO | 5 | Durant l’any 2026 |
+| ROSABEL SOTO BERNAT | 9 | Durant l’any 2026 |
+
+#### 1.11.14. Demanda d’autorització per realitzar les vacances corresponents a l’any 2025 fora dels períodes establerts per l’OFPCE
+
+Vist l’informe del director del Departament de Recursos Humans de data 14.1.2026, amb relació a la demanda de diversos empleats per poder gaudir de les vacances pendents del 2025 fora dels límits establerts a l’Ordinació de la funció pública del Comú d’Encamp; s’acorda que els empleats que es relacionen a continuació puguin gaudir de les vacances pendents del 2025 després del 31.1.2026 d’acord amb el què estableix l’article 75.2 de l’OFPCE:
+
+| NOM | DIES PENDENTS | DATA DE REALITZACIÓ |
+| --- | --- | --- |
+| YOLANDA ROJAS DOMÍNGUEZ | 1,5 | Durant l’any 2026 |
+| IGNASI VINÓS SOLANELLES | 3 | Durant l’any 2026 |
+| RAMÓN GONZÁLEZ SIMÓN | 4 | Durant l’any 2026 |
+
+#### 1.11.15. Demanda d’autorització per realitzar les vacances corresponents a l’any 2025 fora dels períodes establerts per l’OFPCE
+
+Vist l’informe del cap del Servei de Circulació 14.1.2026, amb relació a la demanda de diversos empleats per poder gaudir de les vacances pendents del 2025 fora dels límits establerts a l’Ordinació de la funció pública del Comú d’Encamp; i vist l’informe del director del Departament de Recursos Humans de data 14.1.2026; s’acorda que els empleats que es relacionen a continuació puguin gaudir de les vacances pendents del 2025 després del 31.1.2026 d’acord amb el què estableix l’article 75.2 de l’OFPCE:
+
+| NOM | DIES PENDENTS | DATA DE REALITZACIÓ |
+| --- | --- | --- |
+| JOAN MANUEL FITE NIETO | 15 | Durant l’any 2026 |
+| ISRAEL VIVANCOS ELORZA | 11 | Durant l’any 2026 |
+| CARLOS GASPAR LIMA | 10 | Durant l’any 2026 |
+
+#### 1.11.16. Demanda d’autorització per realitzar les vacances corresponents a l’any 2025 fora dels períodes establerts per l’OFPCE
+
+Vist l’informe del director del Departament de Finances 9.1.2026, amb relació a la demanda de diversos empleats per poder gaudir de les vacances pendents del 2025 fora dels límits establerts a l’Ordinació de la funció pública del Comú d’Encamp; i vist l’informe del director del Departament de Recursos Humans de data 22.1.2026; s’acorda que els empleats que es relacionen a continuació puguin gaudir de les vacances pendents del 2025 després del 31.1.2026 d’acord amb el què estableix l’article 75.2 de l’OFPCE:
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+| NOM | DIES PENDENTS | DATA DE REALITZACIÓ |
+| --- | --- | --- |
+| OTILIA FERNANDES BARBOSA | 2,5 | Durant l’any 2026 |
+| RICARDO MIGUEL DA COSTA VIDEIRA | 3 | Durant l’any 2026 |
+| JOSEP-ANTON CASTELL NADAL | 1,5 | Durant l’any 2026 |
+| JOAN CALVO ARAN | 12 | Durant l’any 2026 |
+
+#### 1.11.17. Demanda d'estada d’observació d'un alumne del Lycée Charles Renouvier
+
+Vista la demanda adreçada per l’alumna del Lycée Charles Renouvier de data 20.10.2025 i vist l’informe favorable de la directora del Departament de Cultura, Infància i Joventut de data 4.11.2025; s’acorda acceptar la realització de l'estada formativa de l'alumna Sharon Prat Buenavida, a l’escola bressol Els Esquirolets, del 9.2.2026 al 27.2.2026.
+
+#### 1.11.18. Validació de les hores extraordinàries (període 1.12.2025 al 31.12.2025)
+
+Vist l’acord de la Junta de Govern del 29.12.2010 on s’encomana al Departament de Recursos Humans la correcta aplicació dels supòsits que s’estableixen per a la realització d’hores extraordinàries, article 2.3 del Reglament de sistemes de compensació, i atès el quadre de validació d’hores extraordinàries generades del període 1.12.2025 al 31.12.2025 elaborat pel Departament de Recursos Humans; s’acorda validar les dades contingudes en la taula comparativa adjunta, fent efectiu el pagament de 11.542,93 € en concepte d’hores extraordinàries per aquest període.
+
+#### 1.11.19. Adjudicació dels treballs per a la realització de cursos d’idiomes anglès i francès
+
+Vistes les ofertes presentades a la demanda realitzada pel Departament de Recursos Humans de data 31.12.2025; vist l’informe del director del Departament de Recursos Humans de data 23.1.2026; s’acorda adjudicar a l’empresa Escola de Negocis d’Andorra, ESNA, la realització de cursos de francès per un import de 3.150,00€ i la realització de cursos d’anglès per un import de
+
+5.250,00€, a càrrec de la partida pressupostària 1100/92020001/16300, impostos indirectes inclosos, d’acord amb el document de la Intervenció Comunal AC2026000004121.
+
+### 1.12. COMISSIÓ D'AFERS SOCIALS I GENT GRAN
+
+#### 1.12.1. Prestacions socials
+
+Vistos els informes de valoració presentats per les treballadores socials del Comú d’Encamp, tenint en compte els requisits establerts en els articles 5 i 7 del Reglament de prestacions socials del Comú d’Encamp i en aplicació dels barems establerts, s’acorda resoldre, amb la valoració corresponent, cadascun dels expedients següents:
+
+Número d’expedient: SPS-0622/2026
+
+Servei sol·licitat: Foc i lloc i taxa d’higiene 2026
+
+Article: Article 5
+
+Resolució: Favorable al 100%
+
+Despesa: 147,80 €
+
+Observacions: Nova demanda en relació amb l’expedient SPS-2480/2021 Família monoparental amb un menor a càrrec
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+Ingressos: 1.211,91 € / Despeses: 1.158,29€ / Diferència: 53,62 € / Posició global inferior a 1.000 €
+
+Número d’expedient: SPS-0624/2026
+
+Servei sol·licitat: Foc i lloc i taxa d’higiene 2026
+
+Article: Article 5
+
+Resolució: Favorable al 100%
+
+Despesa: 173,60 €
+
+Observacions: Nova demanda
+
+Família dos adults
+
+Ingressos: 1.291,69 € / Despeses: 1.408,66€ / Diferència: 116,97 € / Posició global inferior a 1.000 €
+
+Número d’expedient: SPS-0626/2026
+
+Servei sol·licitat: Escola Bressol Els Marrecs i Foc i lloc i taxa d’higiene 2026 Article: Article 4 punt A i Article 5
+
+Resolució: Favorable al 80%
+
+Despesa: 1.072,24 €
+
+Observacions: Nova demanda en relació amb l’expedient SPS-18949/2025 Família monoparental amb dos menors a càrrec
+
+Ingressos: 1.871,26 € / Despeses: 1.361,12€ / Diferència: 510,14 € / Posició global inferior a 5.000 €
+
+Número d’expedient: SPS-0629/2026
+
+Servei sol·licitat: Escola Bressol Els Esquirolets
+
+Article: Article 4 punt A
+
+Resolució: Favorable al 100%
+
+Despesa: 1.200,50 €
+
+Observacions: Nova demanda en relació amb l’expedient SPS-16529/2025 Família monoparental amb un menor a càrrec
+
+Ingressos: 1.353,25 € / Despeses: 1.065€ / Diferència: 288,25 € / Posició global inferior a 5.000 €
+
+Número d’expedient: SPS-0643/2026
+
+Servei sol·licitat: Àrea de Jovent curs i vacances escolars i activitat extraescolar esportiva
+
+Article: Article 4 punt A
+
+Resolució: Favorable al 100%
+
+Despesa: 797,17 €
+
+Observacions: Nova demanda
+
+Família monoparental amb dos menors a càrrec
+
+Ingressos: 1.194,57 € / Despeses: 1.034€ / Diferència: -160,57 € / Posició global inferior a 1.000 €
+
+Número d’expedient: SPS-0669/2026
+
+Servei sol·licitat: Escola Bressol Els Esquirolets
+
+Article: Article 4 punt A
+
+Resolució: Favorable al 90%
+
+Despesa: 1.072,71 €
+
+Observacions: Nova demanda en relació amb l’expedient SPS-18383/2025 Família monoparental amb dos menors a càrrec
+
+Ingressos: 2.221,58 € / Despeses: 1.810,45 € / Diferència: 411,13 € / Posició global inferior a 2.500 €
+
+Número d’expedient: SPS-0672/2026
+
+Servei sol·licitat: Foc i lloc i taxa d’higiene 2026
+
+Article: Article 5
+
+Resolució: Favorable al 100%
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+Despesa: 147,80 €
+
+Observacions: Nova demanda en relació amb l’expedient SPS-0263/2025 Persona que viu sola
+
+Ingressos: 1.403,91 €/ Despeses: 1.280,00 € / Diferència: 123,91 € / Posició global inferior a 1.000 €
+
+Número d’expedient: SPS-0818/2026
+
+Servei sol·licitat: Àrea de Jovent vacances escolars
+
+Article: Article 4 punt A
+
+Resolució: Favorable al 100%
+
+Despesa: 317,44 €
+
+Observacions: Nova demanda en relació amb l’expedient SPS-16403/2025 Família monoparental amb un menor a càrrec
+
+Ingressos: 1.348,81 € / Despeses: 1.511,97 € / Diferència: -163,16 € / Posició global inferior a 1.000 €
+
+Número d’expedient: SPS-0962/2026
+
+Servei sol·licitat: Foc i lloc i taxa d’higiene 2026
+
+Article: Article 5
+
+Resolució: Favorable al 100%
+
+Despesa: 147,80 €
+
+Observacions: Nova demanda en relació amb l’expedient SPS-5919/2025 Persona que viu sola – Pas de la Casa.
+
+Ingressos: 1.129,15 € / Despeses: 1.144,30€ / Diferència: -15,15 € / Posició global inferior a 1.000 €
+
+Número d’expedient: SPS-1241/2026
+
+Servei sol·licitat: Escola Bressol Els Esquirolets
+
+Article: Article 4 punt A
+
+Resolució: Favorable al 100%
+
+Despesa: 1.200,50 €
+
+Observacions: Nova demanda en relació amb l’expedient SPS-21119/2025 Família monoparental amb dos menors a càrrec
+
+Ingressos: 1.522,94 € / Despeses: 1.650,64 € / Diferència: -127,70 € / Posició global inferior a 1.000 €
+
+#### 1.12.2. Subvencions socials per a l'any 2026
+
+Vist l’informe de la directora del Departament d’Afers Socials i Gent Gran, s’acorda atorgar les subvencions per a l’any 2026 a les associacions i entitats socials que es detallen a continuació; així mateix, d’acord amb el reglament de subvencions; s’acorda cedir gratuïtament els espais a les associacions i entitats de la parròquia, a fi de que puguin dur a terme els actes previstos en el marc de les activitats programades.
+
+#### 1.12.3. Convocatòria del concurs públic per adjudicar el subministrament i muntatge del mobiliari del Casal del Poble
+
+S’acorda la convocatòria d’un concurs públic per adjudicar el subministrament i muntatge del mobiliari del Casal del Poble. El concurs és
+
+|  | Associacions i/o entitats |  |  | Proposta 2026 |  | Observacions | AC |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Associació de la Gent Gran d’Encamp 8.000 € Favorable AC202600003744 |  |  |  |  |  |  |  |
+| Càritas Nacional Andorrana 1.800 € Favorable AC202600003740 |  |  |  |  |  |  |  |
+| Creu Roja Andorrana 1.800 € Favorable AC202600003741 |  |  |  |  |  |  |  |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad de caràcter nacional es regeix per la modalitat de contractació ordinària i pel procediment obert, d’acord amb les condicions establertes en el plec de bases adjunt. El pressupost total és de 70.000 € amb càrrec a la partida pressupostària 6060/23110111/60510 i amb document d’autorització A202600003722.
+
+1.12.4. Convocatòria del concurs públic per adjudicar l'organització d'un viatge per a la gent gran interparroquial;
+
+Es proposa la convocatòria d’un concurs públic per a la contractació d’una empresa degudament autoritzada per organitzar un viatge per a la gent gran interparroquial. El concurs és de caràcter nacional és regirà per la modalitat de contractació urgent i pel procediment obert, d’acord amb les condicions establertes en el plec de bases adjunt. El Comú subvencionarà 150€ per usuari més les despreses dels acompanyants, amb càrrec a la partida pressupostària 6060/23110111/22680 i amb document d’autorització A202600003707.Error! No s'ha trobat l'origen de la referència.
+
+1.12.5. Calendari d’activitats interparroquials de la gent gran pel 2026 S’acorda acceptar la proposta del calendari per a les activitats interparroquials de la gent gran, segons es detalla:
+
+| DATA PREVISTA | ACTIVITAT | ORGANITZA |
+| --- | --- | --- |
+| 12/02/2026 | CARNAVAL | ESCALDES-ENGORDANY |
+| 10/03/2026 | CALÇOTADA | SANT JULIÀ DE LÒRIA |
+| 14/04/2026 | CARGOLADA | ANDORRA LA VELLA |
+| SETMANA DE L’11/05/2026 | SORTIDA D’ESTIU | ENCAMP |
+
+14/04/2026
+
+CARGOLADA
+
+ANDORRA LA VELLA SETMANA DE L’11/05/2026
+
+SORTIDA D’ESTIU
+
+ENCAMP
+
+#### 1.12.6. Conveni de col·laboració entre el Comú d’Encamp i els promotors del projecte “Residència EncampOssa”
+
+S’acorda aprovar la signatura del conveni de col·laboració entre el Comú d’Encamp i els promotors dels projecte “Residència EncampOssa”.
+
+### 1.13. COMISSIÓ DE TURISME
+
+1.13.1. Proposta de contractació de publicitat i promoció de la parròquia d’Encamp a través de la web de MeteoPirineus, paquet 2026 Vista l’oferta presentada per l’empresa MeteoPirineus, que tenen una web i unes xarxes socials, que són un aparador de promoció turística i científica del Pirineu, on els seus objectius són la divulgació del patrimoni natural i cultural del Pirineu, fomentant un turisme sostenible i de connexió amb el territori, i proporcionant informació meteorològica i climàtica fiable per a activitats a l’aire lliure i la gestió del territori, ens presenta una oferta relativa a un paquet especial de publicitat per a l’any 2026, que consta de: Visibilitat exclusiva a la web de MeteoPirineus, amb difusió mensual durant tot l’any; un reportatge especial de cims emblemàtics d’Encamp d’uns tres minuts, tres reels de paisatges de divulgació del territori, natura, geologia i meteorologia, dos reels de nou format acompanyant d’una persona reconeguda i vinculada a Encamp, explicant un lloc especial de la
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad parròquia, emesos al llarg de l’any per promocionar experiències i atractius del territori, per un import de 3.990,00 € (inclòs el 4,5 % d’IGI), vist l’informe núm. 2026-02 del Departament de Turisme.
+
+S’acorda l’aprovació de la proposta de publicitat presentada per l’empresa Meteo Pirineu per a la publicació de contingut turístic, paquet 2026, per un import de 3.990,00 € (inclòs el 4,5 % d’IGI).
+
+#### 1.13.2. Proposta de contractació d’una empresa per a la realització de l’activitat de Curs de supervivència 2026
+
+Vista l’oferta presentada per l’empresa JJ.supervivència, la qual dona continuïtat a l’activitat exclusiva iniciada l’any passat de “survival and bushcraft” que va tenir molt d’èxit, on els participants aprenen tècniques de supervivència en la natura i reptes que s’han d’anar superant en situacions adverses a la natura, es tractaran temes com la psicologia de la supervivència, encendre foc, crear un refugi, aprendre orientació, primers auxilis, tractament de l’aigua...; aquest curs va destinat a adults i a famílies amb nens i adolescents. Aquesta activitat es desenvoluparà els següents caps de setmana: 27 i 28 de juny (curs amb nit a la intempèrie), 4 de juliol (activitat diürna), 11 i 12 de juliol (curs amb nit a la intempèrie ), 18 de juliol (activitat diürna) i el 25 i 26 de juliol (curs amb nit a la intempèrie), per un import de 8.400,00 € (inclòs el 4,5 % d’IGI), vist l’informe núm. 2026-01 del Departament de Turisme.
+
+S’acorda l’aprovació del pressupost per l’activitat de curs de supervivència presentada per l’empresa Jj.supervivencia per un import de 8.200,00 € (inclòs el 4,5 % d’IGI).
+
+#### 1.13.3. Demanda de preus per la contractació dels treballs de pintura mural a l’aixopluc de les Pardines
+
+Vistos els pressuposts sol·licitats a diferents empreses per dur a terme els treballs de pintura mural a l’aixopluc de les Pardines, seguint el procediment establert per la forma d’adjudicació per contractació directa; vist l’informe núm. 2025-62 del Departament de Turisme.
+
+S’acorda l’adjudicació dels treballs de pintura mural a l’aixopluc de Pardines a l’artista Àngel Calvente, per un import de 14.421,00 € (inclòs el 4,5 % d’IGI), i amb una puntuació de 81,40 punts sobre 100.
+
+1.13.4. Demanda de preus per la contractació dels treballs de creació i col·locació d’una escultura amb base a l’aixopluc de les Pardines Es sotmet a la consideració de la Comissió els pressuposts sol·licitats a diferents empreses per dur a terme els treballs de creació i col·locació d’una escultura amb base a l’aixopluc de les Pardines, seguint el procediment establert per la forma d’adjudicació per contractació directa; vist l’informe núm. 2025-63 del Departament de Turisme.
+
+Es proposa:
+
+L’adjudicació dels treballs de creació i col·locació d’una escultura amb base a l’aixopluc de les Pardines a l’artista Àngel CALVENTE, per un import de 7.210,50 € (inclòs el 4,5 % d’IGI).
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+#### 1.13.5. Demanda de preus per al subministrament i col·locació de tòtems de senyalització del nou fulletó de les Rutes Culturals
+
+Vistos els pressuposts sol·licitats a diferents empreses per dur a terme els treballs de subministrament i col·locació de tòtems de senyalització del nou fulletó de les Rutes Culturals, seguint el procediment establert per la forma d’adjudicació per contractació directa; vist l’informe núm. 2025-69 del Departament de Turisme.
+
+S’acorda l’adjudicació dels treballs de subministrament i col·locació de tòtems de senyalització del nou fulletó de les Rutes Culturals a l’empresa Binomi, SL per un import de 3.923,07 € (inclòs el 4,5 % d’IGI).
+
+1.13.6. Conveni de col·laboració entre la societat Andorra Turisme SAU i les set corporacions comunals d’Andorra per al desenvolupament d’accions conjuntes de màrqueting turístic, mitjançant el programa Infoturisme 2026 El Comú d’Encamp, Andorra Turisme, SAU conjuntament amb la resta de corporacions comunals del Principat d’Andorra, mitjançant la subscripció d’un conveni planifiquen i desenvolupen projectes del Programa Infoturisme a les set parròquies del Principat d’Andorra, en base al pla d’acció conjunta acordat per a l’any 2026.
+
+Vista la proposta d’acord de subscripció del conveni de col·laboració entre la Societat Andorra Turisme, SAU i les set corporacions comunals d’Andorra pel desenvolupament d’accions conjuntes de màrqueting turístic, mitjançant el Programa Infoturisme 2026, la dotació econòmica per un import total de 25.000 €; així com l’informe núm. 2026-04 del Departament de Turisme.
+
+S’acorda signar el conveni de col·laboració entre la Societat Andorra Turisme, SAU i les set corporacions comunals d’Andorra pel desenvolupament d’accions conjuntes de màrqueting turístic, mitjançant el Programa Infoturisme 2026 així com la dotació econòmica per un import total de 25.000 €.
+
+Proposta d’autorització i de compromís de despesa a càrrec de la partida pressupostària 8000/43200011/2268206, amb número AC202600002535.
+
+### 1.14. COMISSIÓ D'HIGIENE, MEDI AMBIENT I AGRICULTURA
+
+#### 1.14.1. Calendari de reunions ordinàries per l'any 2026
+
+Es proposa aprovar la proposta de calendari per a les reunions ordinàries de la Comissió d’Higiene, Medi ambient i Agricultura.
+
+#### 1.14.2. Convocatòria concurs nacional per a la concessió del servei públic de recollida de diferents residus al Principat d'Andorra
+
+En la reunió de cònsols del 15.4.25 es va proposar delegar en el Comú d’Encamp la licitació i adjudicació del concurs nacional per a Concessió del servei públic comunal de la recollida de diferents residus al Principat d’Andorra. Així doncs, posteriorment, la resta de comuns del Principat van acordar la delegació i la signatura del conveni adjunt.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+Es presenta l’informe d’inici de contractació amb número d’expedient EC2026017 i el plec de bases per a la convocatòria del concurs, el qual ha estat treballat durant els darrers mesos per personal de tots els comuns i uns assessors externs (jurídic i tècnic).
+
+S’acorda la convocatòria del concurs públic, en nom i representació dels set comuns del Principat d’Andorra, mitjançant la modalitat de contractació ordinària i d’acord amb les condicions que s’estableixen en el plec de bases adjunt i a imputar al pressupost 2026 i anys següents.
+
+1.14.3. Adjudicació del concurs per al subministrament, col·locació i manteniment de sacs de precultiu amb flors per a jardineres de la parròquia d'Encamp per a les temporades primavera-estiu
+
+Vist l’informe IHMAIA 01/26 del departament relatiu al concurs per al subministrament, col·locació i manteniment de sacs de precultiu amb flors per a jardineres de la parròquia d’Encamp per a les temporades primavera-estiu; vist l’informe núm. de la mesa de contractació; s’acorda adjudicar el subministrament i la col·locació dels sacs de precultiu a l’empresa Tot Natura, en ser la única concursant i haver obtingut la millor valoració segons els criteris d’avaluació del concurs.
+
+Proposta de compromís de despesa un import total de 27.473,57 € a imputar a la partida pressupostària 2600/17100001/2170020 segons document d’autorització i compromís AC-202600002295.
+
+1.14.4. Adquisició de material vegetal d’estiu per al sector d’Encamp Vistos els pressupostos adjunts;
+
+Vist l’informe HMAIA 09/26 del departament, relatiu a l’estudi de les ofertes rebudes per a l’adquisició de material vegetal per a la temporada d’estiu 2026 per al sector d’Encamp;
+
+S’acorda adjudicar part del subministrament de material vegetal d’estiu per al sector d’Encamp a l’empresa La Floristeria del Poble, segons la proposta de l’informe, per un import de 2.480,00€, IGI inclòs; a imputar a la partida pressupostària
+
+2600/17100001/2170020; segons document d’autoritzacions i compromís AC-202600004196.
+
+Part del subministrament de material vegetal d’estiu per al sector d’Encamp a l’empresa Tot Natura, segons la proposta de l’informe, per un import de 29,80€, IGI inclòs; a imputar a la partida pressupostària 2600/17100001/2170020; segons document d’autoritzacions i compromís AC-202600004197.
+
+I part del subministrament de material vegetal d’estiu per al sector d’Encamp a l’empresa Centre de jardineria La Grandalla, segons la proposta de l’informe, per un import de 5.492,44€, IGI inclòs; a imputar a la partida pressupostària
+
+2600/17100001/2170020; segons document d’autoritzacions i compromís AC-202600004198.
+
+#### 1.14.5. Sol·licitud d’organització de grans esdeveniments en el medi natural “Dynafit Andorra Skimo 2026”
+
+Vista la sol·licitud SGE-1158/2026 presentada pel Sr. Gerard Riart Escribà, en
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad representació pròpia, per a l’organització de la cursa Dynafit Andorra Skimo, que es desenvoluparà els dies 21 i 22 de febrer del 2026;
+
+Vist l’informe favorable, de data 16 de gener del 2026, de la directora executiva del pla de gestió de la Vall del Madriu-Perafita-Claror;
+
+Vist l’informe favorable, de data 19 de gener del 2026, dels banders comunals;
+
+Vist l’informe favorable 08/26 de la tècnic comunal de sostenibilitat, de data 20 de gener del 2026;
+
+I vist que el Sr. Riart ha presentat la documentació escaient, segons l’establert al Reglament de grans esdeveniments en el medi natural de data 29 de setembre del 2021 i a l’Ordinació de Senyalització d’itineraris d’iniciativa privada del 22 de setembre de 2011;
+
+s’acorda autoritzar al Sr. Gerard Riart Escribà l’organització de la cursa, segons el recorregut descrit, així com el marcatge de la mateixa mitjançant banderoles. Sempre supeditat a rebre l’informe favorable del Departament de Medi Ambient i Sostenibilitat del Govern d’Andorra;
+
+#### 1.14.6. Sol·licituds acta 01/26
+
+S’acorda aprovar les sol·licituds presentades al Departament d’Higiene, Medi Ambient i Agricultura:
+
+| Registre | Sol·licitant | Objecte | Proposta resolució |
+| --- | --- | --- | --- |
+| SADME- 26448/2025 | MAPESA, SL | Sol·licitud de dipòsit temporal de material a l’exterior a la parcel·la cadastral 02388 | Es proposa autoritzar el dipòsit temporal de material a l’exterior a la parcel·la cadastral 02388 |
+| SICC- 26451/2025 | Marc Palmitjavila Danto | Sol·licitud de construcció d’unes cabanes del Sr. Marc Palmitjavila Danto en el terreny de la seva propietat “Prat de l’Obac Casa Ricard (Prat dels Orris)” ubicat als Cortals, al costat del pont de la Baronia, a la vila d’Encamp. | Es proposa autoritzar la construcció d’una cabana per a guarda d’eines de 9m2 i una cabana per a bestiar menut de 9m2. |
+| SADME- 0554/2026 | GEOTECH, SL | Sol·licitud de dipòsit temporal de material a l’exterior a la parcel·la cadastral 02620 | Es proposa autoritzar el dipòsit temporal de material a l’exterior a la parcel·la cadastral 02620 |
+| BTH- 26369/2025 | Enric Torres Arauz | Sol·licitud de bonificació sobre la taxa d’higiene de població de l’any 2025 | Es proposa atorgar una bonificació del 15% sobre la taxa d’higiene de població de l’any 2025 en tant que la seva unitat familiar participa activament en tasques de reciclatge i sostenibilitat del medi ambient, per un import de 17,92€ |
+| RTH- 0194/2026 | Victor Ribero Guasch | Sol·licitud de retorn de la taxa d’higiene de població de l’any 2025 | Es proposa autoritzar el retorn de la taxa d’higiene de població de l’any 2025 del Sr. Victor Ribero Guasch en tant que l’adreça particular coincideix amb l’adreça de l’activitat comercial Grovi |
+| RTH- 0668/2026 | Teresa Mato Bustelo | Sol·licitud de retorn de la taxa d’higiene de població de l’any 2025 | Es proposa autoritzar el retorn de la taxa d’higiene de població de l’any 2025 de la Sra. Teresa Mato Bustelo en tant que l’adreça particular coincideix amb l’adreça de l’activitat comercial Neteja Express |
+| RTH- 1225/2026 | Antoni Llorens Lladós | Sol·licitud de retorn de la taxa d’higiene de població de l’any 2025 | Es proposa autoritzar el retorn de la taxa d’higiene de població de l’any 2025 del Sr. Antoni Llorens Lladós en tant que l’adreça particular coincideix amb l’adreça de l’activitat comercial Andorra la grup |
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+En la reunió de la Junta de Govern l’Hble. Sra. Sabrina Gregoire Torres, s’absté en el tractament d’aquest punt, atesa la seva relació de parentiu amb la propietat de la parcel·la de la sol·licitud núm. SADME-26448/2025.
+
+## 2. ALTRES QÜESTIONS
+
+2.1.
+
+Resolució de l'expedient sancionador cens de població núm.25683/2025
+
+Vista la documentació aportada en l’expedient núm. ICP-25672/2025 s’ha constatat que la Sra. Noelia Jeanette Luchi Ruiz no s’ha inscrit en el cens parroquial en el termini màxim de sis mesos a comptar de l’inici de la residència a la parròquia d’Encamp, segons preveu l’article 6 de la Llei 16/2025 del cens; vista la incoació de l’expedient sancionador; s’acorda la resolució de l’expedient sancionador en què es conclou que la conducta descrita és constitutiva d’una infracció lleu d’acord amb el que disposa l’article 24.1 de la Llei del cens i l’aplicació d’una multa de 150€, segons preveu l’article 25 de la Llei del cens.
+
+## 3. PROPOSTES AL CONSELL DE COMÚ
+
+### 3.1. Autorització Compromisos per Amortització Préstecs quotes 2026
+
+### 3.2. Arrestos de la Taba 2026
+
+### 3.3. Arrendament de cortons per al 2026
+
+### 3.4. Ordinació per a l’atorgament de subvencions per al bestiar menut
+
+3.5. Adjudicació dels honoraris dels treballs tècnics de redacció de projecte de les obres de rehabilitació del Centre Esportiu del Pas de la Casa - projecte núm. 594
+
+### 3.6. Aprovació provisional de la Modificació 5 del Pla d’Ordenació i Urbanisme de la Parròquia d’Encamp - Revisió Any 2019 - projecte núm. 610
+
+### 3.7. Sol·licitud núm. SPP-1141/2024 d’aprovació de pla parcial de desenvolupament urbanístic presentada per la societat Alpic, SLU
+
+## 3. EXAMEN I APROVACIÓ, SI ESCAU, DE LES PROPOSTES D’ACORD DE LA JUNTA DE GOVERN
+
+3.1. Sol·licitud núm. SPP-1141/2024 d’aprovació de pla parcial de desenvolupament urbanístic presentada per la societat Alpic, SLU vista la sol·licitud per l’aprovació de projecte de pla parcial de desenvolupament urbanístic de la unitat d’actuació Nanta Alta (SUBLE); i
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad vist l’informe núm. 10863 del Departament d’Obres Públiques i Urbanisme, es proposa l’aprovació del pla parcial de desenvolupament urbanístic amb la publicació del Decret corresponent al Butlletí Oficial del Principat d’Andorra.
+
+S’aprova aquesta proposta per assentiment.
+
+### 3.2 Autorització Compromisos per Amortització Préstecs quotes 2026
+
+Vistos els préstecs que te el Comú d’Encamp formalitzats amb les diferents entitats financeres, per tal d’atendre el retorn de les quotes de capital,
+
+S’acorda l’autorització i compromís pels diferents pagament per a l’exercici 2026, per un total de 2.230.155,73 €, amb càrrec de les diferents partides pressupostaries corresponents,
+
+S’aprova aquesta proposta per assentiment.
+
+3.3. Adjudicació dels honoraris dels treballs tècnics de redacció del Projecte de les obres de rehabilitació del Centre Esportiu del Pas de la Casa - projecte núm. 594.- Vist l’informe núm. 10816 del Departament d’Obres Públiques i Urbanisme, Vist el contracte vigent entre el Comú d’Encamp i l’empresa Adserà Group, SL, en tant que adjudicatària dels treballs tècnics i d’assessorament, d’implementació, gestió i control del pla de manteniment de les instal·lacions esportives i culturals del Comú d’Encamp; en aplicació del percentatge d’honoraris del 4,90% del cost de l’obra estimatiu; es proposa l’aprovació d’autorització i compromís per un import de 402.987,19 euros IGI inclòs a l’empresa Adserà Group, SL;
+
+La cònsol major dona la paraula al Sr. Nino Marot Crespo, president de la Comissió d’Esports, perquè expliqui en què consistirà aquesta adjudicació. El Sr. Nino Marot Crespo explica que aquesta licitació representa un pas de gran envergadura dins del pla estratègic de turisme esportiu i de millora de la qualitat de vida i dels serveis per als ciutadans i ciutadanes. Tot i les inversions importants realitzades en els darrers anys, com el canvi de paviment de la sala polivalent o els podis de la piscina, aquest projecte suposa una remodelació ambiciosa i global del Complex Esportiu del Pas de la Casa.
+
+En primer lloc, la principal millora serà l’ampliació del gimnàs, que passarà de 190 m² a 582 m², amb nova maquinària i espais adaptats a les necessitats d’entrenament actuals. També es crearà una nova sala d’activitats dirigides i s’adequaran els accessos, la recepció i la pista de pàdel.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+El segon eix del projecte és la remodelació de la piscina petita, del vas i de la platja de la piscina gran, així com la redistribució i millora dels vestidors i de l’spa, amb l’objectiu d’augmentar la qualitat de l’experiència per als habitants del Pas de la Casa, turistes i esportistes d’estades.
+
+Recorda que l’any 2025 es van aconseguir prop de 50 estades esportives amb més de 8.500 pernoctacions, gairebé totes fora de la temporada d’hivern.
+
+Posa en relleu que la voluntat del Comú és iniciar les obres de la fase 1 aquest estiu, amb l’objectiu de tenir el gimnàs operatiu durant la primavera de l’any vinent. La fase 2, centrada en les piscines i els vestidors, començarà al juny de l’any vinent. Es preveu que, amb les estades confirmades amb vista als Jocs Olímpics de Los Angeles 2028, la piscina romandrà oberta a partir del mes d’octubre, i les obres s’acabaran durant el primer semestre del 2028.
+
+Finalment, agraeix als departaments d’Obres Públiques, Cultura i Esports la seva col·laboració per fer possible aquest projecte.
+
+S’aprova aquesta proposta per assentiment.
+
+## 4. ORDINACIÓ DE CRÈDIT EXTRAORDINARI PER LIQUIDAR EL COST FINAL DE L’OBRA DE
+
+CONSTRUCCIÓ DEL VIAL D’ACCÉS A CRAMEA
+
+Vist l’article 5.1 de la Llei qualificada de delimitació de competències dels comuns i l’article 82.1 de la Llei 36/2021de les finances comunals. Vist l’expedient de contractació EC2022024 relatiu a la licitació, mitjançant concurs públic, dels treballs de construcció d’un vial d’accés al CRAMEA – Projecte núm.481. Vist l’informe del Departament d’Obres Públiques i Urbanisme i l’informe de la direcció facultativa de la referida obra, on es constata que l’obra ha experimentat un cost addicional de 96.294,46 euros. Atès que cal afegir els honoraris addicionals de redacció de projecte i direcció d’obra que es situen en 1.829,60 euros. Vist que aquesta despesa no està prevista en el pressupost 2026 i, per tant, cal dotar la partida afectada de crèdits mitjançant un crèdit extraordinari. Vist l’informe d’Intervenció comunal núm. IC20260023.
+
+Es proposa l’aprovació de l’ordinació de crèdit extraordinari que s’adjunta, segons el detall següent:
+
+| Partida pressupostària |  |  | Import |
+| --- | --- | --- | --- |
+| 4000 | 45300202 | 6071052 | 98.124,06 € |
+|  |  |  | 98.124,06 € |
+
+4000
+
+45300202
+
+6071052
+
+98.124,06 €
+
+98.124,06 €
+
+Finançament: Aquesta modificació pressupostària es finança mitjançant la reducció de tresoreria.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+S’aprova aquesta proposta per majoria amb l’abstenció de l’Hble.
+
+Sra. Marta Pujol Palau, del Grup polític Avancem.
+
+## 5. PRECS I PREGUNTES
+
+Els sotasignats, Marta Pujol Palau i José Luis Agudo Garcia, consellers de Comú del grup Avancem, d’acord amb el que disposa l’article 23 de l’Ordinació de modificació del Reglament d’organització i funcionament dels comuns, sol·licitem que la pregunta, amb registre d’entrada E/002337- 2026, s’incorpori a l’apartat de precs i preguntes de l’ordre del dia de la sessió de Consell de Comú del 9 de febrer del 2026.
+
+Pregunta, amb la transcripció literal, que es formula a l’Hble. Sra. Laura Mas Barrionuevo, cònsol major:
+
+−
+
+Amb referència a la remodelació de l’avinguda Joan Martí, hi ha veïns que estan molestos per com s’ha desenvolupat la comunicació amb el Comú o perquè no s’han atès les seves inquietuds. Pensem que la reunió informativa va ser precipitada i no es va convocar fins que ja s’havia tallat la circulació al carrer de la Molina i, per tant, quan ja havien començat els talls de circulació per les obres. Els veïns demanaven que hi hagués continuïtat de la galeria interior del tram que ja està remodelat, però sabem perquè es va explicar a la Comissió corresponent que el Departament d’Obres Públiques i Urbanisme havia descartat aquesta opció perquè no seria rendible i tindria un ús molt limitat. Us agrairem que ens indiqueu si ja s’ha explicat bé tota aquesta qüestió als veïns i si s’ha respost als seus neguits.
+
+La cònsol major dona la paraula al Sr. Benjamí Rascagnères Travesset, president de la Comissió d’Obres Públiques i Urbanisme, atès que, conjuntament amb ella mateixa, ha estat qui ha contactat amb els veïns per resoldre aquestes inquietuds.
+
+El Sr. Benjamí Rascagnères Travesset celebra que facin aquesta pregunta, ja que ofereix l’oportunitat d’exposar detalladament totes les accions comunicatives i informatives que s’han dut a terme fins aquest moment. Vol deixar clar que des del Comú d’Encamp s’ha garantit en tot moment un perfil comunicatiu sostingut, persistent, precís i reiteradament atent. Així mateix, tot i que celebra la pregunta formulada, lamenta el costum d’incloure en les intervencions afirmacions o suposicions que no s’ajusten a la realitat. En relació amb les referències a una suposada mala gestió de la comunicació, no comparteix aquesta valoració, ja que tots els dubtes, molèsties i incidències que la ciutadania ha fet arribar han estat atesos i resolts amb diligència.
+
+Posa en relleu que la gestió de molèsties, incidències i dificultats forma part de l’activitat ordinària del comú, i precisament per aquest motiu s’ha posat un èmfasi especial en mantenir la ciutadania informada en tot moment, adaptant la comunicació a les circumstàncies i a les possibles afectacions.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+Dit això, procedeix a detallar fil per randa totes les accions de comunicació que s’han dut a terme des d’aquest comú, i que no han estat poques. Recorda que es va començar el 24 de juliol del 2025 amb una roda de premsa posterior al Consell de Comú, moment en què es va anunciar la creació d’una pàgina web específica on es publicaria tota la informació relativa a aquest projecte. També es va emetre una nota de premsa publicada al web, enviada als mitjans de comunicació tradicionals i difosa a totes les xarxes socials del Comú. En aquella compareixença, a més de presentar el projecte, es va anunciar que la data d’inici de les obres estava prevista aproximadament per al gener de 2026 i es va informar clarament que hi hauria afectacions viàries, atès que es tracta de la reforma de l’avinguda, tot precisant que s’intentaria minimitzar-ne l’impacte i que, en tot cas, es mantindria un carril de circulació.
+
+El 30 d’octubre del 2025 va tenir lloc una nova roda de premsa posterior al Consell de Comú. En aquella ocasió es va actualitzar tota la informació a la pàgina web i als butlletins comunals elaborats pel Departament de Comunicació. També es va habilitar un formulari perquè tots els ciutadans que ho desitgessin poguessin inscriure’s en un grup de difusió permanent per rebre la informació puntualment. Igualment, es va emetre una nova nota de premsa als mitjans tradicionals i es va publicar el contingut a les xarxes socials del Comú.
+
+Al desembre del 2025 es van iniciar gestions més directes i concretes. El Servei de Circulació va contactar personalment amb tots els veïns de l’avinguda, especialment amb els afectats pel tall del carrer de la Molina. Es van gestionar aspectes relacionats amb el comerç de la zona i es van enviar correus informatius als serveis d’emergència, sanitaris i educatius, així com a tots els actors potencialment implicats, incloses les escoles. Paral·lelament, es van començar a debatre i a negociar convenis amb els propietaris particulars que podien resultar afectats per les obres, tasca que va ser conduïda directament per la cònsol major.
+
+Fa memòria que durant el període de festes, tot i la disminució habitual de l’activitat comunicativa, el Departament de Comunicació va continuar publicant continguts a les xarxes socials, recordant el projecte i remetent a la informació disponible al web.
+
+Al gener d’aquest any es va emetre una nova nota de premsa amb precisions sobre el projecte així com les afectacions, i es va anunciar la reunió de poble del 12 de gener. També es va enviar el butlletí comunal a totes les persones subscrites. Es van repartir cartes als comerços i veïns afectats per la fase 1 i, en menys de 24 hores, es van distribuir 5.000 tríptics informatius. A partir del 8 de gener es van col·locar cartells informatius a la via pública, acció que es va reforçar l’11 de gener amb noves publicacions a les xarxes socials i actualitzacions sobre les afectacions. El 12 de gener es va celebrar la reunió de poble, en què es va tornar a actualitzar i ampliar la informació.
+
+Tot plegat posa de manifest que l’acció comunicativa ha estat sostinguda i continuada. A més, el Comú ofereix un canal de consultes 24/7 a través de WhatsApp, una eina pràctica i àmpliament utilitzada per la ciutadania, mitjançant la qual es reben i resolen queixes i incidències.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+En conseqüència, manifesta que no es pot parlar d’una comunicació precipitada, sinó d’un fil informatiu persistent i estructurat. També vol aprofitar per reconèixer la tasca del Departament de Comunicació, que ha fet un seguiment constant d’un projecte d’envergadura, rellevant per al poble i que, tot i generar molèsties, ha comunicat en tot moment una informació clara i continuada. No obstant això, reconeix que és evident que arribar al cent per cent de la població és impossible per motius diversos; el risc zero no existeix. Tanmateix, no es pot afirmar que la comunicació hagi estat precipitada, sinó ben al contrari.
+
+En resposta a la segona part de la pregunta, recorda que la cònsol major ja va abordar aquesta qüestió en l’entrevista del passat 22 de gener al programa La Clau.
+
+No obstant això, diu que certament a l’agost del 2025 alguns veïns van fer arribar una carta al Comú demanant els motius pels quals no es preveia la construcció d’una galeria tècnica en el marc del projecte. Davant d’aquesta petició, i tal com és obligació de l’administració comunal, es van efectuar els requeriments tècnics preceptius, especialment als dos actors que eventualment haurien d’utilitzar aquesta infraestructura: FEDA i Andorra Telecom.
+
+Explica que al setembre del 2025, ambdues entitats van comunicar de manera clara i inequívoca que no necessitaven aquesta galeria tècnica. En conseqüència, executar una infraestructura que no havia d’allotjar cap servei ni cap instal·lació no resultava justificable. Destinar recursos públics a una actuació sense utilitat efectiva hauria estat contrari als principis de bona gestió.
+
+Per tant, diu que la decisió de no construir la galeria tècnica respon a criteris estrictament tècnics. Ara bé, aquesta decisió també s’emmarca en la responsabilitat política que correspon als càrrecs electes, que han de vetllar per no malbaratar diners públics i per optimitzar els recursos disponibles. En aquest context, l’única decisió possible era adoptar la solució tècnica avalada pels informes i per les necessitats reals dels operadors implicats.
+
+Conclou la seva explicació posant en relleu que la cònsol major ha contactat personalment amb tots i cadascun dels signataris de la carta, i tots ells han entès perfectament els motius pels quals no es durà a terme aquesta galeria tècnica.
+
+La Sra. Marta Pujol Palau intervé per agrair les explicacions al conseller Rascagnères. Pel que fa a la qüestió de la galeria tècnica, recorda que també se’n va parlar en comissió i que s’entén que es tracta d’una decisió adoptada amb criteris tècnics. Si la infraestructura no havia de tenir cap ús per canalitzar la xarxa d’Andorra Telecom ni de FEDA, considera que no era necessari executar-la.
+
+Tanmateix, apunta que potser va ser un error haver construït la galeria tècnica en el tram ja rehabilitat de l’avinguda, una actuació que va suposar una partida pressupostària important, d’aproximadament d’un milió d’euros, i que si no té continuïtat en la resta del projecte, podria considerar-se una obra innecessària.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+Aclareix que l’únic que es pretenia saber és si aquestes explicacions ja s’havien traslladat als veïns que ho havien reclamat i si aquests havien quedat satisfets amb la resposta del Comú.
+
+Pel que fa a la qüestió de la suposada precipitació, precisa que es referia especialment a la reunió de poble del 12 de gener, en què es va exposar el projecte de manera detallada. Posa en relleu que en cap cas no es posa en dubte la professionalitat del Departament de Comunicació, que considera que fa una molt bona feina. El que es vol assenyalar és que el fet que la sala d’actes de la Valireta estigués mig buida o mig plena, segons com es vulgui interpreta, podria respondre a una certa precipitació en la convocatòria. Entén que, més enllà de les rodes de premsa posteriors als Consells de Comú i de la informació publicada al web comunal, potser alguns veïns haurien necessitat una atenció més directa o una convocatòria més clara i amb més antelació.
+
+La cònsol major respon per aclarir aquest punt. Reconeix que a la reunió del 12 de gener l’assistència no va ser molt elevada, però afirma que precisament això és conseqüència del que s’ha explicat anteriorment. Durant aproximadament un any i mig s’han mantingut contactes directes amb tots aquells veïns que tenen una afectació davant de casa seva. No s’ha tractat d’una comunicació genèrica, sinó d’un treball individualitzat, cas per cas.
+
+De fet, en el Consell de Comú anterior ja es va aprovar la signatura d’un dels convenis amb un dels propietaris afectats, fet que demostra que la feina prèvia estava molt avançada. La gran majoria dels veïns del tram corresponent a la fase 1 coneixien perfectament el projecte, les afectacions i el calendari previst.
+
+Posa en relleu que s’ha dut a terme una tasca molt intensa especialment amb els comerços. Explica que en alguns casos, fins i tot, s’hi ha anat personalment més d’una vegada per explicar detalladament com es gestionaria l’afectació davant del seu establiment.
+
+Per tant, el fet que la sala no fos plena no respon a una manca d’informació, sinó al contrari, molts dels afectats ja estaven informats perquè s’havia contactat prèviament amb ells.
+
+Pel que fa a aquelles persones amb qui potser no s’havia pogut parlar abans, posteriorment també se les ha contactat per assegurar que disposaven de tota la informació i per saber si necessitaven algun aclariment addicional.
+
+Diu que la gran majoria han agraït tant la reunió com la informació facilitada. A més, manifesta que personalment va enviar un missatge de WhatsApp a la major part dels propietaris per garantir que la convocatòria els arribava correctament i per posar-se a la seva disposició. Per tant, afirma que hi ha hagut una feina prèvia, directa i constant amb els afectats.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+La cònsol major conclou que, pel que fa a la carta que van fer arribar els veïns al Comú, explica que es va parlar amb tots els afectats i se’ls va explicar detalladament la situació. Excepte un únic veí, la resta han entès que, si la galeria tècnica no ha de tenir cap utilitat, no és justificable gastar tants milions d’euros en la seva construcció. −
+
+Entre altres sobrecostos de diversos projectes d’obres públiques, s’han aprovat uns complements de despesa de 96.294,46 euros i 1.829,60 euros d’un a l’empresa Suport Enginyers Consultors, SAU per la construcció del vial d’accés al Cramea. Atès que és una inversió de pressupost públic important en un projecte que s’ajorna des de fa anys i al qual ja s’han destinat quantitats milionàries, hi ha cap previsió de finalització de les obres i obertura del centre Icònic? No es va preveure cap termini d’execució en el conveni signat amb el Govern i l’inversor privat?
+
+La cònsol major dona novament la paraula al Sr. Benjamí Rascagnères Travesset, president de la Comissió d’Obres Públiques i Urbanisme, perquè doni resposta a la pregunta.
+
+El Sr. Benjamí Rascagnères Travesset respon a la Sra. Pujol que, si a la primera pregunta li havia expressat la seva satisfacció, en aquesta ocasió li vol manifestar la seva sorpresa, i explica els motius. Recorda que la Sra. Pujol és membre de la Comissió d’Obres Públiques i Urbanisme, que hi assisteix habitualment i hi participa activament. Per això, li resulta sorprenent que avui porti a col·lació una qüestió que ja havia estat exposada, debatuda i documentada en comissió, i que ella mateixa va aprovar en aquell moment.
+
+Malgrat aquesta contradicció, explica novament els motius dels complements de despesa i els terminis d’execució. Pel que fa als complements de despesa, es remet a l’informe tècnic adjunt al tancament econòmic de l’obra de la direcció facultativa d’octubre del 2025. Els increments de cost es deuen principalment a dos factors: la construcció de la xarxa d’aigües pluvials i residuals i a motius tècnics derivats de les característiques del terreny, que ha requerit estructures específiques, adaptació dels murs de maçoneria, reforç de murs de formigó, col·locació de malla en talussos i altres mesures de seguretat.
+
+Recorda que la gran part d’aquestes despeses són repercutides al Govern dins del contracte d’arrendament que vincula el Comú d’Encamp amb el Govern d’Andorra i altres actors del projecte del 2023.
+
+Pel que fa als terminis d’execució, recorda que la data de finalització va ser aprovada per la Comissió d’Obres Públiques i Urbanisme el 13 de juny del 2024, establint la finalització per al juny del 2028.
+
+Finalment, pel que fa a qüestions relacionades amb Cramea i Icònic, tal com ja ha explicat reiteradament la cònsol major a demanda dels mitjans tradicionals, aquestes qüestions són regulades pel contracte d’arrendament i per la concessió del Govern, no correspon al Comú d’Encamp pronunciar-se sobre aquests aspectes.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+La Sra. Marta Pujol Palau agraeix les explicacions del conseller i afegeix que, tot i que certes qüestions es debatin i s’aprovin a les comissions, això no vol dir necessàriament que hi estiguin tècnicament d’acord. Remarca que la seva intervenció respon a la responsabilitat política que comporta un projecte amb un cost elevat, milionari per part de l’Administració. Destaca que el fet que la inversió sigui assumida parcialment pel Govern no hauria de generar una falsa sensació de tranquil·litat. Com a ciutadans encampadans i andorrans, considera que és legítim preocupar-se per una obra pública de gran magnitud quan no hi ha un termini clar d’execució ni d’obertura del centre, projectat i anunciat ja fa molts anys. Valora positivament que el projecte prevegi un centre de rendiment esportiu i la conservació del patrimoni cultural i històric de l’edifici de Sud Ràdio, però subratlla que, de moment, el projecte s’allarga i no s’hi veu el final. En aquest sentit, defensa la importància de la transparència i de la informació a la ciutadania, i considera que les explicacions haurien d’exposar-se al Consell de Comú i no limitar-se a les reunions de comissió. Finalment, recorda que va expressar els seus dubtes a la comissió i, tot i que se li va donar resposta, aquesta no va ser prou precisa ni concreta respecte al termini d’execució del projecte Icònic. Per aquest motiu, considera oportú haver introduït la pregunta al Consell de Comú.
+
+La cònsol major respon que, pel que fa a la transparència que invoca la pregunta, cal recordar que aquest mateix punt ja havia estat aprovat directament al Consell de Comú, per tant, sense passar per les Juntes de Govern, per la qual cosa era conegut per tothom, inclosa la Sra. Pujol que planteja la qüestió. Afegeix que no s’ha allargat en l’explicació en el punt de proposta perquè, ha entrat una pregunta concreta i ha considerat que no era necessari repetir informació, i ha preferit explicar-ho àmpliament en aquest punt de precs i preguntes, tot i que ja s’havia tractat a la comissió corresponent.
+
+Pel que fa a les explicacions tècniques, la cònsol major insisteix que totes es van facilitar detalladament en el si de la comissió corresponent. En relació amb l’esmentat sobre cost important, explica que una part d’aquest import correspon a un projecte que actualment es troba en curs i que s’haurà de completar l’any vinent, amb l’objectiu de fer arribar el subministrament d’aigua i el servei de clavegueram fins al cap del port, incloent-hi tots els serveis necessaris per a les benzineres, hotel i circuit de gel situats a la zona.
+
+Així mateix, assenyala que una part de la despesa respon a la construcció d’una rasa al llarg del camí, una actuació que permetrà evitar haver de tornar a obrir l’accés en el futur, fet que no tindria cap sentit des del punt de vista tècnic ni econòmic. Per aquest motiu, s’ha considerat oportú incorporar aquesta intervenció en el moment actual.
+
+Pel que fa a la percepció que no li havien donat prou explicacions de com va el projecte Icònic, assenyala que cal entendre que no li poden donar més detalls, ja que recorda que el director del DOPU no té competència
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad per detallar el funcionament d’una concessió que depèn del Govern ni per informar sobre el punt concret en què es troba el projecte. Posa en relleu que aquest tipus d’informació correspon exclusivament al Govern, que és l’administració competent per facilitar-ne els detalls i l’evolució. Finalment, subratlla que el Comú creu fermament i està fent tot el que està a les seves mans perquè el projecte tiri endavant, mentre que el Govern també manté reunions amb el concessionari per garantir-ne l’execució, amb l’esperança que el projecte sigui una realitat ben aviat. −
+
+Atès que enguany se succeeixen els talls d’accés al Pas de la Casa per la banda de França i que les converses amb les autoritats competents no han resolt el problema, el Comú preveu cap ajut o campanya per compensar, almenys parcialment, els comerciants pels perjudicis econòmics?
+
+La cònsol major respon que, tot i que les accions i decisions adoptades fins ara arran de l’afectació del tall d’accés per la RN20 al Pas de la Casa ja són públiques, considera oportú traslladar novament tot el que s’ha fet per part del Comú i del Govern d’Andorra per pal·liar aquesta problemàtica. En primer lloc, assenyala que el Comú ha estat informat en tot moment de l’evolució de la situació per part del Govern, a través de la ministra d’Afers Exteriors.
+
+A títol personal i en nom del Comú, explica que va contactar amb els maires de l’Hospitalet i de Mérens-les-Vals per fer-los arribar el suport institucional i posar-se a la seva disposició per a qualsevol necessitat derivada de l’esllavissada.
+
+Atesa la magnitud dels fets i les afectacions generades, recorda que el Comú d’Encamp va convocar dimarts de la setmana passada el Consell Econòmic i Social del Pas de la Casa, convidant expressament el Govern a participar-hi.
+
+Segons exposa, la trobada, la primera, previsiblement, d’un seguit de reunions, va permetre que el Govern expliqués de primera mà la situació actual i els contactes mantinguts de manera permanent amb les autoritats franceses per mobilitzar tots els mitjans tècnics necessaris per reparar l’esllavissada i garantir la seguretat de la carretera. Alhora, s’hi van poder exposar i començar a treballar les línies d’un paquet d’ajudes, tant per part del Govern com del mateix Comú, amb l’objectiu de donar suport als sectors afectats (allotjaments turístics, hotels, restauració, comerç, estació d’esquí i veïns).
+
+La cònsol major indica també que, durant aquests dies, el Comú ha estat recopilant dades per determinar el grau real d’afectació que el tancament parcial de l’accés a Andorra pel Pas de la Casa està tenint sobre el teixit econòmic i social, especialment sobre el comerç i restauració.
+
+Afegeix que una de les conclusions de la reunió va ser la necessitat de reforçar la informació sobre les opcions d’accés i arribada al país. En
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad aquest sentit, destaca que, a través de diferents canals com Andorra Turisme, el Govern mitjançant Mobilitat i el mateix Comú d’Encamp, s’ha intensificat la comunicació per informar que, tot i que la RN20 està tallada en el tram afectat, no tots els accessos al país estan tallats.
+
+Finalment, la cònsol major subratlla que el Comú d’Encamp no només preveu mesures de suport, sinó que ja està treballant activament, de manera coordinada amb el Govern i amb els agents econòmics i socials del Pas de la Casa, per definir ajuts proporcionals, rigorosos i adaptats a l’afectació real, amb l’objectiu de pal·liar, en la mesura del possible, els perjudicis econòmics derivats d’aquesta situació excepcional. Tal com es va informar al Consell Econòmic i Social del Pas de la Casa, avui mateix el Govern ha rebut l’informe del Préfet de l’Ariège, a la regió d’Occitània, el Sr. Duran, que confirma la gravetat de l’esllavissada i estableix un termini mínim de tres mesos de tancament de la RN20. Davant d’aquesta situació, el Comú d’Encamp tornarà a convocar un Consell de Comú extraordinari per aprovar un paquet d’ajudes i accions en la línia del que ja es va dur a terme l’any 2019 en una situació similar. Aquestes mesures consistiran principalment en bonificacions de taxes i impostos, com ara radicació, higiene o terrasses, entre altres mesures de suport que s’impulsaran des del Comú.
+
+La cònsol major lamenta profundament la notícia i reconeix que és un cop dur per al Pas de la Casa. Expressa el suport del Comú i assegura que es farà tot el possible des de l’àmbit comunal. També vol deixar clar que el Govern comparteix aquesta preocupació. La reunió amb el Consell Econòmic i Social va ser positiva i els participants en van sortir satisfets; es tornarà a convocar properament per continuar treballant conjuntament. A més, s’ha acordat habilitar un canal de comunicació directe perquè es puguin fer arribar les dades necessàries per calcular amb precisió l’afectació real durant aquest període i ajustar les mesures en conseqüència.
+
+Recorda que aquesta situació és diferent de l’esllavissada anterior, que va provocar un tall total però es va produir al mes de maig, quan la temporada d’hivern ja estava pràcticament finalitzada. En el cas actual, tot i que no es tracta d’un tall íntegre d’accés al país, l’afectació és molt significativa per al Pas de la Casa, especialment pel que fa als visitants provinents de Tolosa. Aquests hauran d’optar pel tren i completar el trajecte fins al Pas amb serveis de naveta o bé assumir un increment aproximat de dues hores i quart en el desplaçament per carretera. Aquest increment del temps de desplaçament pot dissuadir els visitants diaris, motiu pel qual caldrà reforçar la comunicació i animar, ara més que mai, tant els visitants francesos com la població del país a continuar pujant al Pas de la Casa i donar suport al teixit comercial i econòmic de la vila. La Sra. Marta Pujol agraeix les explicacions facilitades i el fet que s’hagi previst la convocatòria d’un nou Consell Econòmic i Social, així com d’un Consell de Comú extraordinari per aprovar les mesures destinades a compensar les pèrdues ocasionades.
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
+
+Exposa que el seu grup ha consultat els comerciants del Pas de la Casa per conèixer l’afectació real de la situació. Segons les informacions recollides, els establiments més propers a les pistes d’esquí pateixen un impacte menor, mentre que els situats a la part baixa registren afectacions molt significatives, amb pèrdues d’entre el 50% i el 80% o fins i tot el 90% de la facturació.
+
+Tot i remarcar que no es vol adoptar un to catastrofista, demana que el comú mostri una disposició clara i efectiva per compensar aquestes pèrdues. Recorda que s’ha parlat de possibles exempcions, descomptes o bonificacions en determinats impostos comunals, com ara l’impost d’erradicació, així com de la possibilitat de crèdits tous per part del Govern. No obstant això, planteja si també es preveuen ajuts directes als comerciants i restauradors del Pas de la Casa per fer front a despeses estructurals com els lloguers dels locals, cada vegada més elevats, les nòmines del personal i altres costos fixos.
+
+Finalment, defensa la necessitat d’una major previsió i de l’establiment d’un protocol d’actuació davant situacions com aquesta, atès que no és la primera vegada que es produeixen talls de carretera a causa d’esllavissades o de condicions meteorològiques adverses amb nevades abundants que provoquen afectacions prolongades.
+
+La cònsol major manifesta que, pel que fa al protocol d’actuació, les persones que formen part del comú des del 2019 han hagut d’afrontar situacions molt complexes, com la crisi de la Covid-19, la situació viscuda el 2019 i, ara, el tall de la carretera R20. En aquest sentit, assegura que s’ha reaccionat amb la màxima rapidesa possible i que tothom té molt clar quin és el procediment a seguir en aquests casos.
+
+Destaca que la rapidesa en la convocatòria del Consell Econòmic i Social del Pas de la Casa, amb la participació de totes les autoritats del Govern, demostra la voluntat de ser proactius i d’actuar amb celeritat, així com el ple coneixement de l’afectació existent. Assegura que es continuarà treballant en aquesta línia.
+
+Finalment, reitera que el Comú estarà al costat del Pas de la Casa, expressa el desig que la situació no s’allargui i fa una crida a la solidaritat perquè la ciutadania continuï pujant a fer compres i doni suport al teixit comercial de la localitat.
+
+I en no haver-hi més assumptes a tractar, s’aixeca la sessió a les 19.25h.
+
+Vist i plau El secretari general
+
+La cònsol major
+
+JORDI BABI MONTELLÀ
+
+LAURA MAS BARRIONUEVO
+
+CSV: 389d38eb-8fbb-464c-8faa-919236825e1a
+
+Les còpies impreses d’aquest document electrònic poden ser contrastades amb el seu original per verificar-ne l’autenticitat, a l’empara del que estableix l’article 28.4 de l’Ordinació reguladora de l’Administració Electrònica, aprovada pel Comú d’Encamp el 25 de novembre de 2022. La verificació es pot fer, durant els propers 24 mesos després de la seva emissió, seguint el codi QR adjunt o introduint el Codi Segur de Verificació a l’adreça https://tramits.comuencamp.ad
