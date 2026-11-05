@@ -70,7 +70,7 @@ def main():
         acc = it['accio']
         if acc == 'proposta_descartar':
             continue
-        if acc == 'eliminar_duplicat':
+        if acc in ('eliminar_duplicat', 'excloure'):
             for ext in ('md', 'pdf'):
                 f = INBOX / f"{it['origen']}.{ext}"
                 if f.exists() and not DRY:

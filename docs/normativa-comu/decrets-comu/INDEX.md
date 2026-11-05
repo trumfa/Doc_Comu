@@ -1,6 +1,6 @@
 # Decrets del Comú
 
-_23 documents. Índex generat automàticament (scripts/build_index.py); no s'edita a mà._
+_22 documents. Índex generat automàticament (scripts/build_index.py); no s'edita a mà._
 
 | Títol | Tipus | Aprovació | Estat | Vigència | Temes |
 |---|---|---|---|---|---|
@@ -18,7 +18,6 @@ _23 documents. Índex generat automàticament (scripts/build_index.py); no s'edi
 | [Decret del 18-1-2024 pel qual es fa pública la constitució i composició de la comissió de delimitació de terrenys i-o camins comunals](enc-decret-20240118-qual-fa-publica-constitucio-composicio-comissio-de.md) | decret-comu | 2024-01-18 | vigent |  | dret-general |
 | [Decret del 18-1-2024 pel qual es fa públic l'ordre de precedència dels Consellers de Comú](enc-decret-20240118-qual-fa-public-ordre-precedencia-consellers.md) | decret-comu | 2024-01-18 | vigent |  | organitzacio-i-govern-comunal |
 | [Decret del 18-1-2024 d'estructura organitzativa del Comú d'Encamp](enc-decret-20240118-estructura-organitzativa.md) | decret-comu | 2024-01-18 | vigent, modificat | l'endemà de la publicació al BOPA | organitzacio-i-govern-comunal |
-| [Decret del 21-12-2023 de modificació del Decret del 22 de desembre del 2022 que regula la moratòria d'autoritzacions de construccions de parcs solars](enc-decret-20231221-2022-regula-moratoria-autoritzacions-construccions.md) | decret-comu | 2023-12-21 | vigència dubtosa · ⚠ revisar | fins a 2024-12-22 | urbanisme-i-habitatge, medi-ambient-i-territori |
 | [Decret del 28-9-2023 d'aprovació del Reglament que regula la formació del personal del Comú d'Encamp](enc-decret-20230928-regula-formacio-personal.md) | decret-comu | 2023-09-28 | vigent | des de 2023-10-05 | personal |
 | [Decret de data 28-9-2023 de modificació del Reglament de permisos administratius](enc-decret-20230928-permisos-administratius.md) | decret-comu | 2023-09-28 | vigent | des de 2023-10-05 | personal |
 | [Decret del 26-2-2021 de modificació del Decret del 4-2-2013, que regula els fitxers de dades personals del Comú d'Encamp](enc-decret-20210226-regula-fitxers-dades-personals.md) | decret-comu | 2021-02-26 | vigència dubtosa | el mateix dia de la publicació al BOPA | personal, dades-i-seguretat-informacio |

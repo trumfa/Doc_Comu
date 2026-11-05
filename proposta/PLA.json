@@ -144,30 +144,9 @@
  },
  {
   "origen": "Decret que regula la moratòria d'autoritzacions de construccions de parcs solars",
-  "accio": "arxivar",
-  "path": "arxiu/normativa-comu/decrets-comu/enc-decret-20211224-regula-moratoria-autoritzacions-construccions-parc.md",
-  "meta": {
-   "id": "enc-decret-20211224-regula-moratoria-autoritzacions-construccions-parc",
-   "titol": "Decret del 24-12-2021 de modificació del Decret del 25-6-2021 que regula la moratòria d'autoritzacions de construccions de parcs solars",
-   "tipus": "decret-comu",
-   "ambit": "comu",
-   "organisme": "Comú d'Encamp",
-   "data_aprovacio": "2021-12-24",
-   "tipus_text": "oficial",
-   "estat": "caducat",
-   "estat_font": "deduït",
-   "entrada_vigor": "el mateix dia de la publicació al BOPA",
-   "vigencia_nota": "Primera ampliació de la moratòria (2021); substituïda per decrets posteriors.",
-   "modificat_per": [
-    "enc-decret-20231221-2022-regula-moratoria-autoritzacions-construccions"
-   ],
-   "temes": [
-    "urbanisme-i-habitatge",
-    "medi-ambient-i-territori"
-   ],
-   "text_complet": true,
-   "font_original": "originals/normativa-comu/decrets-comu/enc-decret-20211224-regula-moratoria-autoritzacions-construccions-parc.pdf"
-  }
+  "accio": "excloure",
+  "path": null,
+  "motiu": "Exclòs a petició de la persona responsable (es revisarà si n'hi ha una versió més nova)"
  },
  {
   "origen": "Decret del 13-2-2023 de modificació del Decret d'estructura organitzativa del Comú d'Encamp",
@@ -3164,34 +3143,9 @@
  },
  {
   "origen": "Decret del 21-12-2023 de modificació del Decret del 22 de desembre del 2022 que regula la moratòria d'autoritzacions de construccions de parcs solars",
-  "accio": "incorporar",
-  "path": "docs/normativa-comu/decrets-comu/enc-decret-20231221-2022-regula-moratoria-autoritzacions-construccions.md",
-  "meta": {
-   "id": "enc-decret-20231221-2022-regula-moratoria-autoritzacions-construccions",
-   "titol": "Decret del 21-12-2023 de modificació del Decret del 22 de desembre del 2022 que regula la moratòria d'autoritzacions de construccions de parcs solars",
-   "tipus": "decret-comu",
-   "ambit": "comu",
-   "organisme": "Comú d'Encamp",
-   "data_aprovacio": "2023-12-21",
-   "tipus_text": "oficial",
-   "estat": "dubtosa",
-   "estat_font": "deduït",
-   "entrada_vigor": "el mateix dia de la publicació al BOPA",
-   "data_fi_vigencia": "2024-12-22",
-   "vigencia_nota": "Amplia la suspensió d'autoritzacions de parcs solars 12 mesos «fins que el Comú publiqui una nova normativa». La darrera ampliació present al repo acaba cap al 22-12-2024.",
-   "refs_externes": [
-    "Decret del 22-12-2022 que regula la moratòria d'autoritzacions de construccions de parcs solars (no és al repo)"
-   ],
-   "temes": [
-    "urbanisme-i-habitatge",
-    "medi-ambient-i-territori"
-   ],
-   "text_complet": true,
-   "font_original": "originals/normativa-comu/decrets-comu/enc-decret-20231221-2022-regula-moratoria-autoritzacions-construccions.pdf",
-   "revisio": [
-    "Moratòria ampliada per 12 mesos; no hi ha cap ampliació posterior ni normativa nova al repo. Confirmeu si continua vigent."
-   ]
-  }
+  "accio": "excloure",
+  "path": null,
+  "motiu": "Exclòs a petició de la persona responsable (es revisarà si n'hi ha una versió més nova)"
  },
  {
   "origen": "Decret del 18-1-2024 d'estructura organitzativa del Comú d'Encamp",
@@ -5505,32 +5459,9 @@
  },
  {
   "origen": "2737E",
-  "accio": "proposta_descartar",
-  "path": "inbox/2737E.md",
-  "meta": {
-   "id": "enc-oferta-20020417-oferta-ocupacio-placa-salari-punts-fragment-bopa",
-   "titol": "Oferta d'ocupació del Comú d'Encamp (plaça amb salari de 180 punts) — fragment del BOPA",
-   "tipus": "oferta-ocupacio",
-   "ambit": "comu",
-   "organisme": "Comú d'Encamp",
-   "data_aprovacio": "2002-04-17",
-   "data_publicacio": "2002-04-24",
-   "referencia": "BOPA núm. 33, 24.04.2002",
-   "tipus_text": "oficial",
-   "estat": "caducat",
-   "estat_font": "deduït",
-   "entrada_vigor": "als 15 dies de la publicació al BOPA",
-   "data_entrada_vigor": "2002-05-09",
-   "data_fi_vigencia": "2002-12-31",
-   "vigencia_nota": "Anunci d'oferta d'ocupació del 2002, sense valor normatiu.",
-   "temes": [
-    "personal"
-   ],
-   "text_complet": true,
-   "revisio": [
-    "Proposta: descartar (anunci de plaça del 2002 sense valor normatiu)."
-   ]
-  }
+  "accio": "excloure",
+  "path": null,
+  "motiu": "Descartat: anunci d'una plaça del 2002 sense valor normatiu"
  },
  {
   "origen": "733D2 (3)",

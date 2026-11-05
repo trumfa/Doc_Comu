@@ -1,12 +1,12 @@
 # Proposta de classificació del primer bolcat
 
-Aquesta branca (`claude/gracious-hawking-sz6kxm`) conté la **proposta ja aplicada** sobre la bústia `inbox/`: cada document té el seu nom normalitzat, la seva carpeta i les metadades (inclosa la vigència). **`main` no s'ha tocat**: el que veus aquí no és definitiu fins que es fusioni.
+Aquesta branca (`claude/gracious-hawking-sz6kxm`) conté la **proposta aprovada i aplicada** sobre la bústia `inbox/`: cada document té el seu nom normalitzat, la seva carpeta i les metadades (inclosa la vigència). **`main` no s'ha tocat**: el que veus aquí no és definitiu fins que es fusioni.
 
 ## Resum
 
-- **193 documents** a la zona de consulta (`docs/`) i **12** a `arxiu/`.
-- **17 duplicats** eliminats (text idèntic o quasi idèntic), 3 documents nous creats en dividir un BOPA conjunt, 1 fitxer que proposo **descartar** (`inbox/2737E`).
-- **16 documents** amb algun punt a revisar (marcats ⚠ als índexs).
+- **192 documents** a la zona de consulta (`docs/`) i **11** a `arxiu/`.
+- **17 duplicats** eliminats (text idèntic o quasi idèntic), 3 documents nous creats en dividir un BOPA conjunt, 3 fitxers exclosos.
+- **15 documents** amb algun punt a revisar (marcats ⚠ als índexs).
 - Tots els PDF originals són a `originals/` amb el mateix nom que el seu `.md`.
 
 ## Estructura
@@ -16,7 +16,7 @@ Vegeu [`convencions/TAXONOMIA.md`](../convencions/TAXONOMIA.md) i l'índex gener
 | Carpeta | Documents |
 |---|---|
 | `arxiu/legislacio/lleis` | 5 |
-| `arxiu/normativa-comu/decrets-comu` | 2 |
+| `arxiu/normativa-comu/decrets-comu` | 1 |
 | `arxiu/normativa-comu/ordinacions` | 3 |
 | `arxiu/normativa-comu/reglaments-comu` | 1 |
 | `arxiu/politiques-internes/recursos-humans-i-etica` | 1 |
@@ -28,7 +28,7 @@ Vegeu [`convencions/TAXONOMIA.md`](../convencions/TAXONOMIA.md) i l'índex gener
 | `docs/legislacio/convenis-internacionals` | 2 |
 | `docs/legislacio/lleis` | 30 |
 | `docs/legislacio/reglaments-govern` | 24 |
-| `docs/normativa-comu/decrets-comu` | 23 |
+| `docs/normativa-comu/decrets-comu` | 22 |
 | `docs/normativa-comu/edictes-i-avisos` | 3 |
 | `docs/normativa-comu/ordinacions` | 40 |
 | `docs/normativa-comu/reglaments-comu` | 21 |
@@ -36,14 +36,18 @@ Vegeu [`convencions/TAXONOMIA.md`](../convencions/TAXONOMIA.md) i l'índex gener
 | `docs/politiques-internes/recursos-humans-i-etica` | 4 |
 | `docs/politiques-internes/seguretat-informacio` | 6 |
 
-## Per decidir
+## Decisions preses
 
-1. **Actes** (32): les he posades a `docs/actes-consell/<any>/` com a categoria nova (no era a la llista inicial). 10 són *projectes d'acta* (no signats). Voleu mantenir-los tots, o només els signats?
-2. **Textos refosos de la web del Consell General** («Text refós sense caràcter oficial») i el cas de la *Llei 31/2021*, *Llei 32/2017*, *LGOTU*: he conservat el refós més recent com a text principal i he mogut l'original/anterior a `arxiu/`. Us sembla bé?
-3. **`inbox/2737E`**: anunci d'una plaça del 2002 sense valor normatiu. Proposo descartar-lo (esborrar-lo).
-4. **Moratòria de parcs solars** i **Decret de fitxers de dades personals**: no puc saber si continuen vigents (vegeu «Vigència dubtosa»).
-5. **BOPA conjunt del 2015** (5 ordinacions): he creat 3 documents nous (cabanes, terrasses, rètols). Voleu mantenir també el BOPA conjunt sencer?
-6. **Resums**: les actes porten l'ordre del dia com a resum (automàtic). Per a la resta de documents el camp `resum` és buit; es pot omplir en una segona passada (amb la IA a la pàgina de pujada) un cop aprovada l'estructura.
+- **Actes**: es mantenen totes (signades i projectes), a `docs/actes-consell/<any>/`.
+- **Textos refosos / versions anteriors**: es conserva el més recent a `docs/` i l'anterior o l'original a `arxiu/`.
+- **BOPA conjunt del 2015**: es manté sencer i s'han creat 3 documents (cabanes, terrasses, rètols).
+- **Excloses**: `2737E` (anunci de plaça del 2002) i els dos decrets de la **moratòria de parcs solars** (a petició; es revisarà si n'hi ha una versió més nova). Nota: l'acta del 19-12-2024 (punt 3.3) aprova una nova ampliació de la moratòria que no és al repo, i les actes del 2025 indiquen que la regulació dels parcs solars passa a les Normes urbanístiques.
+
+## Pendent de confirmar
+
+- **Decret de fitxers de dades personals** (2013 i les dues modificacions): possiblement superat per la Llei 29/2021.
+- Resta de punts de «Documents a revisar» i de «Vigència: casos especials».
+- **Resums**: només les actes en tenen (ordre del dia, automàtic). Es poden omplir en una segona passada.
 
 ## Duplicats eliminats
 
@@ -76,7 +80,6 @@ Vegeu [`convencions/TAXONOMIA.md`](../convencions/TAXONOMIA.md) i l'índex gener
 | [Llei 31/2021, del 22 de novembre, de text consolidat qualificada de seguretat pública](arxiu/legislacio/lleis/and-llei-2021-031-text-consolidat-qualificada-seguretat-publica.md) | versio_anterior |  |
 | [Llei 4/2022, del 31 de gener, del pressupost per a l'exercici del 2022](arxiu/legislacio/lleis/and-llei-2022-004-pressupost-exercici-2022.md) | caducat | Pressupost de l'exercici 2022 (vigència anual, exhaurida). |
 | [Llei 1/2024, de l'1 de febrer, del pressupost per a l'exercici del 2024](arxiu/legislacio/lleis/and-llei-2024-001-pressupost-exercici-2024.md) | caducat | Pressupost de l'exercici 2024 (vigència anual, exhaurida). |
-| [Decret del 24-12-2021 de modificació del Decret del 25-6-2021 que regula la moratòria d'autoritzacions de cons](arxiu/normativa-comu/decrets-comu/enc-decret-20211224-regula-moratoria-autoritzacions-construccions-parc.md) | caducat | Primera ampliació de la moratòria (2021); substituïda per decrets posteriors. |
 | [Decret del 13-2-2023 de modificació del Decret d'estructura organitzativa del Comú d'Encamp](arxiu/normativa-comu/decrets-comu/enc-decret-20230213-estructura-organitzativa.md) | substituit | Substituït pel Decret d'estructura organitzativa del 18-1-2024. |
 | [Ordinació de Cabanes (2015)](arxiu/normativa-comu/ordinacions/enc-ord-20151105-cabanes.md) | substituit | Substituïda per l'Ordinació del 23-12-2021 de Cabanes. |
 | [Ordinació del 20-5-2022 per la qual s'acorda modificar l'Ordinació tributària per a l'any 2022](arxiu/normativa-comu/ordinacions/enc-ord-20220520-qual-s-acorda-modificar-tributaria.md) | caducat | Modifica l'ordinació tributària de l'any 2022 (vigència anual, exhaurida). |
@@ -93,7 +96,6 @@ Vegeu [`convencions/TAXONOMIA.md`](../convencions/TAXONOMIA.md) i l'índex gener
 **Amb data de fi (vigència limitada)**
 
 - `2005-08-31` [Reglament de creació i regulació del Consell Consultiu dels jardins d'infants del Comú d'Encamp (2004)](docs/normativa-comu/reglaments-comu/enc-reg-20040708-creacio-regulacio-consell-consultiu-jardins-infant.md)
-- `2024-12-22` [Decret del 21-12-2023 de modificació del Decret del 22 de desembre del 2022 que regula la moratòria d'autoritz](docs/normativa-comu/decrets-comu/enc-decret-20231221-2022-regula-moratoria-autoritzacions-construccions.md)
 - `2026-12-31` [Calendari de dies festius i horari intensiu oficines parròquia d'Encamp](docs/funcionament/enc-calendari-20251121-calendari-dies-festius-horari-intensiu-oficines.md)
 - `2026-12-31` [Pla d'igualtat del Comú d'Encamp 2023-2026](docs/funcionament/enc-pla-2023-pla-igualtat-2023-2026.md)
 - `2026-12-31` [Avís del 7-8-2026 pel qual es publica l'actualització de les taules salarials anuals del Comú d'Encamp per a l](docs/normativa-comu/edictes-i-avisos/enc-avis-20260807-avis-qual-publica-actualitzacio-taules-salarials-a.md)
@@ -110,7 +112,6 @@ Vegeu [`convencions/TAXONOMIA.md`](../convencions/TAXONOMIA.md) i l'índex gener
 - [Decret que regula els fitxers de dades personals del Comú d'Encamp (2013)](docs/normativa-comu/decrets-comu/enc-decret-20130218-regula-fitxers-dades-personals.md) — _dubtosa_: Regula els fitxers de dades personals del Comú (2013, modificat 2020 i 2021). Pot haver quedat superat per la Llei 29/2021 de protecció de dades.
 - [Decret del 9-10-2020 de modificació del Decret del 4-2-2013, que regula els fitxers de dades personals del Com](docs/normativa-comu/decrets-comu/enc-decret-20201009-regula-fitxers-dades-personals.md) — _dubtosa_: Modifica el Decret de fitxers de dades personals (2013), possiblement superat per la Llei 29/2021.
 - [Decret del 26-2-2021 de modificació del Decret del 4-2-2013, que regula els fitxers de dades personals del Com](docs/normativa-comu/decrets-comu/enc-decret-20210226-regula-fitxers-dades-personals.md) — _dubtosa_: Modifica el Decret de fitxers de dades personals (2013), possiblement superat per la Llei 29/2021.
-- [Decret del 21-12-2023 de modificació del Decret del 22 de desembre del 2022 que regula la moratòria d'autoritz](docs/normativa-comu/decrets-comu/enc-decret-20231221-2022-regula-moratoria-autoritzacions-construccions.md) — _dubtosa_: Amplia la suspensió d'autoritzacions de parcs solars 12 mesos «fins que el Comú publiqui una nova normativa». La darrera ampliació present al repo acaba cap al 22-12-2024.
 - [Ordinació de modificació de l'Ordinació de Medi Ambient i Via Pública (2017)](docs/normativa-comu/ordinacions/enc-ord-20171215-medi-ambient-via-publica.md) — _derogat_parcialment_: El nom original del fitxer indica «DEROGADA PARCIALMENT».
 - [Reglament de creació i regulació del Consell Consultiu dels jardins d'infants del Comú d'Encamp (2004)](docs/normativa-comu/reglaments-comu/enc-reg-20040708-creacio-regulacio-consell-consultiu-jardins-infant.md) — _dubtosa_: La durada del Consell era «fins el 31 d'agost del 2005, sense perjudici de la seva reelecció».
 - [Reglament de funcionament del consell dels infants-unicef (no publicat)](docs/normativa-comu/reglaments-comu/enc-reg-sd-funcionament-consell-infants-unicef-no-publicat.md) — _no_publicat_: El nom original del fitxer indica «no publicat».
@@ -122,7 +123,6 @@ Si les teniu, pugeu-les: completarien les cadenes de modificacions.
 - Llei 12/2004, del 30 de juny, de propietat horitzontal
 - Directrius d'ordenació del territori (text base)
 - Reglament de permisos administratius, del 6-11-2014 (derogat), i la seva modificació del 31-7-2014/2015
-- Decret del 22-12-2022 que regula la moratòria d'autoritzacions de construccions de parcs solars (no és al repo)
 - Decret d'estructura organitzativa anterior (substituït pel de 2024)
 - Ordinació de Cabanes de 2015 (és dins el BOPA conjunt del 18.11.2015)
 - Ordinació de la Mútua dels empleats del Comú d'Encamp (text base)
@@ -177,8 +177,6 @@ Si les teniu, pugeu-les: completarien les cadenes de modificacions.
   - Possible superació per la Llei 29/2021 i el seu reglament; confirmeu-ne la vigència.
 - [Decret del 5-11-2015 d'aprovació de cinc ordinacions comunals (Medi Ambient i Via Pública, aigua potable, caba](docs/normativa-comu/decrets-comu/enc-decret-20151105-cinc-ordinacions-comunals-medi-ambient-via-publica.md)
   - BOPA conjunt amb 5 ordinacions: només 2 (Medi Ambient i Via Pública, aigua potable) existeixen també soltes. Es proposa crear-ne 3 documents més (cabanes, terrasses, rètols).
-- [Decret del 21-12-2023 de modificació del Decret del 22 de desembre del 2022 que regula la moratòria d'autoritz](docs/normativa-comu/decrets-comu/enc-decret-20231221-2022-regula-moratoria-autoritzacions-construccions.md)
-  - Moratòria ampliada per 12 mesos; no hi ha cap ampliació posterior ni normativa nova al repo. Confirmeu si continua vigent.
 - [Especificacions tècniques de cartografia cadastral de la parròquia d'Encamp (2004)](docs/normativa-comu/ordinacions/enc-ord-20040407-especificacions-tecniques-cartografia-cadastral-20.md)
   - Retallat el final de l'Ordinació del cadastre (norma anterior, fragment).
 - [Ordinació general de regulació del cadastre comunal (2004)](docs/normativa-comu/ordinacions/enc-ord-20040407-general-regulacio-cadastre-comunal.md)
