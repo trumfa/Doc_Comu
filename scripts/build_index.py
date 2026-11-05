@@ -3,9 +3,9 @@
 
   python3 scripts/build_index.py [--avui AAAA-MM-DD]
 
-Escriu: catalog.json, INDEX.md, VIGENCIA.md i un INDEX.md a cada carpeta amb documents.
+Escriu: catalog.json, fingerprints.json, INDEX.md, VIGENCIA.md i un INDEX.md a cada carpeta amb documents.
 """
-import json, sys, datetime, collections
+import json, re, sys, zlib, hashlib, datetime, collections
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import ROOT, iter_docs, read_doc
@@ -137,6 +137,24 @@ def write_vigencia(docs):
     (ROOT / 'VIGENCIA.md').write_text('\n'.join(out) + '\n', encoding='utf-8')
 
 
+def norm_text(text):
+    text = re.sub(r'^>.*$', '', text, flags=re.M)
+    return re.sub(r'\W+', ' ', text.lower()).strip()
+
+
+def write_fingerprints():
+    """Empremtes del text (hash + mostra de «shingles») per detectar duplicats des de la pàgina de pujada.
+    L'algoritme el replica lib/similar.js de pdf-to-md: no el canvieu sense canviar l'altre."""
+    out = {}
+    for zona, p in iter_docs():
+        meta, body = read_doc(p)
+        t = norm_text(body)
+        w = t.split()
+        sh = sorted({h for i in range(len(w) - 5) if (h := zlib.crc32(' '.join(w[i:i + 6]).encode('utf-8'))) % 16 == 0})
+        out[meta.get('id', p.stem)] = {'h': hashlib.sha1(t.encode('utf-8')).hexdigest()[:16], 'n': len(w), 's': sh}
+    (ROOT / 'fingerprints.json').write_text(json.dumps(out, separators=(',', ':')) + '\n', encoding='utf-8')
+
+
 def main():
     docs = load()
     docs.sort(key=lambda m: m['id'])
@@ -144,6 +162,7 @@ def main():
     write_folder_indexes(docs)
     write_root(docs)
     write_vigencia(docs)
+    write_fingerprints()
     print(f'{len(docs)} documents indexats ({sum(1 for m in docs if m["zona"] == "docs")} a docs/, {sum(1 for m in docs if m["zona"] == "arxiu")} a arxiu/).')
 
 

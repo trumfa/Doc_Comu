@@ -1,0 +1,38 @@
+name: Regenera els índexs
+
+# Quan canvien els documents (p. ex. des de la pàgina de pujada), es regeneren els índexs,
+# el catàleg, l'informe de vigència i les empremtes, i es valida el repositori.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'arxiu/**'
+      - 'scripts/**'
+      - '!**/INDEX.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  indexos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Genera els índexs
+        run: python3 scripts/build_index.py
+      - name: Valida
+        run: python3 scripts/validate.py
+      - name: Desa els canvis
+        run: |
+          git config user.name "indexos-bot"
+          git config user.email "indexos-bot@users.noreply.github.com"
+          git add -A INDEX.md VIGENCIA.md catalog.json fingerprints.json docs arxiu
+          if git diff --cached --quiet; then echo "Sense canvis"; else
+            git commit -m "Actualitza els índexs automàticament"
+            git push
+          fi
