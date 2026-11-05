@@ -1,0 +1,704 @@
+---
+id: "and-llei-2016-018-designacio-carreteres-gestio-xarxa-viaria"
+titol: "Llei 18/2016, del 30 de novembre, de designació de carreteres i gestió de la xarxa viària"
+tipus: "llei"
+ambit: "estat"
+organisme: "Consell General d'Andorra"
+numero: "18/2016"
+data_aprovacio: 2016-11-30
+tipus_text: "refos-no-oficial"
+estat: "vigent"
+estat_font: "deduït"
+entrada_vigor: "l'endemà de la publicació al BOPA"
+temes: ["mobilitat-i-circulacio"]
+text_complet: true
+font_original: "originals/legislacio/lleis/and-llei-2016-018-designacio-carreteres-gestio-xarxa-viaria.pdf"
+---
+
+# Llei 18/2016, del 30 de novembre, de designació de carreteres i gestió de la xarxa viària
+
+Llei 18/2016, del 30 de novembre, de designació de carreteres i gestió de la xarxa viària (Text refós sense caràcter oﬁcial)
+
+## Índex
+
+[Mostra/Amaga]
+
+## Exposició de motius
+
+Capítol primer. Disposicions generals
+
+Article 1. Objecte
+
+Article 2. Deﬁnicions
+
+Article 3. Titularitat
+
+Article 4. Règim jurídic de les carreteres generals Article 5. Règim jurídic de les carreteres secundàries Article 6. Traspàs de titularitat d’una via de circulació Article 7. Amplades de les carreteres generals
+
+Article 8. Amplades de les carreteres secundàries i els carrers Capítol segon. La gestió de la xarxa viària
+
+Article 9. Normes generals de la xarxa bàsica de vials Article 10. Gestió de les vies de circulació Article 11. Gestió de la xarxa bàsica de vials Article 12. Actuacions viàries
+
+Article 13. Senyalització viària
+
+Article 14. La Taula nacional de mobilitat
+
+## Disposició derogatòria
+
+Disposició ﬁnal primera
+
+Disposició ﬁnal segona
+
+## ANNEX I. Directori de carreteres generals
+
+## ANNEX II. Xarxa bàsica de vials
+
+## ANNEX III. Directori de carreteres secundàries
+
+Llei 18/2016, del 30 de novembre, de designació de carreteres i gestió de la xarxa viària
+
+Atès que el Consell General en la seva sessió del dia 30 de novembre del 2016 ha aprovat la següent:
+
+LLei 18/2016, del 30 de novembre, de designació de carreteres i gestió de la xarxa viària
+
+## Exposició de motius
+
+Mitjançant la Llei 7/2005, del 21 de febrer, de designació de carreteres, el Consell General va promulgar un text legal que, per primera vegada, regulava la circulació viària del Principat des d’un punt de vista global, substituint en bona part les antigues ordinacions adoptades des de ﬁnals de la dècada de 1960 i ﬁns als inicis dels anys 1990.
+
+D’aquesta manera, s’aportaren solucions uniformes a la nomenclatura viària, designant amb claredat les carreteres generals i deﬁnint titularitats.
+
+Tanmateix, es creà la xarxa bàsica de vials i es deﬁní la seva gestió als efectes d’ordenar el trànsit rodat des d’un punt de vista general, millorant la circulació rodada entre les parròquies i l’entrada i sortida de vehicles del Principat, especialment en aquells moments de màxima aﬂuència. Finalment, la Llei introduí en annex el Directori de carreteres generals i el llistat de vials inclosos dins de la xarxa bàsica de vials.
+
+L’actual Llei pretén actualitzar el text legal de l’any 2005 i millorar-lo en diversos aspectes.
+
+En primer lloc, el capítol primer de la Llei precisa conceptualment el que s’entén per vies de comunicació i, dins d’aquestes, les que tenen la consideració de carreteres o carrers i, conseqüentment, queden regulades per la Llei; es precisa igualment el règim aplicable a la titularitat, diferenciant clarament el règim jurídic aplicable a les carreteres generals i a les carreteres secundàries; i es regulen les modalitats de traspàs de titularitat de les vies de circulació, així com les amplades, en tots els casos.
+
+En segon lloc, el capítol segon recull la normativa aplicable a la gestió de la xarxa viària, que es composa bàsicament de les disposicions aplicables a la xarxa bàsica de vials i a la seva gestió, i que és on el present text legal ha innovat menys, tenint en compte que el sistema que ja es va dissenyar l’any 2005 ha acomplert sobradament els objectius que es marcaren en el seu moment. Això no obstant, s’ha completat el text amb diverses disposicions que precisen les titularitats sobre la senyalització viària entre les administracions concernides.
+
+Finalment, la Llei inclou en annex el Directori de carreteres generals, amb un detall precís del seu traçat en la seva situació actual, per bé que en endavant l’actualització del Directori és conﬁat pel text legal al Govern als efectes d’adaptar la realitat canviant amb la regulació jurídica de la xarxa viària. També es recull en annex la xarxa bàsica de vials actualitzada si bé, com en el cas anterior, la Llei conﬁa al Govern la seva actualització periòdica, en funció de les circumstàncies canviants de cada moment. I en darrer terme, el text legal ha inclòs també en annex el Directori de carreteres secundàries, deﬁnint amb precisió llur traçat i llurs característiques bàsiques.
+
+Les competències relatives a carreteres estan regulades per la Llei qualiﬁcada de delimitació de competències dels Comuns, complementada en algun aspecte concret per la Llei qualiﬁcada de transferències als Comuns. La present Llei és respectuosa -com no pot ser d’una altra manera- amb el marc competencial vigent.
+
+Pels motius expressats, s’aprova la present Llei de designació de carreteres i gestió de la xarxa viària, amb el contingut següent:
+
+Capítol primer. Disposicions generals
+
+Article 1. Objecte
+
+És objecte d’aquesta Llei establir el règim jurídic, designació, regulació, classiﬁcació i gestió de les carreteres d’Andorra, així com d’assegurar la mobilitat viària.
+
+Article 2. Deﬁnicions
+
+1. Són vies públiques, les vies de comunicació de domini públic que permeten circular vehicles i/o vianants d’un indret a un altre.
+
+2. Les carreteres són vies públiques interurbanes; i els carrers, les avingudes i els passejos, entre d’altres, són vies públiques urbanes.
+
+3. Els carrers que es troben inclosos dins de la xarxa bàsica de vials tenen la consideració de carreteres i queden sotmesos a les prescripcions d’aquesta Llei.
+
+4. S’entén per variant un nou traçat viari que uneix una mateixa carretera d’un punt a un altre.
+
+5. No tenen la consideració de carreteres:
+
+a) Els camins de servei. S’entén per camí de servei el construït com element auxiliar i secundari amb ﬁnalitats altres que la sola circulació de vehicles.
+
+b) Les vies i zones habilitades exclusivament per a vianants, els camins comunals i de muntanya.
+
+c) Els camins privats. S’entenen per camins privats aquells que hagin estat construïts per persones privades per a ús privat i quina afectació es trobi en terreny de titularitat privada.
+
+Article 3. Titularitat
+
+1. Per la seva titularitat, les vies de circulació de vehicles es classiﬁquen en carreteres generals, carreteres secundàries i carrers.
+
+2. Les carreteres generals són de titularitat de Govern.
+
+3. Les carreteres secundàries i els carrers són de titularitat d’un comú.
+
+4. Per defecte, totes les vies públiques de circulació de vehicles que la Llei no designa com a carreteres generals si el seu traçat no ﬁgura en el Directori de carreteres generals, queden de titularitat dels comuns.
+
+Article 4. Règim jurídic de les carreteres generals
+
+1. El llistat i el traçat precís de cada una de les carreteres generals és el que es detalla en el Directori de carreteres generals, que ﬁgura com a annex I.
+
+2. Les vies de circulació compreses en el Pla sectorial de noves infraestructures viàries, amb les successives modiﬁcacions que el Govern aprovi, i aquelles altres vies de circulació que el Govern projecti i construeixi en seguiment d’un projecte d’interès nacional adquireixen la condició de carreteres generals a partir de la seva posada en servei. En aquell moment, el Govern les incorpora al Directori de carreteres generals, tot identiﬁcant-les amb un número i un nom.
+
+3. Són igualment carreteres generals les vies de circulació que siguin cedides pels particulars en execució de la planiﬁcació o traspassades pels comuns al Govern, i incloses dins del Directori de carreteres generals.
+
+4. Es faculta el Govern per tal d’actualitzar per decret el Directori de carreteres generals, d’acord amb les incorporacions o desagregacions de vies de circulació que resultin de l’aplicació de la present Llei.
+
+Article 5. Règim jurídic de les carreteres secundàries
+
+Són carreteres secundàries les següents:
+
+1. Les que siguin de titularitat dels comuns.
+
+2. Les vies de circulació que siguin traspassades pel Govern als comuns.
+
+3. Les vies de circulació que siguin cedides pels particulars als comuns en execució de la planiﬁcació, salvat les vies, vials o trams de vies que s’hagin d’incorporar a la xarxa de carreteres generals, que seran remesos directament pels particulars al Govern, d’acord amb el que estableix la normativa urbanística en vigor.
+
+Article 6. Traspàs de titularitat d’una via de circulació
+
+1. El Govern pot traspassar als comuns la titularitat sobre trams de carreteres generals sempre que quedi garantida la circulació i la mobilitat viàries equivalents a través d’una variant o desviació de competència del Govern. En aquests casos els traspassos de titularitat es formalitzen a través d’un conveni.
+
+2. El traspàs de titularitat d’una carretera secundària o d’un carrer, per part d’un comú al Govern, s’efectuarà d’acord amb el procediment legislatiu.
+
+Article 7. Amplades de les carreteres generals
+
+1. Les carreteres generals tenen, com a mínim, una amplada de 20 metres, amb les excepcions regulades a l’apartat 3. Aquestes amplades han de ser incrementades en els revolts i en la zona de transició a revolt, amb els corresponents sobreamples.
+
+L’amplada d’aquells trams de carretera general en què el vial hagi estat desdoblat serà l’equivalent, com a mínim, a l’amplada deﬁnida anteriorment comptant els dos traçats. Atenent a la seva especiﬁcitat tècnica i a les seves particulars condicions de circulació, en el cas dels túnels i dels seus accessos, l’amplada pot ser inferior a la deﬁnida per al tram, sempre que es garanteixi que la capacitat de trànsit és igual o superior a la dels trams a cel obert.
+
+2. El Govern deﬁneix en cada tram d’una carretera general la distribució de l’amplada de la carretera en carrils per a vehicles en general, per a vehicles de velocitat lenta, per a bicicletes, voreres o altres parts reservades a vianants, carrils dedicats de forma exclusiva o preferent a vehicles de transport públic, carrils de gir o espais dedicats per a maniobres, bandes d’aparcament, o altres ﬁns especíﬁcs propis de la mobilitat, en funció de la intensitat del trànsit, de les característiques del traçat, dels moviments d’entrada i sortida de vehicles des dels terrenys i parcel·les que hi limiten, de la previsió de bicicletes i vianants, i d’altres criteris tècnics.
+
+3. L’amplada deﬁnida en l’apartat 1 només pot ésser inferior en els supòsits següents:
+
+a) En aquells trams de carretera general existents amb anterioritat a la promulgació de la present Llei que ja tinguin una amplada deﬁnitiva d’acord amb el projecte de traçat deﬁnitiu aprovat en el seu dia pel Govern.
+
+En aquells trams de carretera general en travessia urbana es manté l’amplada normativa ﬁxada per les ordinacions aprovades pel Consell General.
+
+El Govern, mitjançant el Pla sectorial al que es refereix l’apartat 4, delimita amb precisió el traçat d’aquests trams.
+
+b) Excepcionalment, el Govern pot modiﬁcar l’amplada de les carreteres generals quan existeixin raons que justiﬁquin la mesura o quan l’estudi d’impacte medi ambiental previ ho aconselli.
+
+Si la mesura comporta la disminució de l’amplada, caldrà veriﬁcar la inﬂuència de la modiﬁcació sobre la mobilitat viària i la coordinació territorial supracomunal. A aquest efecte, es requereix prèviament l’informe favorable de la Taula nacional de mobilitat.
+
+En tot cas, les mesures de disminució de l’amplada de les carreteres generals no poden afectar l’eix viari comprès entre la frontera del riu Runer i la frontera del Pas de la Casa.
+
+La reducció de l’amplada del vial no comportarà en cap cas un increment de l’aproﬁtament urbanístic.
+
+4. El Directori de carreteres generals, que ﬁgura com a annex I, és complementat pel Govern a través d’un Pla sectorial, amb la ﬁnalitat de deﬁnir el traçat geomètric precís de cadascuna de les carreteres generals establertes per aquesta Llei, així com de les seves variants.
+
+Article 8. Amplades de les carreteres secundàries i els carrers
+
+1. Els comuns deﬁneixen les amplades de les carreteres secundàries i els carrers mitjançant els plans d’ordenació i urbanisme parroquials. En cas de variació d’amplada respecte a la situació anterior, se seguiran els procediments regulats per la Llei general d’ordenació del territori i urbanisme per a l’alteració dels continguts dels plans. El Govern, en el marc de l’aprovació prèvia corresponent al canvi del POUP, veriﬁcarà la inﬂuència de la variació d’amplada del vial sobre la mobilitat nacional i la coordinació territorial supracomunal. En el supòsit que es modiﬁqui l’amplada d’una carretera secundària o un carrer que forma part de la xarxa bàsica de vials, el Govern requerirà preceptivament informe previ de la Taula nacional de mobilitat.
+
+2. En el moment d’entrada en vigor d’aquesta Llei les amplades de les carreteres secundàries són les que ﬁguren a l’annex III.
+
+3. Les carreteres secundàries independentment de discórrer per una o més parròquies han de mantenir l’amplada establerta a l’annex III en tot el seu recorregut. No obstant això, en aquells trams on es pugui justiﬁcar per raons de sostenibilitat, de preservació paisatgística de conservació del medi natural o de preservació dels nuclis poblacionals existents, els comuns podran establir justiﬁcadament i mitjançant els plans d’ordenació i urbanisme parroquials amplades inferiors.
+
+4. La reducció d’amplada d’un vial no comporta en cap cas increment de l’aproﬁtament urbanístic.
+
+Capítol segon. La gestió de la xarxa viària
+
+Article 9. Normes generals de la xarxa bàsica de vials
+
+1. La xarxa bàsica de vials té la ﬁnalitat de fer possible la circulació de vehicles entre parròquies, i entre aquestes i els principals passos fronterers, en condicions de seguretat i d’alta intensitat del trànsit.
+
+La xarxa bàsica de vials ha de permetre la continuïtat del trànsit rodat interparroquial i internacional a través dels nuclis urbans; ha d’evitar o minimitzar les repercussions del trànsit urbà sobre les carreteres generals, i ha de possibilitar solucions alternatives per mantenir la circulació de vehicles en situacions excepcionals.
+
+2. Totes les carreteres generals formen part de la xarxa bàsica de vials.
+
+3. Amb caràcter complementari, conformen també la xarxa bàsica de vials aquelles carreteres secundàries o trams de carreteres secundàries que es detallen a l’annex II.
+
+4. El Govern procedeix per decret a actualitzar el llistat de carreteres de l’annex II que conformen la xarxa bàsica de vials.
+
+Article 10. Gestió de les vies de circulació
+
+1. Als efectes d’aquesta Llei es considera gestió d’una via de circulació les activitats de deﬁnició dels sentits de circulació, ordenació del trànsit, determinació de girs permesos o prohibits i altres actuacions anàlogues o complementàries.
+
+2. Les competències del Govern relatives a la gestió de la xarxa bàsica de vials i a la mobilitat són exercides pel Ministeri competent en matèria de mobilitat.
+
+Article 11. Gestió de la xarxa bàsica de vials
+
+L’administració titular de cada via de circulació és competent per a gestionar-la. Això no obstant, quan es tracti de vials compresos en la xarxa bàsica de vials o de vials que hi connectin directament, l’administració titular de la via de circulació no podrà modiﬁcarne substancialment la capacitat de trànsit de vehicles o la funcionalitat sense l’informe favorable de la Taula nacional de mobilitat.
+
+Article 12. Actuacions viàries
+
+1. L’administració titular d’una via de circulació és competent per concedir autoritzacions d’ocupació temporal, obertura de rases, tancament per a manifestacions esportives o altres, d’acord amb les regles següents:
+
+a) En trams interurbans de carreteres generals es requereix l’autorització del Govern. El Govern comunicarà l’ocupació o tancament de la carretera al comú o comuns afectats.
+
+b) En trams urbans de carreteres generals es requereix l’autorització del Govern i del comú.
+
+c) En carreteres secundàries i carrers que no formin part de la xarxa bàsica de vials es requereix l’autorització del comú.
+
+d) En carreteres secundàries i carrers que formin part de la xarxa bàsica de vials es requereix l’autorització del comú. En aquest cas el comú ha de demanar informe previ al Govern, el qual podrà formular observacions relatives a les condicions o horaris en què ha de dur-se a terme l’ocupació o el tancament, o formular-ne motivadament oposició. El Govern valora, exclusivament, les repercussions de l’actuació prevista sobre la circulació de vehicles en la xarxa bàsica de vials, tenint present les previsions del trànsit per al període i les altres restriccions existents o projectades simultàniament. El Govern pot formular solucions alternatives per mantenir la circulació de vehicles, que són d’obligatori compliment. En el cas que l’ocupació o tancament tingui una durada inferior a vuit dies, el Govern disposa de vuit dies per emetre l’informe. En el cas que l’ocupació o tancament tingui una durada igual o superior a vuit dies, el Govern disposa de quinze dies per emetre l’informe. El silenci guardat per Govern té el valor d’informe favorable.
+
+El Govern i els comuns, en els seus àmbits respectius, poden desenvolupar les regles anteriors mitjançant normativa especíﬁca.
+
+El termini de resolució és, en tots els casos, de quinze dies si l’ocupació o tancament ha de tenir una durada inferior a vuit dies, i de vint-i-cinc dies si l’ocupació o tancament ha de tenir una durada igual o superior a vuit dies. El silenci guardat per Govern o comuns té el valor de resolució favorable.
+
+Els promotors de l’ocupació o tancament de la via han d’adreçar la sol·licitud corresponent al Govern i/o al comú, segons escaigui. En el cas que es tracti d’ocupacions o tancaments promoguts pel comú, per als supòsits anteriors a), b) i d), el comú ha de demanar al Govern l’informe regulat pel punt d).
+
+2. S’exceptuen del règim regulat per l’apartat anterior les actuacions següents:
+
+a) Les actuacions promogudes directament pel Ministeri competent en matèria de carreteres que tinguin per objecte l’explotació i manteniment de la via, que seran objecte d’una comunicació prèvia al comú corresponent.
+
+b) Les intervencions que tinguin per objecte efectuar reparacions de caràcter urgent al vial o a les xarxes de serveis que discorren pel seu subsòl, que únicament són objecte de la comunicació prevista a l’apartat següent.
+
+3. Les resolucions que comportin tancament, ocupació o imposició de restriccions de circulació en un vial que forma part de la xarxa bàsica de vials, són comunicades immediatament al centre d’informació i de gestió del trànsit, i són posades en coneixement dels usuaris per mitjà dels mecanismes que aprovi la Taula nacional de mobilitat.
+
+Article 13. Senyalització viària
+
+1. La senyalització viària s’adapta al Catàleg oﬁcial dels senyals de circulació i de les marques viàries que estableix el Codi de la circulació.
+
+2. L’administració titular d’una via de circulació és competent per deﬁnir i determinar l’emplaçament dels senyals de circulació.
+
+3. Això no obstant, el Govern determina la situació, contingut i tipus de senyals de totes les vies que conformen la xarxa bàsica de vials, assumint les despeses derivades de la instal·lació dels senyals que es determinin, excepte en els supòsits següents:
+
+a) La senyalització horitzontal i vertical de les zones d’estacionament limitat, càrrega i descàrrega, parades de transport públic i taxis, així com de les zones de reserva d’estacionament dins de zones urbanes, que corresponen als comuns.
+
+b) Els senyals d’informació o d’orientació comercial, l’autorització dels quals correspon a l’administració titular de la via i el cost és assumit per l’empresa o persona sol·licitant.
+
+c) La senyalització horitzontal dins dels nuclis urbans que correspon als comuns, els quals han d’obtenir el previ informe de la Taula nacional de mobilitat en el supòsit previst a l’article 11.
+
+Article 14. La Taula nacional de mobilitat
+
+1. La Taula nacional de mobilitat és l’òrgan de coordinació del Govern i dels comuns en matèria de gestió del trànsit, especialment de la xarxa bàsica de vials.
+
+2. La Taula nacional de mobilitat té les funcions següents:
+
+a) Coordinar l’actuació de les administracions en matèria d’ordenació del trànsit i gestió dels vials que formen part de la xarxa bàsica de vials.
+
+b) Informar, amb caràcter preceptiu, aquells actes de gestió d’una via compresa en la xarxa bàsica de vials que es proposa dur a terme l’administració titular i que modiﬁquen substancialment la capacitat de trànsit de vehicles o la funcionalitat.
+
+c) Proposar a l’administració titular d’una via l’adopció de mesures que milloren la capacitat de trànsit de vehicles o la funcionalitat.
+
+d) Preparar plans de mobilitat per activar-los en situacions previsibles de gran aﬂuència de trànsit o en altres situacions especials o excepcionals, com ara catàstrofes naturals, nevades excepcionals, accidents múltiples, grans manifestacions esportives o altres equiparables.
+
+e) Proposar al Govern la modiﬁcació de la xarxa bàsica de vials.
+
+f) Elevar al Govern i als comuns qualsevol altra proposta que tingui per convenient en matèria de gestió de la xarxa bàsica de vials, mobilitat i gestió del trànsit.
+
+g) Informar en els restants supòsits previstos en la present Llei.
+
+3. La Taula nacional de mobilitat es composa de dos òrgans: el Ple i la Taula tècnica de gestió del trànsit.
+
+4. El Ple està format pels membres següents: el ministre que té atribuïdes les competències en matèria de mobilitat, que la presideix; el ministre que té atribuïdes les competències en matèria d’interior; el director de la policia; el cònsol major o menor de cada parròquia, i el director de l’Administració General competent en mobilitat. El president, per iniciativa pròpia o a instància de qualsevol dels membres, pot convidar a participar a les reunions del Ple, qualsevol altra persona que pugui aportar els seus coneixements tècnics per a l’examen dels temes de l’ordre del dia.
+
+5. La Taula tècnica de gestió del trànsit està formada pels membres següents: el director de la policia, o el càrrec en qui delegui, que n’assumeix la presidència; el cap del servei de trànsit de cada parròquia, i el director de l’Administració General competent en mobilitat, o persona en qui delegui; pot participar també en les seves reunions qualsevol altra persona convocada pel president i que pugui aportar els seus coneixements tècnics per a l’examen dels temes de l’ordre del dia. Té per funció preparar les reunions del Ple, i també assumeix les funcions de coordinació i execució que li delegui el Ple, en particular, en aquelles situacions en què, per raó de la previsible gran aﬂuència de trànsit, és necessària una gestió que inclogui tot el territori del Principat d’Andorra com una única unitat de gestió.
+
+6. El Ple de la Taula nacional de mobilitat es reuneix dues vegades a l’any, en sessió ordinària. Es reuneix també en sessió extraordinària, tantes vegades com sigui convocada pel president, per iniciativa pròpia o a petició de tres dels seus membres. La taula tècnica es reuneix en sessió ordinària una vegada cada trimestre, i pot reunir-se en sessió extraordinària tantes vegades com sigui convocada pel seu president, per iniciativa pròpia o a petició de qualsevol dels seus membres.
+
+7. La Taula nacional de mobilitat aprova el seu reglament intern mitjançant acord del Ple, adoptat per iniciativa pròpia, en allò que el concerneix, i a proposta de la Taula tècnica de gestió del trànsit, en el que afecta aquesta.
+
+El Ministeri competent en mobilitat facilita la infraestructura tècnica de la Taula nacional de mobilitat; les despeses de funcionament que ocasioni aquesta són assumides pel Govern.
+
+## Disposició derogatòria
+
+Queden derogades totes les disposicions que s’oposen a la present Llei.
+
+Disposició ﬁnal primera
+
+El Govern regula, respecte a la qualitat i a les especiﬁcacions tècniques a emprar, per dissenyar i construir les carreteres segons la normativa vigent utilitzant els materials homologats per la Unió Europea.
+
+Disposició ﬁnal segona
+
+Aquesta Llei entra en vigor l’endemà de la seva publicació al Butlletí Oﬁcial del Principat d’Andorra.
+
+Casa de la Vall, 30 de novembre del 2016
+
+Vicenç Mateu Zamora Síndic General
+
+Nosaltres els coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oﬁcial del Principat d’Andorra.
+
+Joan Enric Vives Sicília
+
+Bisbe d’Urgell Copríncep d’Andorra François Hollande
+
+President de la República Francesa
+
+Copríncep d’Andorra
+
+## ANNEX I. Directori de carreteres generals
+
+El traçat de les carreteres generals és el que, per a cada una d’elles, es detalla a continuació:
+
+Carretera General núm. 1 (CG1)
+
+Té el seu inici a Andorra la Vella a la rotonda del carrer de la Unió coneguda per “quilòmetre zero”, segueix en sentit descendent per l’av. Tarragona, l’av. Salou, i el vial de desviació de Santa Coloma que discorre pel marge esquerre del Valira ﬁns a la rotonda de la Margineda, entra a la Parròquia de Sant Julià de Lòria a la zona de la Margineda, travessa la rotonda d’Aixovall, discorre per la desviació de Sant Julià de Lòria (túnel de la Tàpia i vial pel marge dret del Valira) ﬁns a la l’enllaç amb l’av. Francesc Cairat a la plaça Laurèdia, i, des d’aquest punt, prossegueix per l’av. Francesc Cairat, i té el seu ﬁnal a la frontera del riu Runer.
+
+Carretera General 1-A (CG1-A)
+
+Té l’origen al pont de Santa Coloma, segueix pel carrer Verge del Remei, rotonda de Santa Coloma i av. d’Enclar ﬁns a la rotonda de la Margineda.
+
+Carretera General núm. 2 (CG2)
+
+Té el seu inici a Andorra la Vella a la rotonda del carrer de la Unió coneguda per “quilòmetre zero”, segueix en sentit ascendent per la carretera de l’Obac, la carretera d’Engolasters en sentit descendent, entra a la Parròquia d’Encamp a la zona de FEDA discorrent pels dos marges del riu Valira d’Orient i per l’av. de la Bartra, inclou la corba sobre el Valira i el túnel, ambdós a la zona de Ràdio Andorra, segueix pel vial de desviació d’Encamp per l’Obac, entra a la Parròquia de Canillo pel torrent Pregó, segueix per Racons, travessa els pobles de Canillo i Soldeu, torna a entrar a la Parròquia d’Encamp a la zona d’Envalira, discorre pel port d’Envalira i per l’av. del Consell General del Pas de la Casa, i té el seu ﬁnal a la frontera amb França.
+
+Carretera General núm. 2-A (CG2-A)
+
+Té l’origen a la rotonda de Grau Roig, discorre pel túnel d’Envalira i el viaducte sobre el riu Arieja, i ﬁnalitza a la frontera amb França.
+
+Carretera General núm. 3 (CG3)
+
+Té l’origen a la rotonda del carrer de la Unió coneguda per “quilòmetre zero”, segueix pel carrer de la Unió i el carrer del Valira, rotonda coneguda com a “dama de gel”, i túnel del Pont Pla, discorre pels túnels de Sant Antoni i creua la vila de la Massana a través de les av. de Sant Antoni i del Través, entra a la Parròquia d’Ordino per l’av. del Lloser, creua Ordino per la travessia d’Ordino i l’av. de les Moles, i segueix ﬁns al pont del Castellar, on té el seu ﬁnal.
+
+Carretera General núm. 3-A (CG3-A)
+
+Té l’origen a l’enllaç del túnel dels Dos Valires amb la carretera general núm. 2, segueix pel túnel i acaba a l’enllaç d’aquest amb la carretera general núm. 3.
+
+Carretera General núm. 4 (CG4)
+
+Té el seu inici a la rotonda de la plaça del Quart, a l’encreuament amb la carretera general núm. 3 a la Massana, i té el seu ﬁnal al port de Cabús, a la frontera amb Espanya.
+
+Carretera General núm. 5 (CG5)
+
+Té el seu inici a la cruïlla d’Erts, i té el seu ﬁnal al pont Pedregat d’Arinsal.
+
+Carretera General núm. 6 (CG6)
+
+Té el seu inici a Sant Julià de Lòria a la rotonda d’Aixovall, a l’encreuament amb la carretera general núm. 1, i té el seu ﬁnal al pas fronterer amb Espanya a la vall del riu d’Ós.
+
+## ANNEX II. Xarxa bàsica de vials
+
+La xarxa bàsica de vials comprèn aquelles vies de circulació que, per a cada parròquia, es detallen a continuació:
+
+Canillo
+
+CG2 CS 240 Montaup
+
+Encamp
+
+CG2
+
+CG2-A
+
+Av. de Joan Martí
+
+Av. de François Mitterrand
+
+Carrer de Sant Jordi del Pas de la Casa Carrer Major del Pas de la Casa
+
+Ordino
+
+CG3
+
+CS 340 coll d’Ordino
+
+CS 380 Arcalís
+
+La Massana
+
+CG3
+
+CG4
+
+CG5
+
+CS 320 Sispony, des de la connexió amb la CG3 ﬁns a la connexió amb la CS 321 CS 321 Sispony els Plans
+
+CS 330 Escàs, des de la connexió amb la CG3 (Carrer Major) ﬁns a la connexió amb la CS 321 CS 335 Aldosa
+
+CS 310 Anyós, des de la connexió amb la CG3 ﬁns a la connexió amb la CS 335
+
+Andorra la Vella
+
+CG1 CG1-A CG3 Av. d’Enclar Av. Santa Coloma Av. Príncep Benlloch Av. Meritxell C/ Prat de la Creu C/ Bonaventura Armengol C/ Baixada del Molí C/ Doctor Nequi C/ Mn. Cinto Verdaguer C/ Mn. Tremosa C/ les Canals Av. Consell d’Europa C/ Doctor Vilanova Av. Doctor Mitjavila
+
+Sant Julià de Lòria
+
+CG1 CG6 Enllaç de la plaça Laurèdia Av. Verge de Canòlic
+
+Escaldes-Engordany
+
+CG2
+
+CG3
+
+Av. de les Escoles
+
+Av. Copríncep de Gaulle
+
+Av. del Pessebre
+
+Av. Carlemany, entre l’avinguda de les Escoles i la placeta del Madriu Av. del Pont de la Tosca
+
+Av. Fiter i Rossell
+
+C/ Josep Viladomat
+
+C/ Esteve Albert
+
+C/ de la Unió
+
+Av. del Fener
+
+C/ Nacions Unides
+
+C/ de la Constitució
+
+C/ del Prat Gran
+
+C/ del Parnal
+
+## ANNEX III. Directori de carreteres secundàries
+
+Les carreteres secundàries tenen el traçat i les amplades (amb els increments en els revolts i en les zones de transició a revolt que es determinen reglamentàriament) que ﬁguren a continuació.
+
+En tots els casos que a continuació es relacionen, l’abreviatura V es refereix a amplada mínima de voravia, i l’abreviatura C, a dimensió mínima de carril de circulació. El/s carril/s conformen la calçada de circulació de vehicles per addició, i la calçada és la dimensió o l’espai lliure entre vorades.
+
+Carretera de la Comella i de la Plana (CS101)
+
+Té el seu origen a la CG1, a la rotonda de la Comella, i la seva ﬁnalització a la conﬂuència amb la CS200, al pont del riu Madriu.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Cal Rosselló (CS102)
+
+Té el seu origen a la CS101, a la Comella, i la seva ﬁnalització al Centre de tractament de residus d’Andorra (CTRA).
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Certers (CS120)
+
+Té el seu origen a Sant Julià de Lòria, a la plaça Laurèdia, i la seva ﬁnalització a Certers.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de la Rabassa (CS130)
+
+Té el seu origen a Sant Julià de Lòria, a la plaça Laurèdia, i la seva ﬁnalització al Camp de neu de la Rabassa.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de la Peguera (CS131)
+
+Té el seu origen a la CS130, a Aixirivall, i la seva ﬁnalització a la CS130, entre els quilòmetres 13 i 14.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Fontaneda (CS140)
+
+Té el seu origen a la CG1, al pont de Fontaneda, i la seva ﬁnalització al poble de Fontaneda.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de la Moixella (CS141)
+
+Té el seu origen a la CS140, prop de Fontaneda, i la seva ﬁnalització al llogaret de la Moixella.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera secundària del coll de la Gallina (CS142)
+
+Té el seu origen a la CS140, prop de Fontaneda, i la seva ﬁnalització al cap del coll de la Gallina.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera secundària del Mas d’Alins (CS143)
+
+Té el seu origen a la CS141, a la borda del Gastó, i la seva ﬁnalització al Mas d’Alins.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Mossers i de Civís (CS144)
+
+Té el seu origen a la CS142, al cap del coll de la Gallina, i la seva ﬁnalització a la frontera amb Espanya.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera d’Engolasters (CS200)
+
+Té el seu origen a la CG2, a la carretera de l’Obac, i la seva ﬁnalització a l’estany d’Engolasters.
+
+Té una amplada de 13 metres des de la seva conﬂuència amb la CG2 amb la seva conﬂuència amb la CS101, distribuïts de la manera següent: (2 V + 4,5 C + 4,5 C + 2V) i de 10 metres a partir d’aquest punt i en sentit ascendent distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Vila i de Beixalís (CS210)
+
+Té el seu origen a Encamp, a la rotonda de conﬂuència de l’av. Príncep Benlloch amb el carrer de la Molina, i la seva ﬁnalització al cap de la collada de Beixalís, a la conﬂuència amb la CS310.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera dels Cortals d’Encamp (CS220)
+
+Té el seu origen a la CG2, al pont del riu Aixec, i la seva ﬁnalització als Cortals d’Encamp.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Meritxell (CS230)
+
+Té el seu origen a la CG2, a la rotonda de les Molleres, i la seva ﬁnalització al poble de Meritxell.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Montaup (CS240)
+
+Té el seu origen a Canillo, a la conﬂuència amb la CG2, i la seva ﬁnalització al coll d’Ordino on es troba amb la CS340.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Prats (CS250)
+
+Té el seu origen a Canillo, a la conﬂuència amb la CG2, i la seva ﬁnalització a Prats.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera del Forn (CS251)
+
+Té el seu origen a la CS250, prop de Prats, i la seva ﬁnalització al Forn.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de l’Aldosa de Canillo (CS255)
+
+Té el seu origen a la CG2 i la seva ﬁnalització a l’Aldosa.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Ransol (CS260)
+
+Té el seu origen a la CG2 i la seva ﬁnalització a la coma de Ransol.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera dels Plans de Ransol (CS261)
+
+Té el seu origen a la CS260, a Ransol, i la seva ﬁnalització als Plans.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera d’Entor (CS262)
+
+Té el seu origen a la CS260, al pont de Mos, i la seva ﬁnalització a Entor.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera del Tarter (CS265)
+
+Té el seu origen a la CG2 i la seva ﬁnalització al Tarter.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Sant Pere (CS266)
+
+Té el seu origen a la CG2 i la seva ﬁnalització a Sant Pere.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de la Vall d’Incles (CS270)
+
+Té el seu origen a la CG2, al pont d’Incles, i la seva ﬁnalització a la vall d’Incles.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera del Grau Roig (CS280)
+
+Té el seu origen a la CG2, a Envalira, i la seva ﬁnalització a Grau Roig.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera dels Vilars (CS300)
+
+Té el seu origen a l’av. Fiter i Rossell d’Escaldes-Engordany, i la seva ﬁnalització als Vilars.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera d’Anyós (CS310)
+
+Té el seu origen a la CG3 i la seva ﬁnalització a la collada de Beixalís, a la conﬂuència amb la CS210.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Sispony (CS320)
+
+Té el seu origen a la CG3 i la seva ﬁnalització als cortals de Sispony.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Sispony i dels Plans (CS321)
+
+Té el seu origen a la CS320, a Sispony, i la seva ﬁnalització a la conﬂuència amb la CS330 als Plans.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera d’Escàs (CS330)
+
+Té el seu origen a la CG3, a la Massana, i la seva ﬁnalització a Escàs.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de l’Aldosa de la Massana (CS335)
+
+Té el seu origen a la CG3 i la seva ﬁnalització a Anyós, a la conﬂuència amb la CS310.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera del coll d’Ordino (CS340)
+
+Té el seu origen a la CG3, a Ordino, a la conﬂuència amb la CS240, ﬁns a la seva ﬁnalització al cap del coll d’Ordino.
+
+Té una amplada de 13 metres ﬁns al km 2,5, distribuïts de la manera següent: (2 V + 4,5 C + 4,5 C + 2V), i de 10 metres a partir del km 2,5 ﬁns al coll d’Ordino, distribuïts de la manera següent: (1,5V + 3,5 C+ 3,5 C + 1,5 V).
+
+Carretera de Segudet (CS345)
+
+Té el seu origen al carrer major d’Ordino i la seva ﬁnalització a Segudet.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Sornàs (CS350)
+
+Té el seu origen a la CG3, al pont de Sornàs, i la seva ﬁnalització al poble de Sornàs.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera d’Arans (CS360)
+
+Té el seu origen a la CG3 i la seva ﬁnalització a Arans.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Sorteny (CS370)
+
+Té el seu origen a la CG3, al Serrat, i la seva ﬁnalització a Sorteny.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera d’Arcalís (CS380)
+
+Té el seu origen al pont del Castellar, i la seva ﬁnalització al túnel del port de Rat a Arcalís.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera del Pui (CS400)
+
+Té el seu origen a la CG4, a la Massana, i la seva ﬁnalització al Pui.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de la Caubella (CS420)
+
+Té el seu origen a la CG4 i la seva ﬁnalització al planell de la Caubella.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera del collet dels Colls (CS430)
+
+Té el seu origen a la CG4, a la Massana, i la seva ﬁnalització al collet dels Colls.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera del Puiol del Piu (CS500)
+
+Té el seu origen a la CG5, a Erts, i la seva ﬁnalització al Puiol del Piu.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera del Mas de Ribafeta (CS510)
+
+Té el seu origen a la CG5, prop del cementiri d’Arinsal, i la seva ﬁnalització al Mas de Ribafeta.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Comallemple (CS520)
+
+Té el seu origen a la CG5, al pont Pedregat, i la seva ﬁnalització al Camp de neu d’Arinsal.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de prats Sobirans (CS530)
+
+Té el seu origen a la CG5, al pont Pedregat, i la seva ﬁnalització a prats Sobirans.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera de Canòlic (CS600)
+
+Té el seu origen a la CG6, a Bixessarri, i la seva ﬁnalització al coll de la Gallina, a la conﬂuència amb la CS142.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).
+
+Carretera d’Aixàs (CS610)
+
+Té el seu origen a la CG6, a Bixessarri, i la seva ﬁnalització a Aixàs.
+
+Té una amplada de 10 metres distribuïts de la manera següent: (1,5 V + 3,5 C + 3,5 C + 1,5 V).

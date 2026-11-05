@@ -1,0 +1,264 @@
+---
+id: "and-llei-19931104-qualificada-delimitacio-competencies-comuns"
+titol: "Llei qualificada de delimitació de competències dels Comuns, del 4 de novembre de 1993"
+tipus: "llei"
+ambit: "estat"
+organisme: "Consell General d'Andorra"
+data_aprovacio: 1993-11-04
+tipus_text: "refos-no-oficial"
+estat: "vigent"
+estat_font: "deduït"
+entrada_vigor: "el mateix dia de la publicació al BOPA"
+temes: ["organitzacio-i-govern-comunal"]
+text_complet: true
+font_original: "originals/legislacio/lleis/and-llei-19931104-qualificada-delimitacio-competencies-comuns.pdf"
+---
+
+# Llei qualificada de delimitació de competències dels Comuns, del 4 de novembre de 1993
+
+Llei qualiﬁcada de delimitació de competències dels Comuns (Text refós sense caràcter oﬁcial)
+
+## Índex
+
+[Mostra/Amaga]
+
+## Exposició de motius
+
+## Títol I. Disposicions generals
+
+### Article 1
+
+### Article 2
+
+### Article 3
+
+## Títol II. De les competències i potestats dels Comuns
+
+Capítol primer. De les competències
+
+### Article 4
+
+Capítol segon. De les potestats i mitjans d’exercici de les competències
+
+Secció primera. De les potestats normativa, executiva i sancionadora
+
+### Article 5
+
+### Article 6
+
+Secció segona. De la potestat ﬁnancera i tributària
+
+### Article 7
+
+### Article 8
+
+### Article 9
+
+### Article 10
+
+## Disposició addicional Disposició ﬁnal
+
+Atès que el Consell General en la seva sessió del dia 4 de novembre de 1993 ha aprovat la següent:
+
+Llei qualiﬁcada de delimitació de competències dels Comuns
+
+## Exposició de motius
+
+La Llei Qualiﬁcada de Delimitació de Competències dels Comuns és fruit de les previsions de la disposició transitòria primera de la Constitució, que contempla l’obertura d’un període extraordinari de sessions en què el Consell General ha d’aprovar un seguit de lleis qualiﬁcades dins les quals es troba la present.
+
+## Títol I. Disposicions generals
+
+### Article 1
+
+Les Parròquies són entitats político-administratives que integren l’estructura territorial de l’Estat d’Andorra i participen en la conformació de la política nacional per mitjà de les formes i institucions constitucionalment establertes. Els seus interessos són expressats, gestionats i protegits pels Comuns sota el principi d’autogovern.
+
+### Article 2
+
+1. Els Comuns representen, governen i administren les Parròquies. Són corporacions públiques elegides democràticament, amb personalitat jurídica, potestats i competències pròpies exercides d’acord amb la Constitució, amb aquesta Llei Qualiﬁcada i amb la resta de l’ordenament jurídic.
+
+2. Els Comuns aproven i executen el seu pressupost, ﬁxen i duen a terme llurs polítiques públiques dins el territori parroquial i gestionen i administren tots els béns propietat de la Parròquia, siguin de domini públic comunal o de domini privat o patrimonial.
+
+### Article 3
+
+1. Els Comuns, dins el seu àmbit territorial, gaudeixin de potestat normativa, executiva i sancionadora i de potestat ﬁnancera i tributària.
+
+2. Les seves competències són determinades per la present Llei, sense perjudici de les que puguin ésser objecte de delegació segons les previsions constitucionals.
+
+3. Totes les competències que no siguin o previstes per aquesta Llei o les delegades per altres lleis, corresponen a l’Estat.
+
+4. L’ordenament jurídic estatal s’aplica supletòriament al propi de cadascun dels Comuns.
+
+## Títol II. De les competències i potestats dels Comuns
+
+Capítol primer. De les competències
+
+### Article 4
+
+Són competències dels comuns, en el terme de la respectiva parròquia:
+
+1. L’elaboració, el control i l’actualització del cens general de població de la parròquia, d’acord amb les normes generals de coordinació nacional.
+
+2. L’elaboració, l’actualització i la publicació del cens electoral i de les llistes electorals, i totes les altres funcions que, en matèria electoral, els atribueix la Llei qualiﬁcada del règim electoral i del referèndum. Així mateix, correspon als comuns la convocatòria de reunions de poble i consultes populars d’abast parroquial.
+
+3. L’elaboració del cadastre de la parròquia, d’acord amb la legislació nacional. El cadastre s’ha de coordinar amb el Registre de la Propietat.
+
+4. L’ordenació del seu territori en allò que es refereix a la revisió de creus de terme i d’emprius comunals, i la delimitació de terres comunals amb quarts i amb particulars.
+
+5. La regulació, l’autorització i el registre d’obertura i establiment d’activitats comercials, industrials, professionals i de serveis, dins del marc de la legislació nacional.
+
+6. La deﬁnició de la política urbanística de la parròquia dins del marc de la general de l’Estat, i la gestió, ﬁxació i aplicació dels plans generals i parcials d’urbanització, les condicions d’ediﬁcabilitat i habitabilitat, les infraestructures viàries i de serveis, i els equipaments comunals col·lectius.
+
+Els comuns cedeixen gratuïtament al Govern els terrenys de cessió obligatòria i gratuïta urbanística que s’hagin de destinar a la realització de projectes d’interès nacional i plans sectorials. Aquests instruments són aprovats pel Govern, amb informe previ dels comuns el terme parroquial dels quals sigui afectat pel projecte o el pla.
+
+Quan es tracti de projectes d’interès nacional o plans sectorials relatius a algun dels equipaments inclosos en la relació continguda a la disposició addicional d’aquesta Llei, l’informe dels comuns té caràcter preceptiu però no vinculant; en els altres supòsits, l’informe dels comuns té caràcter preceptiu i vinculant.
+
+Si un informe preceptiu i vinculant d’un comú sobre un projecte d’interès nacional o un pla sectorial és negatiu, el Govern no el pot executar, però pot sotmetre al Consell General un projecte de llei que l’autoritzi a executar-lo. Si la Llei s’aprova, el projecte es pot executar.
+
+Si, per qualsevol motiu, terrenys de titularitat d’un comú o d’un quart que han estat objecte de cessió gratuïta al Govern per executar un projecte d’interès nacional o un pla sectorial hagin de passar a formar part del patrimoni d’una persona privada, física o jurídica, o d’una societat amb participació de capital públic i privat, el comú o el quart que n’eren titulars abans de la cessió tenen dret a la reversió dels terrenys cedits i, en el cas que n’hagi de continuar fent ús aquesta persona o societat, a percebre una compensació econòmica per aquest ús, calculada a preu de mercat.
+
+7. L’administració, la gestió i el govern, en general, dels béns de domini públic comunal i dels béns de domini privat o patrimonials que hagin adquirit, inclòs l’aproﬁtament i explotació dels recursos naturals que s’hi trobin, com ara tales de boscos, camps de neu, aigües termals, aigües i minerals.
+
+Els comuns posen gratuïtament a disposició del Govern l’ús dels béns comunals que siguin necessaris per executar projectes d’interès nacional i plans sectorials que siguin aprovats amb els requisits que estableix l’apartat precedent.
+
+8. La declaració, la conservació, la gestió i el manteniment dels parcs naturals comunals i la participació en la conservació, la gestió i el manteniment d’altres espais naturals protegits, dins del marc de la legislació nacional.
+
+9. La construcció, el manteniment i la millora de vies públiques urbanes, carreteres secundàries, camins comunals i de muntanya, places, jardins, aparcaments i estacionaments. El Govern ha de proveir l’enquitranament de les vies públiques i de les carreteres secundàries.
+
+No obstant el que estableix l’apartat precedent, el Govern s’ha de fer càrrec del manteniment de totes les carreteres secundàries que ﬁguren relacionades en el Decret del Govern del 25 de juliol del 2007, de designació de les carreteres secundàries, inclòs el manteniment de les rotondes, excepte la jardineria i els elements d’ornamentació que hagi col·locat el Comú. A aquests efectes, no es considera manteniment la reconstrucció o substitució d’elements substancials de la carretera (plataformes, ponts, murs i altres d’importància similar) que han arribat al ﬁnal de la seva vida útil.
+
+En cas que les carreteres secundàries a què es refereix l’apartat anterior pateixin desperfectes molt greus com a conseqüència d’incidents provocats per riscos naturals, el Govern ha d’assumir els treballs que siguin necessaris per restablir la circulació amb garanties de seguretat.
+
+10. La prestació de serveis públics, de forma directa o per mitjà d’instruments de gestió indirecta o compartida, en els àmbits següents:
+
+a) La captació, el tractament i la distribució d’aigües potables i termals, i la construcció de fonts públiques.
+
+b) L’enllumenat públic.
+
+c) La construcció, l’explotació, el manteniment i la conservació dels col·lectors d’aigües pluvials i dels col·lectors d’aigües residuals i clavegueres.
+
+Això no obstant, el Govern assumeix la construcció, l’explotació, el manteniment i la conservació dels col·lectors generals d’aigües residuals. Els col·lectors comunals poden embrancar-hi a condició que transportin únicament aigües residuals.
+
+d) La construcció, la conservació i l’administració dels cementiris i la prestació de serveis funeraris, d’acord amb les lleis aplicables.
+
+e) La neteja de les vies públiques i dels espais públics.
+
+f) La recollida de residus urbans i el seu transport als centres nacionals de valorització, de transferència o d’eliminació, que ha de proveir el Govern, així com la creació, l’explotació, la gestió i la clausura de les deixalleries i dels abocadors comunals, en les condicions previstes per la Llei.
+
+g) La prestació de serveis socials d’atenció diürna en matèria de guarderia d’infants, casal de gent gran i esplai.
+
+h) La inspecció, el control i l’assegurament de la bona convivència ciutadana en les vies públiques i en els espais públics, per mitjà dels agents de circulació i els altres agents i cossos comunals, en coordinació i amb la col·laboració del Cos de Policia, i sense perjudici de la competència general del Govern en matèria d’ordre públic. Els comuns poden organitzar, convocar i mobilitzar el sometent, i exercir les altres competències en matèria de protecció civil que els atribueix la Llei.
+
+i) La neteja dels torrents únicament en els trams que, en entorns urbanitzats, es trobin entubats, coberts o assimilats a segles de reg.
+
+11. La regulació de les condicions de la circulació urbana de vehicles i vianants, amb l’establiment i deﬁnició de les zones i els horaris d’estacionament, càrrega i descàrrega, amb la subsegüent senyalització horitzontal i vertical, en coordinació amb l’òrgan nacional competent en matèria de gestió del trànsit, i sense perjudici de les competències del Govern sobre la xarxa bàsica de vials. La retolació de carrers, places, vies públiques i llocs d’interès.
+
+12. L’organització i promoció de les festes tradicionals.
+
+13. L’organització i promoció d’activitats de caràcter cultural, social, turístic, de lleure i esportiu no escolar.
+
+14. L’organització institucional dels seus òrgans, formes i procediments d’actuació dins el marc assenyalat per la Constitució, la Llei, i els usos i costums.
+
+15. En el marc de la política energètica, els comuns col·laboren en els projectes energètics nacionals.
+
+16. L’organització de qualsevol activitat i la prestació d’altres serveis públics que siguin adients per a la satisfacció de les necessitats i els interessos de la comunitat parroquial.
+
+Capítol segon. De les potestats i mitjans d’exercici de les competències
+
+Secció primera. De les potestats normativa, executiva i sancionadora
+
+### Article 5
+
+1. Els Comuns exerceixen les competències mitjançant ordinacions, reglaments i decrets, com a manifestacions de llur potestat normativa. Les ordinacions són normes de caire general per a la regulació de les matèries competencials i poden ésser desenvolupades subordinadament per reglaments. L’aprovació d’aquests dos tipus de normes correspon al consell del Comú.
+
+2. Els decrets són actes administratius escrits d’aplicació de l’ordenament jurídic parroquial a supòsits i persones concretes o concretitzables.
+
+3. Les ordinacions, reglaments i decrets poden ésser objecte de control davant la jurisdicció ordinària d’acord amb allò que preveu el Codi de l’Administració o Llei que el substitueixi. En els supòsits de contradicció amb les lleis, prevalen aquestes, sense perjudici que es puguin interposar els recursos adients davant el Tribunal Constitucional.
+
+### Article 6
+
+Les normes i actes dels Comuns, vàlidament aprovats i publicats, adquireixen plena executorietat mitjançant, si s’escau, la imposició de sancions, multes i recàrrecs i procedint a l’execució forçosa directa, com a manifestacions de les potestats executiva i sancionadora que els són pròpies. En tot cas, l’activitat sancionadora dels Comuns o restrictiva de drets ha d’ésser regulada per ordinacions prèvies i d’acord amb la legislació general de l’Estat.
+
+Secció segona. De la potestat ﬁnancera i tributària
+
+### Article 7
+
+La potestat ﬁnancera i tributària dels comuns deriva de la potestat tributària originària de l’Estat. Nogensmenys, i sense perjudici de les relacions necessàries de col·laboració amb l’Estat, les facultats atribuïdes als comuns per aquesta Llei en desenvolupament de l’article 80.2 de la Constitució són exercides sota el principi d’autonomia.
+
+### Article 8
+
+Dins de la potestat ﬁnancera, correspon als comuns l’elaboració, l’aprovació i l’execució del pressupost comunal, així com la ﬁxació i l’execució del control comptable i l’auditoria dels seus comptes, sense perjudici del que disposa la Llei qualiﬁcada de transferències als comuns i de les facultats de ﬁscalització i control del Tribunal de Comptes.
+
+### Article 9
+
+1. La potestat tributària dels comuns es concreta en la seva capacitat de crear i regular impostos, taxes i contribucions especials, en el marc del que estableix aquesta Llei, i d’acord amb la Llei de bases de l’ordenament tributari i la Llei de les ﬁnances comunals. Els comuns tenen atribuïdes totes les facultats en relació amb aquests tributs, així com la potestat sancionadora.
+
+2. Són impostos d’àmbit comunal els següents:
+
+a) L’impost tradicional del foc i lloc, sobre la residència principal.
+
+b) L’impost sobre la propietat immobiliària, ediﬁcada i no ediﬁcada.
+
+c) L’impost sobre els rendiments arrendataris.
+
+d) L’impost de radicació d’activitats comercials, empresarials i professionals.
+
+e) L’impost sobre la construcció.
+
+Per llei, es pot atribuir als comuns la capacitat de crear i regular altres impostos, així com la participació en impostos d’àmbit estatal.
+
+3. Els comuns tenen la potestat de crear i regular taxes per la utilització privativa o l’aproﬁtament especial del domini públic comunal, i per la realització de les funcions administratives i la prestació dels serveis que els corresponen d’acord amb l’article 4 d’aquesta Llei.
+
+L’Administració de l’Estat està exempta del pagament de taxes per la utilització privativa o l’aproﬁtament especial del domini públic, amb independència del seu caràcter temporal o continuat, quan l’utilitzi per prestar serveis públics o per a ﬁns de seguretat pública. Per llei es poden crear altres exempcions.
+
+4. Els comuns poden crear i regular també preus públics per la prestació de serveis públics o l’execució de funcions administratives que no són de sol·licitud o recepció obligatòria.
+
+5. Els comuns poden delegar en una administració pública o en entitats públiques de caràcter administratiu les facultats de gestió, liquidació, recaptació, inspecció i la potestat sancionadora sobre els tributs, i la liquidació i recaptació d’altres ingressos de dret públic que els corresponguin.
+
+### Article 10
+
+Com a complement dels ingressos dels comuns, i al marge del que disposa la Llei qualiﬁcada de transferències als comuns, els comuns participen en el producte del tribut que grava la tinença de vehicles, que recapta el Govern, d’acord amb la Llei que el desenvolupa.
+
+## Disposició addicional
+
+L’informe preceptiu dels comuns sobre els projectes d’interès nacional i els plans sectorials a què es refereix l’apartat 6 de l’article 4 no té caràcter vinculant quan aquests instruments tinguin per objecte:
+
+1. Centres escolars i universitaris.
+
+2. Equipaments culturals (museus, sales d’exposicions, biblioteques, arxius, centres culturals, teatres, auditoris, i d’altres amb el mateix objecte).
+
+3. Equipaments sanitaris (hospitals, clíniques, centres d’assistència primària, consultoris, i d’altres de la mateixa naturalesa).
+
+4. Equipaments assistencials i sociosanitaris.
+
+5. Equipaments esportius (pavellons, estadis, i d’altres de la mateixa naturalesa).
+
+6. Infraestructures viàries i de protecció de riscos naturals.
+
+7. Ediﬁcis administratius.
+
+8. Equipaments energètics integrats, que comprenen:
+
+- Les infraestructures de gestió del sistema energètic.
+- Les infraestructures de transport, emmagatzematge, transformació i distribució.
+- Les infraestructures de generació d’energia d’origen de fonts renovables (excepte aerogeneradors eòlics).
+- Les infraestructures d’alta eﬁciència energètica, com les de cogeneració i trigeneració.
+- Les infraestructures d’aproﬁtament i de preparació de biomassa.
+- La combinació de diverses de les anteriors, i les altres instal·lacions necessàries per al bon funcionament de l’equipament.
+
+## 9. Equipaments multifuncionals que combinin qualsevol dels projectes i equipaments anteriors. Disposició ﬁnal
+
+La present Llei entrarà en vigor el mateix dia de la seva publicació en el Butlletí Oﬁcial del Principat d’Andorra.
+
+Casa de la Vall, 4 de novembre de 1993
+
+Jordi Farràs Forné Síndic General
+
+Nosaltres els Coprínceps la sancionem i promulguem i n’ordenem la publicació en el Butlletí Oﬁcial del Principat d’Andorra.
+
+Joan Martí Alanís
+
+Bisbe d’Urgell Copríncep d’Andorra François Mitterrand
+
+President de la República Francesa
+
+Copríncep d’Andorra

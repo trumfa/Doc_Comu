@@ -1,0 +1,224 @@
+---
+id: "enc-ord-20220520-qual-s-acorda-modificar-tributaria"
+titol: "Ordinació del 20-5-2022 per la qual s'acorda modificar l'Ordinació tributària per a l'any 2022"
+tipus: "ordinacio"
+ambit: "comu"
+organisme: "Comú d'Encamp"
+data_aprovacio: 2022-05-20
+tipus_text: "oficial"
+estat: "caducat"
+estat_font: "text"
+entrada_vigor: "el mateix dia de la publicació al BOPA"
+data_fi_vigencia: 2022-12-31
+vigencia_nota: "Modifica l'ordinació tributària de l'any 2022 (vigència anual, exhaurida)."
+refs_externes: ["Ordinació tributària per a l'any 2022"]
+temes: ["fiscalitat-i-finances"]
+text_complet: true
+font_original: "originals/normativa-comu/ordinacions/enc-ord-20220520-qual-s-acorda-modificar-tributaria.pdf"
+---
+
+# Ordinació del 20-5-2022 per la qual s'acorda modificar l'Ordinació tributària per a l'any 2022
+
+25 de maig del 2022 Núm. 64
+
+Dipòsit legal: AND.2-2015
+
+Ordinació
+
+Ordinació del 20-5-2022 per la qual s’acorda modificar l’Ordinació tributària per a l’any 2022.
+
+Vista la Llei qualificada de delimitació de competències dels comuns, Títol II, Capítol II, secció primera, article 5.1.
+
+Vista la Llei 36/2021, del 3 de gener, de les finances comunals, Títol II, Capítol II, taxes, articles 19 i següents.
+
+El Comú d’Encamp, en la sessió del Consell de Comú del dia 19 de maig del 2022, ha acordat la modificació i ampliació de l’Ordinació tributària per a l’any 2022, publicada al BOPA amb data 2-3-2022, següent:
+
+Ordinació de modificació
+
+### Article 1
+
+S’amplia el punt 2 de l’article 8 que detalla les taxes per prestacions de serveis públics incorporant-hi tres taxes que queda redactat com segueix:
+
+“Article 8. Definició i fet generador […]
+
+2. Les taxes per prestacions de serveis públics són les següents:
+
+a) Taxa d’higiene pública
+
+b) Servei de grua de circulació
+
+c) Autorització d’embrancament a la xarxa d’aigua pública potable
+
+d) Autorització d’embrancament a la xarxa d’aigua pública d’aigües residuals i pluvials
+
+e) Per guardes comunes
+
+f) Celebració de matrimonis o unions civils per les autoritats comunals
+
+g) Consum d’aigua potable
+
+h) Quota de servei d’aigua potable
+
+i) Intervencions del Servei d’aigua potable
+
+[…]”
+
+### Article 2
+
+S’introdueixen els articles 30 bis, 30 ter i 30 quarter amb el redactat següent:
+
+“Article 30 bis. Consum d’aigua potable
+
+## 1. Naturalesa jurídica i fet generador
+
+La taxa sobre el consum d’aigua potable és un tribut el fet generador del qual és la prestació del servei de subministrament d’aigua potable.
+
+Ordinacions i reglaments
+
+25 de maig del 2022 Núm. 64
+
+Dipòsit legal: AND.2-2015
+
+## 2. Obligat tributari
+
+Són obligats tributaris d’aquesta taxa els propietaris o el titulars del domini útil d’un immoble, els titular de l’autorització de construcció o d’altra autorització per una activitat limitada en el temps, en la qual pot fer repercutir l’import en els beneficiaris respectius.
+
+També tenen la mateixa consideració les societats civils, herències jacents, comunitats de veïns i totes les entitats o patrimonis autònoms que malgrat no tenir personalitat jurídica constitueixen una unitat econò­ mica separada susceptible d’imposició.
+
+## 3. Base de tributació
+
+La base de tributació són els metres cúbics d’aigua potable consumits per una unitat de consum.
+
+## 4. Tipus de gravamen
+
+Es fixen les tarifes i ponderacions que es detallen a continuació:
+
+| m3 consumits / trimestre | Import / m3 |
+| --- | --- |
+| 0-30 | 0,44 euros |
+| 30-60 | 0,63 euros |
+| 60-100 | 0,87 euros |
+| >100 | 1,30 euros |
+
+Als comptadors d’ús contra incendis dels edificis que hagin estat utilitzats per a un altre ús que per al que estan destinats, se’ls aplica les tarifes indicades a la taula, multiplicades per un coeficient de 2.
+
+Una unitat de consum equival a un habitatge, un local comercial o industrial, una instal·lació agropecuària, una obra, quatre habitacions d’hotel, tres habitacions d’aparthotel, sis places per a caravana o tenda en els càmpings, cada aula als centres educatius, i cada unitat de rentat als rentadors de cotxes. En cas d’un ús no definit anteriorment, els tècnics del Comú d’Encamp hauran de proposar les unitats de consum corresponents
+
+## 5. Quota tributària
+
+La quota tributària d’aquesta taxa és l’import resultat de la multiplicació entre els m3 consumits pel preu per m3 que correspongui a cada franja de consum, modulat segons el nombre d’unitats de consum que alimenta el comptador.
+
+## 6. Meritament i liquidació
+
+El pagament de la quota tributària es realitza per trimestres naturals, merita el primer dia del trimestre i s’ha d’efectuar per càrrec domiciliat al compte que el beneficiari designi en una entitat bancària legalment autoritzada a Andorra o a les oficines del Comú d’Encamp.
+
+Article 30 ter. Quota de servei d’aigua potable
+
+## 1. Naturalesa jurídica i fet generador
+
+La taxa sobre la quota de servei d’aigua potable és un tribut el fet generador del qual és la prestació del servei d’arrendament del comptador, del sistema de telelectura, el manteniment, la conservació de l’em­ brancament i de la xarxa d’aigua potable.
+
+## 2. Obligat tributari
+
+Són obligats tributaris d’aquesta taxa els propietaris o el titulars del domini útil d’un immoble, els titulars de l’autorització de construcció o d’altra autorització per una activitat limitada en el temps, en la qual pot fer repercutir l’import en els beneficiaris respectius.
+
+25 de maig del 2022 Núm. 64
+
+Dipòsit legal: AND.2-2015
+
+També tenen la mateixa consideració les societats civils, herències jacents, comunitats de veïns i totes les entitats o patrimonis autònoms que malgrat no tenir personalitat jurídica constitueixen una unitat econò­ mica separada susceptible d’imposició.
+
+## 3. Base de tributació
+
+La base de tributació és el comptador del consum d’aigua potable i el seu cabal.
+
+## 4. Tipus de gravamen
+
+Les tarifes d’aquesta taxa queden fixades de la manera següent:
+
+| Cabal nominal del comptador (m3/h) | Import per trimestre |
+| --- | --- |
+| < 3,60 | 16,03 euros |
+| 5-10 | 36,17 euros |
+| 15-25 | 57,63 euros |
+| 40-60 | 99,73 euros |
+
+## 5. Quota tributària
+
+És l’import resultant d’aplicar la tarifa trimestral sobre el tipus de comptador corresponent.
+
+## 6. Meritament i liquidació
+
+El pagament de la quota tributària es realitza per trimestres naturals, merita el primer dia del trimestre i s’ha d’efectuar per càrrec domiciliat al compte que el beneficiari designi en una entitat bancària legalment autoritzada a Andorra o a les oficines del Comú d’Encamp.
+
+Article 30 quarter. Intervencions del Servei d’aigua potable
+
+## 1. Naturalesa jurídica i fet generador
+
+La taxa per la intervenció del Servei d’aigua potable és un tribut, el fet generador del qual és la realització de treballs a la xarxa no inclosos dins de la quota de servei. Aquests treballs s’enumeren en el punt 4 següent.
+
+## 2. Obligats tributaris
+
+Són obligats tributaris d’aquesta taxa els propietaris o el titulars del domini útil d’un immoble, els titular de l’autorització de construcció o d’altra autorització per una activitat limitada en el temps, en la qual pot fer repercutir l’import en els beneficiaris respectius.
+
+També tenen la mateixa consideració les societats civils, herències jacents, comunitats de veïns i totes les entitats o patrimonis autònoms que malgrat no tenir personalitat jurídica constitueixen una unitat econò­ mica separada susceptible d’imposició
+
+## 3. Base de tributació
+
+La base de tributació és els temps d’intervenció dels tècnics del Comú d’Encamp per una actuació deter­ minada i els materials utilitzats.
+
+## 4. Tipus de gravamen
+
+Les tarifes d’aquesta taxa es fixen de la manera següent:
+
+a) Intervencions del Servei d’Aigua Potable:
+
+Per a tots els casos que es descriuen d’intervencions del Servei d’Aigua Potable, exceptuant els que s’ex­ pressa l’import d’una altra manera, s’aplicaran els següents imports:
+
+L’hora de treball dels oficials i operaris del Servei d’Aigua Potable es factura segons els preus regulats a l’article 18 de l’Ordinació de preus públics del Comú d’Encamp per l’any 2022.
+
+Els materials (tubs, comptadors, aixetes, etc.) es facturen a preu de cost incrementat en un 15%, per finançar les despeses de gestió administrativa.
+
+25 de maig del 2022 Núm. 64
+
+Dipòsit legal: AND.2-2015
+
+Tots els treballs de moviments de terra, obra civil i altres que no siguin exclusius de lampisteria són sota la responsabilitat i a càrrec de la persona que fa la demanda. Aquests treballs s’efectuen sota la direc­ ció i control dels serveis del Comú.
+
+b) Canvi de materials de l’embrancament, definit segons l’article 9 de l’Ordinació d’aigua potable del Comú d’Encamp, a causa de manipulació externa al servei d’aigües del Comú o a demanda de l’abonat: S’ha de fer efectiu el cost del material així com les despeses derivades de la instal·lació que realitzen els operaris del Servei d’Aigua Potable del Comú, segons es descriu en l’apartat a).
+
+c) Intervencions del Servei d’Aigua Potable per tancaments i obertures de vàlvules de la xarxa: En cas d’haver de tancar el subministrament d’aigua a un abonat, sense causar afecció a altres abonats, la intervenció del Servei d’Aigua Potable per cada tancament i per cada obertura de vàlvula, es factura a 44,88 euros.
+
+En cas d’haver de tancar el subministrament de l’aigua a causa de danys originats a la xarxa per poder procedir a reparacions, es factura al causant dels danys a 827,53 euros el tancament, incrementat en 69,47 euros / hora que duri l’afectació als abonats.
+
+d) Intervencions del Servei d’Aigua Potable per reparacions i altres casos no inclosos dintre de la quota general de manteniment (danys causats a la xarxa, anul·lació d’embrancament per baixa i altres): Les intervencions del Servei d’Aigua Potable a la xarxa general i als embrancaments, per reparacions, reformes i altres, són a càrrec de l’abonat o usuari.
+
+En cas d’intervencions a causa de danys originats a la xarxa, es factura al causant els danys materials i les hores de treball segons l’apartat a), tot incrementat amb un coeficient de 3.
+
+e) Intervencions del Servei d’Aigua Potable per desplaçaments de comptadors:
+
+Aquest pot ésser demanat per l’abonat o pel Comú d’Encamp en cas que la ubicació existent suposi un risc per a l’abastament de l’abonat i/o d’altres abonats o per canvis en la distribució de l’edifici, sempre amb autorització dels serveis comunals competents.
+
+Es factura a l’abonat segons els preus indicats en l’apartat a).
+
+f) Intervencions del Servei d’Aigua Potable per realitzar modificacions als embrancaments, en cas que no estiguin conformes a l’Ordinació d’aigua potable de la parròquia d’Encamp:
+
+Es factura a l’abonat segons els preus indicats en l’apartat a).
+
+## 5. Quota tributària
+
+És l’import resultant d’aplicar les tarifes horàries i materials segons s’estableix en el punt anterior.
+
+## 6. Meritament i liquidació
+
+La quota tributària merita el dia de l’emissió de la factura. El pagament s’ha d’efectuar per càrrec domiciliat al compte que el beneficiari designi en una entitat bancària legalment autoritzada a Andorra o a les oficines del Comú d’Encamp.
+
+## Disposició final
+
+Aquesta Ordinació entrarà en vigor el mateix dia de la seva publicació al Butlletí Oficial del Principat d’Andorra.
+
+Informació que es fa pública per a coneixement general.
+
+Encamp, 20 de maig del 2022
+
+Laura Mas Barrionuevo Cònsol major

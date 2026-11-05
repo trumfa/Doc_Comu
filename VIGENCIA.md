@@ -1,0 +1,66 @@
+# Vigència
+
+_Informe generat automàticament amb data 2026-11-05 (scripts/build_index.py)._
+
+## Pendents d'entrar en vigor
+
+Aprovats però encara no aplicables (entrada en vigor aplaçada).
+
+| Document | Estat | Vigència | Nota |
+|---|---|---|---|
+| [Llei 18/2026, del 15 de juliol, qualificada del Codi penal](docs/legislacio/lleis/and-llei-2026-018-qualificada-codi-penal.md) | pendent d’entrar en vigor | als 4 mesos de la publicació al BOPA (DF 2a: als 6 mesos; responsabilitat penal de persones jurídiques: a l'any) | Aprovada el 15-7-2026. Entra en vigor als 4 mesos de la publicació al BOPA (data de publicació no consta al text); la DF 2a als 6 mesos i el règim de responsabilitat penal de les persones jurídiques a l'any. |
+
+## Amb data de fi propera o futura
+
+Vigència limitada (any natural, mandat, pla…).
+
+| Document | Estat | Vigència | Nota |
+|---|---|---|---|
+| [Avís del 7-8-2026 pel qual es publica l'actualització de les taules salarials anuals del Comú d'Encamp per a l'any 2026](docs/normativa-comu/edictes-i-avisos/enc-avis-20260807-avis-qual-publica-actualitzacio-taules-salarials-a.md) | vigent | fins a 2026-12-31 | Taules salarials de l'any 2026. |
+| [Calendari de dies festius i horari intensiu oficines parròquia d'Encamp](docs/funcionament/enc-calendari-20251121-calendari-dies-festius-horari-intensiu-oficines.md) | vigent | fins a 2026-12-31 | Calendari de l'any 2026. |
+| [Ordinació del 18-12-2025 del pressupost per a l'exercici 2026](docs/normativa-comu/ordinacions/enc-ord-20251218-pressupost-exercici-2026.md) | vigent | des de 2026-01-01 · fins a 2026-12-31 | Pressupost de l'exercici 2026 (vigència anual). |
+| [Ordinació del 18-12-2025 de preus públics del Comú d'Encamp per l'any 2026](docs/normativa-comu/ordinacions/enc-ord-20251218-preus-publics-2026.md) | vigent, modificat | des de 2026-01-01 · fins a 2026-12-31 | Per a l'any 2026. Algunes tarifes s'apliquen més tard: des de l'1-8-2026 (curs 2026-2027) i des de l'1-9-2026 (temporada d'hivern 2026-2027). |
+| [Ordinació del 18-12-2025 tributària de la parròquia d'Encamp per l'any 2026](docs/normativa-comu/ordinacions/enc-ord-20251218-tributaria-2026.md) | vigent, modificat | des de 2026-01-01 · fins a 2026-12-31 | Per a l'any 2026. |
+| [Ordinació del 24-4-2026 per la qual s'acorda modificar l'Ordinació del 18-12-2025 de preus públics del Comú d'Encamp per l'any 2026](docs/normativa-comu/ordinacions/enc-ord-20260424-qual-s-acorda-modificar-preus-publics.md) | vigent | des de 2026-04-29 · fins a 2026-12-31 | Modifica la de preus públics 2026; vigència fins al 31-12-2026. |
+| [Ordinació del 24-4-2026 per la qual s'acorda modificar l'Ordinació del 18-12-2025 tributària de la parròquia d'Encamp per l'any 2026](docs/normativa-comu/ordinacions/enc-ord-20260424-qual-s-acorda-modificar-tributaria.md) | vigent | des de 2026-04-29 · fins a 2026-12-31 | Modifica la tributària 2026; vigència fins al 31-12-2026. |
+| [Ordinació del 22-5-2026 per la qual s'acorda modificar l'Ordinació del 18-12-2025 de preus públics del Comú d'Encamp per l'any 2026](docs/normativa-comu/ordinacions/enc-ord-20260522-qual-s-acorda-modificar-preus-publics.md) | vigent | fins a 2026-12-31 | Modifica la d'preus públics 2026; vigència fins al 31-12-2026. |
+| [Pla d'igualtat del Comú d'Encamp 2023-2026](docs/funcionament/enc-pla-2023-pla-igualtat-2023-2026.md) | vigent | fins a 2026-12-31 | Pla 2023-2026. |
+| [Edicte de l'1-3-2024 aprovació del marc pressupostari del Comú d'Encamp per al mandat 2024-2027](docs/normativa-comu/edictes-i-avisos/enc-edicte-20240301-edicte-pressupostari-mandat-2027.md) | vigent | fins a 2027-12-31 | Marc pressupostari del mandat 2024-2027. |
+
+## Amb data de fi ja passada però encara a la zona de consulta
+
+Possiblement caducats: confirmeu-ne l'estat.
+
+| Document | Estat | Vigència | Nota |
+|---|---|---|---|
+| [Reglament de creació i regulació del Consell Consultiu dels jardins d'infants del Comú d'Encamp (2004)](docs/normativa-comu/reglaments-comu/enc-reg-20040708-creacio-regulacio-consell-consultiu-jardins-infant.md) | vigència dubtosa | des de 2004-07-29 · fins a 2005-08-31 | La durada del Consell era «fins el 31 d'agost del 2005, sense perjudici de la seva reelecció». |
+| [Decret del 21-12-2023 de modificació del Decret del 22 de desembre del 2022 que regula la moratòria d'autoritzacions de construccions de parcs solars](docs/normativa-comu/decrets-comu/enc-decret-20231221-2022-regula-moratoria-autoritzacions-construccions.md) | vigència dubtosa | fins a 2024-12-22 | Amplia la suspensió d'autoritzacions de parcs solars 12 mesos «fins que el Comú publiqui una nova normativa». La darrera ampliació present al repo acaba cap al 22-12-2024. |
+
+## Vigència dubtosa, parcial o no publicats
+
+| Document | Estat | Vigència | Nota |
+|---|---|---|---|
+| [Decret que regula els fitxers de dades personals del Comú d'Encamp (2013)](docs/normativa-comu/decrets-comu/enc-decret-20130218-regula-fitxers-dades-personals.md) | vigència dubtosa | des de 2013-02-28 | Regula els fitxers de dades personals del Comú (2013, modificat 2020 i 2021). Pot haver quedat superat per la Llei 29/2021 de protecció de dades. |
+| [Decret del 9-10-2020 de modificació del Decret del 4-2-2013, que regula els fitxers de dades personals del Comú d'Encamp](docs/normativa-comu/decrets-comu/enc-decret-20201009-regula-fitxers-dades-personals.md) | vigència dubtosa | des de 2020-10-14 | Modifica el Decret de fitxers de dades personals (2013), possiblement superat per la Llei 29/2021. |
+| [Decret del 26-2-2021 de modificació del Decret del 4-2-2013, que regula els fitxers de dades personals del Comú d'Encamp](docs/normativa-comu/decrets-comu/enc-decret-20210226-regula-fitxers-dades-personals.md) | vigència dubtosa | el mateix dia de la publicació al BOPA | Modifica el Decret de fitxers de dades personals (2013), possiblement superat per la Llei 29/2021. |
+| [Decret del 21-12-2023 de modificació del Decret del 22 de desembre del 2022 que regula la moratòria d'autoritzacions de construccions de parcs solars](docs/normativa-comu/decrets-comu/enc-decret-20231221-2022-regula-moratoria-autoritzacions-construccions.md) | vigència dubtosa | fins a 2024-12-22 | Amplia la suspensió d'autoritzacions de parcs solars 12 mesos «fins que el Comú publiqui una nova normativa». La darrera ampliació present al repo acaba cap al 22-12-2024. |
+| [Ordinació de modificació de l'Ordinació de Medi Ambient i Via Pública (2017)](docs/normativa-comu/ordinacions/enc-ord-20171215-medi-ambient-via-publica.md) | parcialment derogat | l'endemà de la publicació al BOPA | El nom original del fitxer indica «DEROGADA PARCIALMENT». |
+| [Reglament de creació i regulació del Consell Consultiu dels jardins d'infants del Comú d'Encamp (2004)](docs/normativa-comu/reglaments-comu/enc-reg-20040708-creacio-regulacio-consell-consultiu-jardins-infant.md) | vigència dubtosa | des de 2004-07-29 · fins a 2005-08-31 | La durada del Consell era «fins el 31 d'agost del 2005, sense perjudici de la seva reelecció». |
+| [Reglament de funcionament del consell dels infants-unicef (no publicat)](docs/normativa-comu/reglaments-comu/enc-reg-sd-funcionament-consell-infants-unicef-no-publicat.md) | no publicat |  | El nom original del fitxer indica «no publicat». |
+
+## Documents amb revisió pendent
+
+- [Llei 18/2026, del 15 de juliol, qualificada del Codi penal](docs/legislacio/lleis/and-llei-2026-018-qualificada-codi-penal.md): Consulteu la data de publicació al BOPA per fixar les dates d'entrada en vigor (4 mesos / 6 mesos / 1 any).
+- [Acta del Consell de Comú, sessió ordinària 7/24 (30-5-2024)](docs/actes-consell/2024/enc-acta-20240530-cc-07-24.md): El nom del fitxer diu «7-27» però és la sessió 7/24 del 30-5-2024 (error al nom).
+- [Projecte d’acta del Consell de Comú, sessió ordinària 11/25 (18-12-2025)](docs/actes-consell/2025/enc-acta-20251218-cc-11-25.md): El nom diu «signada» però el text es titula «PROJECTE ACTA»: comproveu si és la versió signada.
+- [Acta del Consell de Comú, sessió ordinària 5/26 (23-4-2026)](docs/actes-consell/2026/enc-acta-20260423-cc-05-26.md): No porta «signada» al nom: comproveu si és la versió aprovada.
+- [Decret que regula els fitxers de dades personals del Comú d'Encamp (2013)](docs/normativa-comu/decrets-comu/enc-decret-20130218-regula-fitxers-dades-personals.md): Possible superació per la Llei 29/2021 i el seu reglament; confirmeu-ne la vigència.
+- [Decret del 5-11-2015 d'aprovació de cinc ordinacions comunals (Medi Ambient i Via Pública, aigua potable, cabanes, terrasses i rètols) — publicació conjunta al BOPA del 18.11.2015](docs/normativa-comu/decrets-comu/enc-decret-20151105-cinc-ordinacions-comunals-medi-ambient-via-publica.md): BOPA conjunt amb 5 ordinacions: només 2 (Medi Ambient i Via Pública, aigua potable) existeixen també soltes. Es proposa crear-ne 3 documents més (cabanes, terrasses, rètols).
+- [Decret del 21-12-2023 de modificació del Decret del 22 de desembre del 2022 que regula la moratòria d'autoritzacions de construccions de parcs solars](docs/normativa-comu/decrets-comu/enc-decret-20231221-2022-regula-moratoria-autoritzacions-construccions.md): Moratòria ampliada per 12 mesos; no hi ha cap ampliació posterior ni normativa nova al repo. Confirmeu si continua vigent.
+- [Especificacions tècniques de cartografia cadastral de la parròquia d'Encamp (2004)](docs/normativa-comu/ordinacions/enc-ord-20040407-especificacions-tecniques-cartografia-cadastral-20.md): Retallat el final de l'Ordinació del cadastre (norma anterior, fragment).
+- [Ordinació general de regulació del cadastre comunal (2004)](docs/normativa-comu/ordinacions/enc-ord-20040407-general-regulacio-cadastre-comunal.md): Retallat el principi de les Especificacions de cartografia (norma següent, fragment).
+- [Ordinació de modificació de l'Ordinació de Medi Ambient i Via Pública (2017)](docs/normativa-comu/ordinacions/enc-ord-20171215-medi-ambient-via-publica.md): Quins articles estan derogats? Cal indicar-ho.
+- [Ordinació del 18-2-2026 de mesures urgents de caràcter tributari i econòmic per pal·liar els efectes del trament de l'accés a Andorra per l'NR20](docs/normativa-comu/ordinacions/enc-ord-20260218-mesures-urgents-caracter-tributari-economic-pal-li.md): Vigència condicionada al tancament de l'RN20: confirmeu quan es reobre per fixar la data de fi.
+- [Reglament de l'Arxiu del Comú d'Encamp (2003)](docs/normativa-comu/reglaments-comu/enc-reg-20030917-arxiu.md): Data d'entrada en vigor detectada (2003-09-08) anterior a l'aprovació (2003-09-17); s'ha descartat. Reviseu-la.
+- [Reglament de creació i regulació del Consell Consultiu dels jardins d'infants del Comú d'Encamp (2004)](docs/normativa-comu/reglaments-comu/enc-reg-20040708-creacio-regulacio-consell-consultiu-jardins-infant.md): Mandat del Consell fins al 31-8-2005 (reelegible); no consta que continuï.
+- [Reglament de subvencions per a l'embelliment de façanes (2006)](docs/normativa-comu/reglaments-comu/enc-reg-20060609-subvencions-embelliment-facanes.md): Retallat el principi del Reglament de subvenció agrícola (altra norma, fragment tallat a l'art. 8).
