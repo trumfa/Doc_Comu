@@ -1,6 +1,6 @@
 # Ordinacions comunals
 
-_40 documents. Índex generat automàticament (scripts/build_index.py); no s'edita a mà._
+_41 documents. Índex generat automàticament (scripts/build_index.py); no s'edita a mà._
 
 | Títol | Tipus | Aprovació | Estat | Vigència | Temes |
 |---|---|---|---|---|---|
@@ -43,4 +43,5 @@ _40 documents. Índex generat automàticament (scripts/build_index.py); no s'edi
 | [Especificacions tècniques per a la formació i el manteniment del sistema d'informació cadastral de la parròquia d'Encamp (2004)](enc-ord-20040407-especificacions-tecniques-formacio-manteniment-sis.md) | ordinacio | 2004-04-07 | vigent | des de 2004-04-29 | urbanisme-i-habitatge |
 | [Especificacions tècniques de cartografia cadastral de la parròquia d'Encamp (2004)](enc-ord-20040407-especificacions-tecniques-cartografia-cadastral-20.md) | ordinacio | 2004-04-07 | vigent · ⚠ revisar, text parcial | des de 2004-04-29 | urbanisme-i-habitatge |
 | [Ordinació del cementiri de Santa Maria (2003)](enc-ord-20030604-cementiri-santa-maria.md) | ordinacio | 2003-06-04 | vigent | des de 2003-06-26 | seguretat-i-control |
+| [Normes urbanístiques del Pla d'Ordenació i Urbanisme de la Parròquia d'Encamp (POUPE) – Revisió any 2019 – Modificació 04 – Aprovació definitiva](enc-ord-20251112-normes-urbanistiques-pla-ordenacio-urbanisme-poupe.md) | ordinacio |  | vigent · ⚠ revisar, text parcial | des de 2025-11-13 | urbanisme-i-habitatge, ordenacio-del-territori, patrimoni-cultural, llicencies-i-obres |
 | [Ordinació de senyalització d'itineraris d'iniciativa privada (2011)](enc-ord-20111124-senyalitzacio-itineraris-iniciativa-privada.md) | ordinacio |  | vigent · text parcial | des de 2011-11-24 | mobilitat-i-circulacio |
