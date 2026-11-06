@@ -1,6 +1,6 @@
 # Decrets del Comú
 
-_22 documents. Índex generat automàticament (scripts/build_index.py); no s'edita a mà._
+_23 documents. Índex generat automàticament (scripts/build_index.py); no s'edita a mà._
 
 | Títol | Tipus | Aprovació | Estat | Vigència | Temes |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@ _22 documents. Índex generat automàticament (scripts/build_index.py); no s'edi
 | [Decret del 18-1-2024 d'estructura organitzativa del Comú d'Encamp](enc-decret-20240118-estructura-organitzativa.md) | decret-comu | 2024-01-18 | vigent, modificat | l'endemà de la publicació al BOPA | organitzacio-i-govern-comunal |
 | [Decret del 28-9-2023 d'aprovació del Reglament que regula la formació del personal del Comú d'Encamp](enc-decret-20230928-regula-formacio-personal.md) | decret-comu | 2023-09-28 | vigent | des de 2023-10-05 | personal |
 | [Decret de data 28-9-2023 de modificació del Reglament de permisos administratius](enc-decret-20230928-permisos-administratius.md) | decret-comu | 2023-09-28 | vigent | des de 2023-10-05 | personal |
+| [Decret del 28-5-2021 pel qual s'aprova definitivament la Primera revisió del Pla d'ordenació i urbanisme de la parròquia d'Encamp (POUPE – Revisió any 2019). Volum I: Memòria](enc-decret-20210528-qual-s-aprova-definitivament-primera-revisio-pla.md) | decret-comu | 2021-05-28 | vigent · ⚠ revisar | des de 2021-06-02 | urbanisme-i-habitatge, ordenacio-del-territori, medi-ambient, infraestructures-i-mobilitat, patrimoni |
 | [Decret del 26-2-2021 de modificació del Decret del 4-2-2013, que regula els fitxers de dades personals del Comú d'Encamp](enc-decret-20210226-regula-fitxers-dades-personals.md) | decret-comu | 2021-02-26 | vigència dubtosa | el mateix dia de la publicació al BOPA | personal, dades-i-seguretat-informacio |
 | [Decret de l'11-12-2020 d'aprovació del Pla General de Comptes del Comú d'Encamp](enc-decret-20201211-pla-general-comptes.md) | decret-comu | 2020-12-11 | vigent | l'endemà de la publicació al BOPA | fiscalitat-i-finances |
 | [Decret del 9-12-2020 d'aprovació del Reglament relatiu a la instal·lació de sistemes de videovigilància](enc-decret-20201209-relatiu-instal-lacio-sistemes-videovigilancia.md) | decret-comu | 2020-12-09 | vigent, modificat | l'endemà de la publicació al BOPA | dades-i-seguretat-informacio |
