@@ -1,3 +1,31 @@
+---
+id: "enc-ord-20251112-normes-urbanistiques-pla-ordenacio-urbanisme-poupe"
+titol: "Normes urbanístiques del Pla d'Ordenació i Urbanisme de la Parròquia d'Encamp (POUPE) – Revisió any 2019 – Modificació 04 – Aprovació definitiva"
+tipus: "ordinacio"
+ambit: "comu"
+organisme: "Comú d'Encamp"
+data_publicacio: 2025-11-12
+referencia: "BOPA núm. 135, 12.11.2025"
+tipus_text: "oficial"
+estat: "vigent"
+estat_font: "deduït"
+entrada_vigor: "l'endemà de la publicació al BOPA; manté la vigència mentre no es produeixi la seva revisió"
+data_entrada_vigor: 2025-11-13
+vigencia_nota: "L'article 5 diu que el POUPE, d'acord amb la present revisió, entra en vigor l'endemà de la publicació al BOPA i manté la vigència mentre no es revisi. La data 2025-11-13 es dedueix de la publicació del BOPA núm. 135 del 12-11-2025. Cal verificar-la amb el text íntegre, perquè podria haver-hi disposicions amb una entrada en vigor diferent. La disposició sobre la Subzona 1-1 (Clau 1-1) és provisional: exigeix un informe previ vinculant de Patrimoni cultural mentre no s'aprovi l'entorn de protecció de l'església de Sant Romà de Les Bons i la torre dels Moros."
+desenvolupa: ["and-llei-20001229-general-ordenacio-territori-urbanisme-text-re"]
+refs_externes: ["POUPE d'Encamp – Revisió any 2019 (text base) i modificacions anteriors (01, 02 i 03)", "Llei 31/2022, del 21 de juliol, per al desenvolupament i la diversificació dels sectors ramader i agrícola (disposició addicional tercera; BOPA núm. 98, 17.8.2022)", "Documents gràfics, plànols i fitxes del POUPE (annexos de la revisió 2019 i de la Modificació 04)"]
+temes: ["urbanisme-i-habitatge", "ordenacio-del-territori", "patrimoni-cultural", "llicencies-i-obres"]
+resum: "Normes urbanístiques de la Modificació 04 de la Revisió 2019 del POUPE d'Encamp, aprovada definitivament i publicada al BOPA del 12-11-2025. Regulen la classificació i qualificació del sòl, els sistemes urbanístics, els paràmetres d'edificació i d'ús, les zones i subzones (inclosos els nuclis tradicionals i les condicions de façanes, cobertes i tancats) i les llicències urbanístiques. Inclou disposicions específiques per a la Subzona 1-1, que exigeixen un informe vinculant de Patrimoni cultural."
+resum_origen: "auto"
+text_complet: false
+pagines_sense_text: [77, 78, 79, 80, 81, 87, 91, 92, 93, 94, 95, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117]
+pagines_amb_imatges: [64, 65, 66, 67, 68, 69, 70, 71, 72, 82, 83, 84, 85, 86, 90, 97, 98, 99, 100, 101, 102, 103]
+font_original: "originals/normativa-comu/ordinacions/enc-ord-20251112-normes-urbanistiques-pla-ordenacio-urbanisme-poupe.pdf"
+revisio: ["Tipus i carpeta: el POUPE és un instrument de planejament aprovat pel Comú, però la taxonomia no té cap carpeta de planejament urbanístic. S'ha triat 'ordinacio' i 'normativa-comu/ordinacions' per carácter normatiu; es podria crear una carpeta nova (p. ex. normativa-comu/planejament-urbanistic) o replantejar el tipus.", "La data d'aprovació definitiva pel Consell de Comú no consta al text rebut; cal buscar-la (acta del Consell de Comú) i completar data_aprovacio. Tampoc no consta cap número oficial.", "El text base de la Revisió 2019 i les modificacions 01-03 del POUPE no són al repositori. Cal incorporar-los i establir la relació 'modifica' / 'modificat_per', perquè aquesta modificació afecta articles concrets d'un text base.", "Si el text de la Modificació 04 és parcial (només els articles modificats), cal comprovar si l'estat 'vigent' és correcte o si cal 'modificat' un cop incorporat el text base.", "La relació 'desenvolupa' amb la Llei general d'ordenació del territori i urbanisme és deduïda (marc legal, art. 2); cal verificar-la. També caldria revisar si cal relacionar-lo amb el Reglament de construcció i les Directrius d'ordenació (Decret 177/2024).", "Conversió incompleta: 24 pàgines sense text extret (77-81, 87, 91-95, 105-117) i 22 pàgines amb imatges o gràfics no inclosos (64-72, 82-86, 90, 97-103). Es perden plànols, fitxes i possiblement contingut normatiu; cal consultar el PDF original i marcar text_complet: false.", "L'extracte final del text sembla desordenat respecte a l'estructura normal (disposicions addicionals i article de la Subzona 1-1 barrejats amb apartats p-v). Cal comprovar que l'extracció és correcta.", "Ordinació sense vigència limitada: no s'ha omplert data_fi_vigencia perquè el text només diu que dura fins a la revisió."]
+---
+
+# Normes urbanístiques del Pla d'Ordenació i Urbanisme de la Parròquia d'Encamp (POUPE) – Revisió any 2019 – Modificació 04 – Aprovació definitiva
+
 > ⚠ Pàgines del PDF sense text extret (només imatges): 77, 78, 79, 80, 81, 87, 91, 92, 93, 94, 95, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117. Consulta el PDF original.
 > ⚠ Pàgines del PDF amb imatges o gràfics que no s'han inclòs: 64, 65, 66, 67, 68, 69, 70, 71, 72, 82, 83, 84, 85, 86, 90, 97, 98, 99, 100, 101, 102, 103.
 
