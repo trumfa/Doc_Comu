@@ -1,3 +1,30 @@
+---
+id: "enc-decret-20210528-qual-s-aprova-definitivament-primera-revisio-pla"
+titol: "Decret del 28-5-2021 pel qual s'aprova definitivament la Primera revisió del Pla d'ordenació i urbanisme de la parròquia d'Encamp (POUPE – Revisió any 2019). Volum I: Memòria"
+tipus: "decret-comu"
+ambit: "comu"
+organisme: "Comú d'Encamp (Consell de Comú)"
+data_aprovacio: 2021-05-28
+data_publicacio: 2021-06-02
+referencia: "BOPA núm. 62, 02.06.2021"
+tipus_text: "oficial"
+estat: "vigent"
+estat_font: "deduït"
+entrada_vigor: "el mateix dia de la seva publicació al BOPA"
+data_entrada_vigor: 2021-06-02
+vigencia_nota: "El decret d'aprovació definitiva entra en vigor el mateix dia de la publicació al BOPA (2.6.2021). Les projeccions de població fins al 2026 de la Memòria no limiten la vigència del Pla. La Memòria diu que les referències a normes de rang superior s'entenen fetes a la que les substitueixi si perden vigència. El Pla revisa i reemplaça el POUPE del 2006, que no és al repositori. No es pot descartar que hi hagi modificacions posteriors del POUPE que no són al repositori."
+desenvolupa: ["and-llei-20001229-general-ordenacio-territori-urbanisme-text-re"]
+refs_externes: ["Pla d'ordenació i urbanisme de la parròquia d'Encamp (POUPE 2006), aprovat el 22-12-2006, i modificacions posteriors", "Decret del 22-7-2019 d'aprovació del projecte de POUPE – Revisió any 2019 i informació pública", "Decret del 24-12-2019 d'aprovació provisional del POUPE – Revisió any 2019", "Text refós de la Llei general d'ordenació del territori i urbanisme, del 12-06-2019", "Text refós del Reglament urbanístic, del 10-10-2012", "Llei 25/2004, del 14 de desembre, de residus", "Ordenació general d'urbanisme i construcció (OGUC) del 1983", "Volums II a XI del POUPE 2019 (normes urbanístiques, ordinacions de les unitats d'actuació, plànols, catàlegs, convenis urbanístics)"]
+temes: ["urbanisme-i-habitatge", "ordenacio-del-territori", "medi-ambient", "infraestructures-i-mobilitat", "patrimoni"]
+resum: "Decret del Comú d'Encamp que aprova definitivament la Primera revisió del POUPE (any 2019), amb publicació conjunta del Volum I (Memòria). La Memòria descriu l'objecte, l'àmbit territorial, els antecedents, el contingut documental, el model urbanístic, la classificació del sòl, l'estructura general del territori, les infraestructures, les previsions de creixement fins al 2026 i l'edificabilitat global. Es pot interposar recurs d'alçada davant la Comissió Tècnica d'Urbanisme."
+resum_origen: "auto"
+text_complet: true
+font_original: "originals/normativa-comu/decrets-comu/enc-decret-20210528-qual-s-aprova-definitivament-primera-revisio-pla.pdf"
+revisio: ["El fitxer només conté el Volum I (Memòria) amb el decret d'aprovació; falten els volums II a XI. Valorar si cal marcar text_complet: false i definir com s'organitzen els volums (relació conte o ids separats).", "Classificació de tipus i carpeta dubtosa: s'ha triat decret-comu i docs/normativa-comu/decrets-comu perquè el Pla s'aprova per decret del Comú, però també podria ser 'pla' o una carpeta nova (p. ex. planejament-urbanistic). Cal confirmar-ho.", "La Memòria afirma que el POUPE 2006 es va aprovar el 22/12/06 i va entrar en vigor el 21/06/06, cosa incoherent. Cal verificar les dates.", "El decret no porta número oficial. Verificar que no en tingui.", "El decret diu que el Consell de Comú va aprovar el text el 27-5-2021, mentre que el decret és del 28-5-2021. S'ha posat 2021-05-28 com a data d'aprovació; confirmar el criteri.", "Comprovar si el POUPE 2019 ha estat modificat després del 2021 (modificacions no incloses al repositori). L'estat 'vigent' no s'ha pogut contrastar.", "S'ha proposat desenvolupa cap a la LGOTU (text refós no oficial); la Memòria cita el text refós del 12-06-2019, que no és al repositori.", "Pàgines amb imatges o plànols no avaluables des del text extret."]
+---
+
+# Decret del 28-5-2021 pel qual s'aprova definitivament la Primera revisió del Pla d'ordenació i urbanisme de la parròquia d'Encamp (POUPE – Revisió any 2019). Volum I: Memòria
+
 2 de juny del 2021 Núm. 62
 
 Dipòsit legal: AND.2-2015
