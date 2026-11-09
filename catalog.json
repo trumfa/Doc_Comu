@@ -504,6 +504,52 @@
   "zona": "docs"
  },
  {
+  "id": "and-llei-2014-044-embargament-text-refos-sense-caracter-oficial",
+  "titol": "Llei 44/2014, del 18 de desembre, de l'embargament (text refós sense caràcter oficial)",
+  "tipus": "llei",
+  "ambit": "estat",
+  "organisme": "Consell General",
+  "numero": "44/2014",
+  "data_aprovacio": "2014-12-18",
+  "tipus_text": "refos-no-oficial",
+  "estat": "modificat",
+  "estat_font": "deduït",
+  "entrada_vigor": "Al cap d'un mes de ser publicada al BOPA. Les referències al saig i a l'Administració no són d'aplicació fins l'endemà de la data en què els primers saigs prenguin possessió; el Govern ha de publicar un avís al BOPA amb aquesta data. En el text refós, cada modificació té la seva pròpia entrada en vigor.",
+  "data_entrada_vigor": "2023-01-01",
+  "vigencia_nota": "Text refós no oficial: incorpora modificacions posteriors (p. ex. l'article 12 bis i l'apartat 9 de l'article 15, que no són a l'exposició de motius original, i l'article 19 sobre caducitat dels embargaments). Les normes modificadores no són al repositori. La data de publicació al BOPA no consta al text, de manera que no es pot calcular la data d'entrada en vigor. L'aplicació de les referències al saig depèn de l'avís del Govern sobre la presa de possessió dels primers saigs. L'article 19 estableix la caducitat dels embargaments als 10 anys, prorrogable per períodes de 4 anys. La disposició transitòria fa comptar els 10 anys dels embargaments anteriors des de l'entrada en vigor de la Llei.",
+  "refs_externes": [
+   "Llei del saig",
+   "Llei de modificació del Codi de l'Administració, del 29 de març de 1989 (modificació coetània)",
+   "Llei de la jurisdicció administrativa i fiscal, del 15 de novembre de 1989 (modificació coetània)",
+   "Llei 15/2003, del 18 de desembre, qualificada de protecció de dades personals (citada a la disposició final segona)",
+   "Llei o lleis que han modificat la Llei 44/2014 (introducció de l'article 12 bis i de l'article 15.9, entre d'altres)",
+   "Avís del Govern al BOPA sobre la data de presa de possessió dels primers saigs"
+  ],
+  "temes": [
+   "execucio-forcosa",
+   "procediment-administratiu",
+   "justicia",
+   "fiscalitat-i-finances",
+   "proteccio-de-dades"
+  ],
+  "resum": "Regula la pràctica de l'embargament en els procediments d'execució forçosa de resolucions judicials i d'actes administratius, duts a terme pel saig, per les administracions públiques o pels òrgans jurisdiccionals. Fixa el deure de col·laboració, els béns inembargables, l'embargament segons el tipus de bé o dret, la valoració i l'alienació (subhasta i adjudicació directa), les costes i l'aixecament, i estableix la caducitat dels embargaments als deu anys, prorrogable per períodes de quatre anys.",
+  "resum_origen": "auto",
+  "text_complet": true,
+  "font_original": "originals/legislacio/lleis/and-llei-2014-044-embargament-text-refos-sense-caracter-oficial.pdf",
+  "revisio": [
+   "No consta la data de publicació ni la referència del BOPA: cal completar-les.",
+   "Text refós sense caràcter oficial: cal localitzar el text oficial original i les lleis modificadores i, si escau, afegir-los al repositori.",
+   "L'estat 'modificat' és deduït de la presència d'articles afegits (12 bis, 15.9); cal verificar-ne les modificacions i les entrades en vigor respectives.",
+   "Cal verificar la data de presa de possessió dels primers saigs (avís del Govern al BOPA) per saber des de quan s'apliquen les referències al saig.",
+   "La disposició final segona cita la Llei 15/2003, de protecció de dades; al repositori hi ha la Llei 29/2021, qualificada de protecció de dades personals. Cal verificar si la referència s'ha actualitzat o si la Llei 15/2003 està derogada.",
+   "El text té dues disposicions transitòries amb el mateix encapçalament ('Embargaments en curs' i 'Caducitat dels embargaments'); cal verificar l'estructura del text refós.",
+   "El text extret conté el desplegable '[Mostra/Amaga]' de l'índex, residu de la conversió.",
+   "Es proposa l'id 'and-llei-2014-044-embargament'."
+  ],
+  "path": "docs/legislacio/lleis/and-llei-2014-044-embargament-text-refos-sense-caracter-oficial.md",
+  "zona": "docs"
+ },
+ {
   "id": "and-llei-2016-018-designacio-carreteres-gestio-xarxa-viaria",
   "titol": "Llei 18/2016, del 30 de novembre, de designació de carreteres i gestió de la xarxa viària",
   "tipus": "llei",

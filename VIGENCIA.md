@@ -1,6 +1,6 @@
 # Vigència
 
-_Informe generat automàticament amb data 2026-11-06 (scripts/build_index.py)._
+_Informe generat automàticament amb data 2026-11-09 (scripts/build_index.py)._
 
 ## Pendents d'entrar en vigor
 
@@ -48,6 +48,7 @@ Possiblement caducats: confirmeu-ne l'estat.
 
 ## Documents amb revisió pendent
 
+- [Llei 44/2014, del 18 de desembre, de l'embargament (text refós sense caràcter oficial)](docs/legislacio/lleis/and-llei-2014-044-embargament-text-refos-sense-caracter-oficial.md): No consta la data de publicació ni la referència del BOPA: cal completar-les. · Text refós sense caràcter oficial: cal localitzar el text oficial original i les lleis modificadores i, si escau, afegir-los al repositori. · L'estat 'modificat' és deduït de la presència d'articles afegits (12 bis, 15.9); cal verificar-ne les modificacions i les entrades en vigor respectives. · Cal verificar la data de presa de possessió dels primers saigs (avís del Govern al BOPA) per saber des de quan s'apliquen les referències al saig. · La disposició final segona cita la Llei 15/2003, de protecció de dades; al repositori hi ha la Llei 29/2021, qualificada de protecció de dades personals. Cal verificar si la referència s'ha actualitzat o si la Llei 15/2003 està derogada. · El text té dues disposicions transitòries amb el mateix encapçalament ('Embargaments en curs' i 'Caducitat dels embargaments'); cal verificar l'estructura del text refós. · El text extret conté el desplegable '[Mostra/Amaga]' de l'índex, residu de la conversió. · Es proposa l'id 'and-llei-2014-044-embargament'.
 - [Llei 18/2026, del 15 de juliol, qualificada del Codi penal](docs/legislacio/lleis/and-llei-2026-018-qualificada-codi-penal.md): Consulteu la data de publicació al BOPA per fixar les dates d'entrada en vigor (4 mesos / 6 mesos / 1 any).
 - [Acta del Consell de Comú, sessió ordinària 7/24 (30-5-2024)](docs/actes-consell/2024/enc-acta-20240530-cc-07-24.md): El nom del fitxer diu «7-27» però és la sessió 7/24 del 30-5-2024 (error al nom).
 - [Projecte d’acta del Consell de Comú, sessió ordinària 11/25 (18-12-2025)](docs/actes-consell/2025/enc-acta-20251218-cc-11-25.md): El nom diu «signada» però el text es titula «PROJECTE ACTA»: comproveu si és la versió signada.

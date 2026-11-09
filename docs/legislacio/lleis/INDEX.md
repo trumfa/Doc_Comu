@@ -1,6 +1,6 @@
 # Lleis (Consell General)
 
-_30 documents. Índex generat automàticament (scripts/build_index.py); no s'edita a mà._
+_31 documents. Índex generat automàticament (scripts/build_index.py); no s'edita a mà._
 
 | Títol | Tipus | Aprovació | Estat | Vigència | Temes |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@ _30 documents. Índex generat automàticament (scripts/build_index.py); no s'edi
 | [Llei 25/2018, del 18 d'octubre, de modificació de la Llei 32/2017, del 20 de desembre, de col·laboració entre l'Administració general i els comuns, i entre els comuns](and-llei-2018-025-2017-col-laboracio-entre-administracio-general-com.md) | llei | 2018-10-18 | vigent | l'endemà de la publicació al BOPA | organitzacio-i-govern-comunal |
 | [Llei 32/2017, del 20 de desembre, de col·laboració entre l'Administració general i els comuns, i entre els comuns (text refós)](and-llei-2017-032-col-laboracio-entre-administracio-general-comuns-e-2.md) | llei | 2017-12-20 | vigent, modificat | Text refós: cada modificació té la seva pròpia entrada en vigor. | organitzacio-i-govern-comunal |
 | [Llei 18/2016, del 30 de novembre, de designació de carreteres i gestió de la xarxa viària](and-llei-2016-018-designacio-carreteres-gestio-xarxa-viaria.md) | llei | 2016-11-30 | vigent | l'endemà de la publicació al BOPA | mobilitat-i-circulacio |
+| [Llei 44/2014, del 18 de desembre, de l'embargament (text refós sense caràcter oficial)](and-llei-2014-044-embargament-text-refos-sense-caracter-oficial.md) | llei | 2014-12-18 | vigent, modificat · ⚠ revisar | des de 2023-01-01 | execucio-forcosa, procediment-administratiu, justicia, fiscalitat-i-finances, proteccio-de-dades |
 | [Llei 35/2014, del 27 de novembre, de certificació i confiança electrònica](and-llei-2014-035-certificacio-confianca-electronica.md) | llei | 2014-11-27 | vigent | als 3 mesos de la publicació al BOPA | dades-i-seguretat-informacio |
 | [Llei 32/2014, del 27 de novembre, de sostenibilitat de les finances públiques i d'estabilitat pressupostària i fiscal](and-llei-2014-032-sostenibilitat-finances-publiques-estabilitat-pres.md) | llei | 2014-11-27 | vigent | l'endemà de la publicació al BOPA | pressupost, fiscalitat-i-finances |
 | [Llei 21/2014, del 16 d'octubre, de bases de l'ordenament tributari](and-llei-2014-021-bases-ordenament-tributari.md) | llei | 2014-10-16 | vigent | des de 2015-01-01 | fiscalitat-i-finances |
