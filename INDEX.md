@@ -3,7 +3,7 @@
 Normativa (lleis, ordinacions, reglaments, decrets), actes, polítiques internes i informació de funcionament, en Markdown i amb metadades.
 **Agents: llegiu primer [AGENTS.md](AGENTS.md).**
 
-_Índex generat automàticament el 2026-11-09. 195 documents a la zona de consulta i 11 a l'arxiu._
+_Índex generat automàticament el 2026-11-11. 192 documents a la zona de consulta i 11 a l'arxiu._
 
 ## Zona de consulta (`docs/`)
 
@@ -12,11 +12,11 @@ _Índex generat automàticament el 2026-11-09. 195 documents a la zona de consul
   - [2025](docs/actes-consell/2025/INDEX.md) — 11 documents
   - [2026](docs/actes-consell/2026/INDEX.md) — 9 documents
 - [Informació de funcionament](docs/funcionament/INDEX.md) — 6 documents
-- [Legislació (Andorra i internacional)](docs/legislacio/INDEX.md) — 58 documents
+- [Legislació (Andorra i internacional)](docs/legislacio/INDEX.md) — 55 documents
   - [Constitució](docs/legislacio/constitucio/INDEX.md) — 1 documents
   - [Convenis internacionals](docs/legislacio/convenis-internacionals/INDEX.md) — 2 documents
   - [Lleis (Consell General)](docs/legislacio/lleis/INDEX.md) — 31 documents
-  - [Decrets i reglaments del Govern](docs/legislacio/reglaments-govern/INDEX.md) — 24 documents
+  - [Decrets i reglaments del Govern](docs/legislacio/reglaments-govern/INDEX.md) — 21 documents
 - [Normativa del Comú d'Encamp](docs/normativa-comu/INDEX.md) — 88 documents
   - [Decrets del Comú](docs/normativa-comu/decrets-comu/INDEX.md) — 23 documents
   - [Edictes, avisos i correccions](docs/normativa-comu/edictes-i-avisos/INDEX.md) — 3 documents
@@ -43,8 +43,8 @@ _Índex generat automàticament el 2026-11-09. 195 documents a la zona de consul
 | llei | 31 |
 | decret-comu | 23 |
 | reglament-comu | 21 |
-| decret-govern | 12 |
-| reglament-govern | 12 |
+| decret-govern | 11 |
+| reglament-govern | 10 |
 | politica | 8 |
 | manual | 2 |
 | pla | 2 |
