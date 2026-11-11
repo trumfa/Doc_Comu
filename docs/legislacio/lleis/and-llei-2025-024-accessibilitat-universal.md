@@ -10,6 +10,7 @@ tipus_text: "oficial"
 estat: "vigent"
 estat_font: "deduït"
 entrada_vigor: "l'endemà de la publicació al BOPA"
+desenvolupat_per: ["and-decret-20261104-construccio"]
 temes: ["accessibilitat", "dret-general"]
 text_complet: true
 font_original: "originals/legislacio/lleis/and-llei-2025-024-accessibilitat-universal.pdf"

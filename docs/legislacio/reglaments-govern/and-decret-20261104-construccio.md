@@ -1,3 +1,32 @@
+---
+id: "and-decret-20261104-construccio"
+titol: "Decret 449/2026, del 4-11-2026, d'aprovació del Reglament de construcció"
+tipus: "decret-govern"
+ambit: "govern"
+organisme: "Govern d'Andorra"
+numero: "449/2026"
+data_aprovacio: 2026-11-04
+data_publicacio: 2026-11-11
+referencia: "BOPA núm. 128, 11.11.2026"
+tipus_text: "oficial"
+estat: "vigent"
+estat_font: "deduït"
+entrada_vigor: "l'endemà de ser publicat al Butlletí Oficial del Principat d'Andorra"
+data_entrada_vigor: 2026-11-12
+vigencia_nota: "Aprova un text refós del Reglament de construcció que integra el Reglament i totes les modificacions anteriors, amb numeració d'articles nova. La disposició final fixa l'entrada en vigor l'endemà de la publicació al BOPA (publicat l'11.11.2026, per tant 12.11.2026). Les disposicions transitòries primera i segona i la derogatòria només es veuen com a títols a l'índex; cal llegir-ne el contingut per confirmar si hi ha aplaçaments parcials i quines normes deroga."
+desenvolupa: ["and-llei-20001229-general-ordenacio-territori-urbanisme-text-re", "and-llei-2025-014-general-ordenacio-territori-urbanisme-2000", "and-llei-2025-024-accessibilitat-universal"]
+refs_externes: ["Decret 181/2021, del 26-5-2021, de modificació del Reglament de construcció", "Correcció d'errata, del 30-9-2020, del Decret d'aprovació del Reglament de construcció", "Decret 300/2021, del 22-9-2021, de modificació del Reglament de construcció", "Decret 407/2021, del 9-12-2021, de modificació del Reglament de construcció", "Llei 6/2025, del 3 d'abril, de modificació de la Llei general d'ordenació del territori i urbanisme", "Llei 25/2022, del 30 de juny, d'economia circular", "Llei 15/2021, del 17 de juny, de creació de l'Institut Nacional de l'Habitatge", "Decret de modificació de les Directrius d'ordenació (BOPA núm. 39, 22.06.2018)", "Llei del patrimoni cultural", "Reglament d'accessibilitat (citat a l'annex)"]
+temes: ["urbanisme-i-habitatge", "construccio", "llicencies-urbanistiques", "accessibilitat", "habitabilitat", "patrimoni-cultural", "medi-ambient-i-economia-circular", "sol-no-urbanitzable"]
+resum: "Decret del Govern que aprova el text refós del Reglament de construcció. Regula els paràmetres d'ordenació de l'edificació, el règim d'usos, les condicions de construcció i d'habitabilitat, i el procediment de les llicències urbanístiques i la informació urbanística. Adapta el Reglament a les lleis 6/2025, 14/2025, 24/2025 (accessibilitat universal) i 25/2022 (economia circular), i al Registre informàtic de cèdules i certificats d'habitabilitat (RICCH)."
+resum_origen: "auto"
+text_complet: true
+pagines_amb_imatges: [83]
+font_original: "originals/legislacio/reglaments-govern/and-decret-20261104-construccio.pdf"
+revisio: ["El convertidor avisa que la pàgina 83 del PDF té imatges o gràfics que no s'han inclòs. Cal revisar-la a l'original.", "El text és molt llarg (316.803 caràcters). L'extracte només mostra l'índex i els annexos, així que cal llegir les disposicions transitòries primera i segona i la derogatòria per confirmar els efectes.", "Les relacions de substitució són deduïdes de l'exposició de motius (text refós). Cal confirmar a la disposició derogatòria que deroga el Reglament de 2020 i les seves modificacions. Si és així, aquests documents han de passar a arxiu/ amb estat substituït i substituit_per aquest id.", "and-reglament-20220119-construccio s'ha identificat amb el Decret 29/2022 del 19-1-2022 només pel nom i la data. Cal verificar-ho.", "Falten al repositori els decrets 181/2021, 300/2021 i 407/2021 i la correcció d'errata del 30-9-2020. També hi falten les lleis 6/2025, 25/2022 i 15/2021.", "La numeració dels articles ha canviat amb el refós. Cal revisar les remissions a articles del Reglament en altres documents del repositori (p. ex. les normes del POUPE i el manual de bones pràctiques en edificació).", "La data d'entrada en vigor (12.11.2026) es dedueix de la data de publicació del capçalera del BOPA (11.11.2026). Cal confirmar la data de publicació.", "L'estat és «vigent» suposant que ja ha passat el 12.11.2026. Si el document es processa abans d'aquesta data, cal posar-lo com a pendent_entrada_vigor."]
+---
+
+# Decret 449/2026, del 4-11-2026, d'aprovació del Reglament de construcció
+
 > ⚠ Pàgines del PDF amb imatges o gràfics que no s'han inclòs: 83.
 
 11 de novembre del 2026 Núm. 128

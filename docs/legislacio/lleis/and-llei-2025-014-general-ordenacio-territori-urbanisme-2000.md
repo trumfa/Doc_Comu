@@ -14,6 +14,7 @@ estat_font: "deduït"
 entrada_vigor: "l'endemà de la publicació al BOPA"
 data_entrada_vigor: 2025-08-14
 modifica: ["and-llei-20001229-general-ordenacio-territori-urbanisme-text-re"]
+desenvolupat_per: ["and-decret-20261104-construccio"]
 temes: ["urbanisme-i-habitatge"]
 text_complet: true
 font_original: "originals/legislacio/lleis/and-llei-2025-014-general-ordenacio-territori-urbanisme-2000.pdf"

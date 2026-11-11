@@ -10,7 +10,7 @@ estat: "modificat"
 estat_font: "deduït"
 entrada_vigor: "Text refós: cada modificació té la seva pròpia entrada en vigor."
 modificat_per: ["and-llei-2025-014-general-ordenacio-territori-urbanisme-2000"]
-desenvolupat_per: ["and-reglament-20200513-construccio", "enc-ord-20251112-normes-urbanistiques-pla-ordenacio-urbanisme-poupe", "enc-decret-20210528-qual-s-aprova-definitivament-primera-revisio-pla"]
+desenvolupat_per: ["enc-ord-20251112-normes-urbanistiques-pla-ordenacio-urbanisme-poupe", "enc-decret-20210528-qual-s-aprova-definitivament-primera-revisio-pla", "and-decret-20261104-construccio"]
 temes: ["urbanisme-i-habitatge"]
 text_complet: true
 font_original: "originals/legislacio/lleis/and-llei-20001229-general-ordenacio-territori-urbanisme-text-re.pdf"
